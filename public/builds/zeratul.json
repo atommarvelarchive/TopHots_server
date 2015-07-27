@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "53",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "77.4 %"
+    },
+    {
+        "gamesPlayed": "106",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "Cleave deals an additional 50% damage over 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RendingCleave.png",
+                "lvl": 16,
+                "name": "Rending Cleave"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "76.4 %"
+    },
+    {
+        "gamesPlayed": "414",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "After you cast Singularity Spike, you can cast a second one for free within 3 seconds for 50% normal damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBombs.png",
+                "lvl": 16,
+                "name": "Double Bombs"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "73.2 %"
+    },
+    {
+        "gamesPlayed": "698",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "After you cast Singularity Spike, you can cast a second one for free within 3 seconds for 50% normal damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBombs.png",
+                "lvl": 16,
+                "name": "Double Bombs"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "73.1 %"
+    },
+    {
+        "gamesPlayed": "92",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "Cleave deals an additional 50% damage over 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RendingCleave.png",
+                "lvl": 16,
+                "name": "Rending Cleave"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "70.7 %"
+    },
+    {
+        "gamesPlayed": "55",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "65.5 %"
+    },
+    {
+        "gamesPlayed": "99",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "Cleave deals an additional 50% damage over 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RendingCleave.png",
+                "lvl": 16,
+                "name": "Rending Cleave"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "64.7 %"
+    },
+    {
+        "gamesPlayed": "45",
+        "talents": [
+            {
+                "desc": "Reduces the cooldown of Blink by 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RapidDisplacement.png",
+                "lvl": 1,
+                "name": "Rapid Displacement"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "After you cast Singularity Spike, you can cast a second one for free within 3 seconds for 50% normal damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBombs.png",
+                "lvl": 16,
+                "name": "Double Bombs"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "64.4 %"
+    },
+    {
+        "gamesPlayed": "210",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "After you cast Singularity Spike, you can cast a second one for free within 3 seconds for 50% normal damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBombs.png",
+                "lvl": 16,
+                "name": "Double Bombs"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "64.3 %"
+    },
+    {
+        "gamesPlayed": "203",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Slows time in an area to a near standstill, making allies and enemies invulnerable and unable to act for 5 seconds. You are not affected.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VoidPrison.png",
+                "lvl": 10,
+                "name": "Void Prison"
+            },
+            {
+                "desc": "For 3 seconds, you can activate Blink again to return to the point where it was cast from.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Wormhole.png",
+                "lvl": 13,
+                "name": "Wormhole"
+            },
+            {
+                "desc": "After you cast Singularity Spike, you can cast a second one for free within 3 seconds for 50% normal damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBombs.png",
+                "lvl": 16,
+                "name": "Double Bombs"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "59.6 %"
+    }
+]

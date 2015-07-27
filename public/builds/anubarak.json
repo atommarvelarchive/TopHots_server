@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "14",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "92.9 %"
+    },
+    {
+        "gamesPlayed": "10",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
+                "lvl": 16,
+                "name": "Imposing Presence"
+            },
+            {
+                "desc": "Anub'arak gains a permanent Vampire Locust that attacks a nearby enemy every 3 seconds. The Vampire Locust deals 16 (+16 per level) damage and returns to heal Anub'arak for 20 (+3 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HiveMaster.png",
+                "lvl": 20,
+                "name": "Hive Master"
+            }
+        ],
+        "winPercent": "90.0 %"
+    },
+    {
+        "gamesPlayed": "30",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Anub'arak gains a permanent Vampire Locust that attacks a nearby enemy every 3 seconds. The Vampire Locust deals 16 (+16 per level) damage and returns to heal Anub'arak for 20 (+3 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HiveMaster.png",
+                "lvl": 20,
+                "name": "Hive Master"
+            }
+        ],
+        "winPercent": "76.7 %"
+    },
+    {
+        "gamesPlayed": "43",
+        "talents": [
+            {
+                "desc": "Increases the attack damage of spawned Beetles by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AssaultScarab.png",
+                "lvl": 1,
+                "name": "Assault Scarab"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Anub'arak gains a permanent Vampire Locust that attacks a nearby enemy every 3 seconds. The Vampire Locust deals 16 (+16 per level) damage and returns to heal Anub'arak for 20 (+3 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HiveMaster.png",
+                "lvl": 20,
+                "name": "Hive Master"
+            }
+        ],
+        "winPercent": "74.4 %"
+    },
+    {
+        "gamesPlayed": "31",
+        "talents": [
+            {
+                "desc": "Increases the attack damage of spawned Beetles by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AssaultScarab.png",
+                "lvl": 1,
+                "name": "Assault Scarab"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "64.5 %"
+    },
+    {
+        "gamesPlayed": "20",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Casting Harden Carapace will also deal 50 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UrticatingSpines.png",
+                "lvl": 7,
+                "name": "Urticating Spines"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Anub'arak gains a permanent Vampire Locust that attacks a nearby enemy every 3 seconds. The Vampire Locust deals 16 (+16 per level) damage and returns to heal Anub'arak for 20 (+3 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HiveMaster.png",
+                "lvl": 20,
+                "name": "Hive Master"
+            }
+        ],
+        "winPercent": "60.0 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Casting Harden Carapace will also deal 50 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UrticatingSpines.png",
+                "lvl": 7,
+                "name": "Urticating Spines"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "59.1 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "Increases the attack damage of spawned Beetles by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AssaultScarab.png",
+                "lvl": 1,
+                "name": "Assault Scarab"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
+                "lvl": 16,
+                "name": "Imposing Presence"
+            },
+            {
+                "desc": "Anub'arak gains a permanent Vampire Locust that attacks a nearby enemy every 3 seconds. The Vampire Locust deals 16 (+16 per level) damage and returns to heal Anub'arak for 20 (+3 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HiveMaster.png",
+                "lvl": 20,
+                "name": "Hive Master"
+            }
+        ],
+        "winPercent": "58.3 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Increases the attack damage of spawned Beetles by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AssaultScarab.png",
+                "lvl": 1,
+                "name": "Assault Scarab"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Wraps target enemy Hero in a cocoon for 8 seconds. Enemies wrapped in the cocoon are unable to act and untargetable. Allies of the Hero can attack the cocoon to break it and free them early.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WebBlast.png",
+                "lvl": 10,
+                "name": "Web Blast"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "53.3 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "Increases the attack damage of spawned Beetles by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AssaultScarab.png",
+                "lvl": 1,
+                "name": "Assault Scarab"
+            },
+            {
+                "desc": "Anub'arak automatically spawns Beetles every 8 seconds.  Can be toggled on and off.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LegionofBeetles.png",
+                "lvl": 4,
+                "name": "Legion of Beetles"
+            },
+            {
+                "desc": "Beetles heal Anub'arak for 50% of their damage with each attack if he is nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeechingScarabs.png",
+                "lvl": 7,
+                "name": "Leeching Scarabs"
+            },
+            {
+                "desc": "Duration: 8 seconds\nDeal 16 (+6.4 per level) damage per second in an area around Anub'arak. Each enemy damaged heals Anub'arak for 10 (+1.5 per level) health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustSwarm.png",
+                "lvl": 10,
+                "name": "Locust Swarm"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "50.0 %"
+    }
+]

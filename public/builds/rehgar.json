@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "20",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralHeart.png",
+                "lvl": 4,
+                "name": "Feral Heart"
+            },
+            {
+                "desc": "Activate to reveal an area for 10 seconds.  Enemies in the area are revealed for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Farsight.png",
+                "lvl": 7,
+                "name": "Farsight"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "75.0 %"
+    },
+    {
+        "gamesPlayed": "132",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralHeart.png",
+                "lvl": 4,
+                "name": "Feral Heart"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "73.5 %"
+    },
+    {
+        "gamesPlayed": "18",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralHeart.png",
+                "lvl": 4,
+                "name": "Feral Heart"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "While in Ghost Wolf, you lunge a short distance towards your attack target. The damage bonus for Basic Attacks in Ghost Wolf is increased from 100% to 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralLunge.png",
+                "lvl": 13,
+                "name": "Feral Lunge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "72.2 %"
+    },
+    {
+        "gamesPlayed": "39",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "When entering Ghost Wolf, you are Stealthed for 4.125 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowWolf.png",
+                "lvl": 4,
+                "name": "Shadow Wolf"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "69.2 %"
+    },
+    {
+        "gamesPlayed": "117",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralHeart.png",
+                "lvl": 4,
+                "name": "Feral Heart"
+            },
+            {
+                "desc": "Lightning Shield also gives the ally a Shield that absorbs 75 damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EarthShield.png",
+                "lvl": 7,
+                "name": "Earth Shield"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "67.5 %"
+    },
+    {
+        "gamesPlayed": "51",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralHeart.png",
+                "lvl": 4,
+                "name": "Feral Heart"
+            },
+            {
+                "desc": "Lightning Shield also gives the ally a Shield that absorbs 75 damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EarthShield.png",
+                "lvl": 7,
+                "name": "Earth Shield"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "64.7 %"
+    },
+    {
+        "gamesPlayed": "20",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "When entering Ghost Wolf, you are Stealthed for 4.125 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowWolf.png",
+                "lvl": 4,
+                "name": "Shadow Wolf"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "60.0 %"
+    },
+    {
+        "gamesPlayed": "173",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralHeart.png",
+                "lvl": 4,
+                "name": "Feral Heart"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "59.5 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Increases Health and Mana Regeneration by 75% while in Ghost Wolf form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralHeart.png",
+                "lvl": 4,
+                "name": "Feral Heart"
+            },
+            {
+                "desc": "Lightning Shield also gives the ally a Shield that absorbs 75 damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EarthShield.png",
+                "lvl": 7,
+                "name": "Earth Shield"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "While in Ghost Wolf, you lunge a short distance towards your attack target. The damage bonus for Basic Attacks in Ghost Wolf is increased from 100% to 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FeralLunge.png",
+                "lvl": 13,
+                "name": "Feral Lunge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "54.6 %"
+    },
+    {
+        "gamesPlayed": "25",
+        "talents": [
+            {
+                "desc": "Reduces Chain Heal's Mana cost from 70 to 45.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiritwalkersGrace.png",
+                "lvl": 1,
+                "name": "Spiritwalker's Grace"
+            },
+            {
+                "desc": "Chain Heals on allies with Lightning Shield active are increased by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChainReaction.png",
+                "lvl": 4,
+                "name": "Chain Reaction"
+            },
+            {
+                "desc": "Lightning Shield also gives the ally a Shield that absorbs 75 damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EarthShield.png",
+                "lvl": 7,
+                "name": "Earth Shield"
+            },
+            {
+                "desc": "After a short delay, heals target allied Hero for 600 (+140 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AncestralHealing.png",
+                "lvl": 10,
+                "name": "Ancestral Healing"
+            },
+            {
+                "desc": "Increases Chain Heal's healing on the primary target by 25% and heal an additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HealingSurge.png",
+                "lvl": 13,
+                "name": "Healing Surge"
+            },
+            {
+                "desc": "Reduces Chain Heal's cooldown by 3 seconds if it heals 3 Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TidalWaves.png",
+                "lvl": 16,
+                "name": "Tidal Waves"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "48.0 %"
+    }
+]

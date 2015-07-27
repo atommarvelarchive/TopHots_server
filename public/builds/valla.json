@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "17",
+        "talents": [
+            {
+                "desc": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningArrow.png",
+                "lvl": 1,
+                "name": "Siphoning Arrow"
+            },
+            {
+                "desc": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuncturingArrow.png",
+                "lvl": 4,
+                "name": "Puncturing Arrow"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Vault gains an additional charge, allowing it to be cast twice in quick succession.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tumble.png",
+                "lvl": 16,
+                "name": "Tumble"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "82.4 %"
+    },
+    {
+        "gamesPlayed": "38",
+        "talents": [
+            {
+                "desc": "Increases the range of Multishot by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompositeArrows.png",
+                "lvl": 1,
+                "name": "Composite Arrows"
+            },
+            {
+                "desc": "Multishot also fires 3 grenades, which deal 35 (+7.5 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Arsenal.png",
+                "lvl": 4,
+                "name": "Arsenal"
+            },
+            {
+                "desc": "Activate to increase Basic Attack damage by 50% for 5 seconds. Each attack costs 15 Mana.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SearingAttacks.png",
+                "lvl": 7,
+                "name": "Searing Attacks"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Multishot also slows by 40% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostShot.png",
+                "lvl": 13,
+                "name": "Frost Shot"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Strafe also fires penetrating bolts in a line for 7.5 (+3.375 per level) damage every 0.25 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Vengeance.png",
+                "lvl": 20,
+                "name": "Vengeance"
+            }
+        ],
+        "winPercent": "81.6 %"
+    },
+    {
+        "gamesPlayed": "19",
+        "talents": [
+            {
+                "desc": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningArrow.png",
+                "lvl": 1,
+                "name": "Siphoning Arrow"
+            },
+            {
+                "desc": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuncturingArrow.png",
+                "lvl": 4,
+                "name": "Puncturing Arrow"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Strafe also fires penetrating bolts in a line for 7.5 (+3.375 per level) damage every 0.25 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Vengeance.png",
+                "lvl": 20,
+                "name": "Vengeance"
+            }
+        ],
+        "winPercent": "73.7 %"
+    },
+    {
+        "gamesPlayed": "24",
+        "talents": [
+            {
+                "desc": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningArrow.png",
+                "lvl": 1,
+                "name": "Siphoning Arrow"
+            },
+            {
+                "desc": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuncturingArrow.png",
+                "lvl": 4,
+                "name": "Puncturing Arrow"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Multishot also slows by 40% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostShot.png",
+                "lvl": 13,
+                "name": "Frost Shot"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "70.8 %"
+    },
+    {
+        "gamesPlayed": "102",
+        "talents": [
+            {
+                "desc": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningArrow.png",
+                "lvl": 1,
+                "name": "Siphoning Arrow"
+            },
+            {
+                "desc": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuncturingArrow.png",
+                "lvl": 4,
+                "name": "Puncturing Arrow"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "67.7 %"
+    },
+    {
+        "gamesPlayed": "37",
+        "talents": [
+            {
+                "desc": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningArrow.png",
+                "lvl": 1,
+                "name": "Siphoning Arrow"
+            },
+            {
+                "desc": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuncturingArrow.png",
+                "lvl": 4,
+                "name": "Puncturing Arrow"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Vault gains an additional charge, allowing it to be cast twice in quick succession.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tumble.png",
+                "lvl": 16,
+                "name": "Tumble"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "67.6 %"
+    },
+    {
+        "gamesPlayed": "25",
+        "talents": [
+            {
+                "desc": "Increases the range of Multishot by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompositeArrows.png",
+                "lvl": 1,
+                "name": "Composite Arrows"
+            },
+            {
+                "desc": "Multishot also fires 3 grenades, which deal 35 (+7.5 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Arsenal.png",
+                "lvl": 4,
+                "name": "Arsenal"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Multishot also slows by 40% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostShot.png",
+                "lvl": 13,
+                "name": "Frost Shot"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "64.0 %"
+    },
+    {
+        "gamesPlayed": "19",
+        "talents": [
+            {
+                "desc": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningArrow.png",
+                "lvl": 1,
+                "name": "Siphoning Arrow"
+            },
+            {
+                "desc": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuncturingArrow.png",
+                "lvl": 4,
+                "name": "Puncturing Arrow"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Launch 2 waves of Shadow Beasts that deal 100 (+23 per level) damage to enemies within the target area, stunning for 0.5 seconds per wave.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RainofVengeance.png",
+                "lvl": 10,
+                "name": "Rain of Vengeance"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "63.2 %"
+    },
+    {
+        "gamesPlayed": "30",
+        "talents": [
+            {
+                "desc": "50% of the damage dealt by Hungering Arrow is returned as Health to Valla.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SiphoningArrow.png",
+                "lvl": 1,
+                "name": "Siphoning Arrow"
+            },
+            {
+                "desc": "Hungering Arrow range increased by 25% and the number of times it can bounce to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PuncturingArrow.png",
+                "lvl": 4,
+                "name": "Puncturing Arrow"
+            },
+            {
+                "desc": "The cooldown for Hungering Arrow is reset when Vault is used.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RepeatingArrow.png",
+                "lvl": 7,
+                "name": "Repeating Arrow"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "56.7 %"
+    },
+    {
+        "gamesPlayed": "51",
+        "talents": [
+            {
+                "desc": "Increases the range of Multishot by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompositeArrows.png",
+                "lvl": 1,
+                "name": "Composite Arrows"
+            },
+            {
+                "desc": "Multishot also fires 3 grenades, which deal 35 (+7.5 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Arsenal.png",
+                "lvl": 4,
+                "name": "Arsenal"
+            },
+            {
+                "desc": "Activate to increase Basic Attack damage by 50% for 5 seconds. Each attack costs 15 Mana.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SearingAttacks.png",
+                "lvl": 7,
+                "name": "Searing Attacks"
+            },
+            {
+                "desc": "Rapidly attack nearby visible enemies for 15 (+6.75 per level) damage per hit, prioritizing heroes over minions. Valla is able to move and use Vault while strafing. Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Strafe.png",
+                "lvl": 10,
+                "name": "Strafe"
+            },
+            {
+                "desc": "Multishot also slows by 40% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostShot.png",
+                "lvl": 13,
+                "name": "Frost Shot"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "49.0 %"
+    }
+]

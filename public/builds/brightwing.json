@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "4",
+        "talents": [
+            {
+                "desc": "Increases Soothing Mist's range by 33.3%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnfurlingSpray.png",
+                "lvl": 1,
+                "name": "Unfurling Spray"
+            },
+            {
+                "desc": "When Soothing Mist heals an ally with Pixie Dust on them, they heal for an additional 30 (+10 per level) over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManicPixie.png",
+                "lvl": 4,
+                "name": "Manic Pixie"
+            },
+            {
+                "desc": "Reduces the cooldown of Soothing Mist by 1 second every time you cast a Basic Ability.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Mistified.png",
+                "lvl": 7,
+                "name": "Mistified"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now reduces Ability damage taken by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShieldDust.png",
+                "lvl": 13,
+                "name": "Shield Dust"
+            },
+            {
+                "desc": "Pixie Dust bounces to another nearby ally upon impact.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BouncyDust.png",
+                "lvl": 16,
+                "name": "Bouncy Dust"
+            },
+            {
+                "desc": "Healing another Hero with Soothing Mist increases their healing received from Soothing Mist by 25% for 6 seconds. Stacks 3 times.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevitalizingMist.png",
+                "lvl": 20,
+                "name": "Revitalizing Mist"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Increases Soothing Mist's range by 33.3%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnfurlingSpray.png",
+                "lvl": 1,
+                "name": "Unfurling Spray"
+            },
+            {
+                "desc": "When Soothing Mist heals an ally with Pixie Dust on them, they heal for an additional 30 (+10 per level) over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManicPixie.png",
+                "lvl": 4,
+                "name": "Manic Pixie"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now reduces Ability damage taken by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShieldDust.png",
+                "lvl": 13,
+                "name": "Shield Dust"
+            },
+            {
+                "desc": "Pixie Dust bounces to another nearby ally upon impact.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BouncyDust.png",
+                "lvl": 16,
+                "name": "Bouncy Dust"
+            },
+            {
+                "desc": "Healing another Hero with Soothing Mist increases their healing received from Soothing Mist by 25% for 6 seconds. Stacks 3 times.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevitalizingMist.png",
+                "lvl": 20,
+                "name": "Revitalizing Mist"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "2",
+        "talents": [
+            {
+                "desc": "Every time you heal a Hero with Soothing Mist, reduce the cooldown of Phase Shift by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperShift.png",
+                "lvl": 1,
+                "name": "Hyper Shift"
+            },
+            {
+                "desc": "Phase Shifting to an ally grants vision and reveals cloakers in a large area for 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Peekaboo.png",
+                "lvl": 4,
+                "name": "Peekaboo!"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now reduces Ability damage taken by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShieldDust.png",
+                "lvl": 13,
+                "name": "Shield Dust"
+            },
+            {
+                "desc": "Polymorph causes targets to take 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Critterize.png",
+                "lvl": 16,
+                "name": "Critterize"
+            },
+            {
+                "desc": "Blink Heal can be cast a second time on a different target within 2 seconds without consuming a charge.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleWyrmhole.png",
+                "lvl": 20,
+                "name": "Double Wyrmhole"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Every time you heal a Hero with Soothing Mist, reduce the cooldown of Phase Shift by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperShift.png",
+                "lvl": 1,
+                "name": "Hyper Shift"
+            },
+            {
+                "desc": "Phase Shifting to an ally grants vision and reveals cloakers in a large area for 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Peekaboo.png",
+                "lvl": 4,
+                "name": "Peekaboo!"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now gives 50% bonus Move Speed, decaying to 20% over 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PixieBoost.png",
+                "lvl": 13,
+                "name": "Pixie Boost"
+            },
+            {
+                "desc": "Polymorph causes targets to take 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Critterize.png",
+                "lvl": 16,
+                "name": "Critterize"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "7",
+        "talents": [
+            {
+                "desc": "Every time you heal a Hero with Soothing Mist, reduce the cooldown of Phase Shift by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperShift.png",
+                "lvl": 1,
+                "name": "Hyper Shift"
+            },
+            {
+                "desc": "Phase Shifting to an ally grants vision and reveals cloakers in a large area for 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Peekaboo.png",
+                "lvl": 4,
+                "name": "Peekaboo!"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now reduces Ability damage taken by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShieldDust.png",
+                "lvl": 13,
+                "name": "Shield Dust"
+            },
+            {
+                "desc": "Pixie Dust bounces to another nearby ally upon impact.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BouncyDust.png",
+                "lvl": 16,
+                "name": "Bouncy Dust"
+            },
+            {
+                "desc": "Blink Heal can be cast a second time on a different target within 2 seconds without consuming a charge.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleWyrmhole.png",
+                "lvl": 20,
+                "name": "Double Wyrmhole"
+            }
+        ],
+        "winPercent": "85.7 %"
+    },
+    {
+        "gamesPlayed": "7",
+        "talents": [
+            {
+                "desc": "Every time you heal a Hero with Soothing Mist, reduce the cooldown of Phase Shift by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperShift.png",
+                "lvl": 1,
+                "name": "Hyper Shift"
+            },
+            {
+                "desc": "When Soothing Mist heals an ally with Pixie Dust on them, they heal for an additional 30 (+10 per level) over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManicPixie.png",
+                "lvl": 4,
+                "name": "Manic Pixie"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now reduces Ability damage taken by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShieldDust.png",
+                "lvl": 13,
+                "name": "Shield Dust"
+            },
+            {
+                "desc": "Pixie Dust bounces to another nearby ally upon impact.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BouncyDust.png",
+                "lvl": 16,
+                "name": "Bouncy Dust"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "57.1 %"
+    },
+    {
+        "gamesPlayed": "2",
+        "talents": [
+            {
+                "desc": "Every time you heal a Hero with Soothing Mist, reduce the cooldown of Phase Shift by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperShift.png",
+                "lvl": 1,
+                "name": "Hyper Shift"
+            },
+            {
+                "desc": "When Soothing Mist heals an ally with Pixie Dust on them, they heal for an additional 30 (+10 per level) over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManicPixie.png",
+                "lvl": 4,
+                "name": "Manic Pixie"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now reduces Ability damage taken by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShieldDust.png",
+                "lvl": 13,
+                "name": "Shield Dust"
+            },
+            {
+                "desc": "Pixie Dust bounces to another nearby ally upon impact.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BouncyDust.png",
+                "lvl": 16,
+                "name": "Bouncy Dust"
+            },
+            {
+                "desc": "Blink Heal can be cast a second time on a different target within 2 seconds without consuming a charge.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleWyrmhole.png",
+                "lvl": 20,
+                "name": "Double Wyrmhole"
+            }
+        ],
+        "winPercent": "50.0 %"
+    },
+    {
+        "gamesPlayed": "9",
+        "talents": [
+            {
+                "desc": "Every time you heal a Hero with Soothing Mist, reduce the cooldown of Phase Shift by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperShift.png",
+                "lvl": 1,
+                "name": "Hyper Shift"
+            },
+            {
+                "desc": "Phase Shifting to an ally grants vision and reveals cloakers in a large area for 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Peekaboo.png",
+                "lvl": 4,
+                "name": "Peekaboo!"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Pixie Dust now reduces Ability damage taken by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShieldDust.png",
+                "lvl": 13,
+                "name": "Shield Dust"
+            },
+            {
+                "desc": "Pixie Dust bounces to another nearby ally upon impact.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BouncyDust.png",
+                "lvl": 16,
+                "name": "Bouncy Dust"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "44.4 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Every time you heal a Hero with Soothing Mist, reduce the cooldown of Phase Shift by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperShift.png",
+                "lvl": 1,
+                "name": "Hyper Shift"
+            },
+            {
+                "desc": "Phase Shifting to an ally grants vision and reveals cloakers in a large area for 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Peekaboo.png",
+                "lvl": 4,
+                "name": "Peekaboo!"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Targets are slowed by 40% Movement Speed for 2 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StickyFlare.png",
+                "lvl": 13,
+                "name": "Sticky Flare"
+            },
+            {
+                "desc": "Polymorph causes targets to take 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Critterize.png",
+                "lvl": 16,
+                "name": "Critterize"
+            },
+            {
+                "desc": "Healing another Hero with Soothing Mist increases their healing received from Soothing Mist by 25% for 6 seconds. Stacks 3 times.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevitalizingMist.png",
+                "lvl": 20,
+                "name": "Revitalizing Mist"
+            }
+        ],
+        "winPercent": "0.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 20 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bribe.png",
+                "lvl": 1,
+                "name": "Bribe"
+            },
+            {
+                "desc": "When Soothing Mist heals an ally with Pixie Dust on them, they heal for an additional 30 (+10 per level) over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManicPixie.png",
+                "lvl": 4,
+                "name": "Manic Pixie"
+            },
+            {
+                "desc": "After finishing the teleport, the target of your Phase Shift gains a 200 point Shield for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PhaseShield.png",
+                "lvl": 7,
+                "name": "Phase Shield"
+            },
+            {
+                "desc": "Teleport to a nearby ally, healing them for 108 (+17 per level).  Can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlinkHeal.png",
+                "lvl": 10,
+                "name": "Blink Heal"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceBlock.png",
+                "lvl": 13,
+                "name": "Ice Block"
+            },
+            {
+                "desc": "Polymorph causes targets to take 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Critterize.png",
+                "lvl": 16,
+                "name": "Critterize"
+            },
+            {
+                "desc": "Blink Heal can be cast a second time on a different target within 2 seconds without consuming a charge.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleWyrmhole.png",
+                "lvl": 20,
+                "name": "Double Wyrmhole"
+            }
+        ],
+        "winPercent": "0.0 %"
+    }
+]

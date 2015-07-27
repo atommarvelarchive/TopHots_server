@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "19",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Charge to target unit, dealing 150 (+20 per level) damage on impact and stunning for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TheHunt.png",
+                "lvl": 10,
+                "name": "The Hunt"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "84.2 %"
+    },
+    {
+        "gamesPlayed": "30",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Charge to target unit, dealing 150 (+20 per level) damage on impact and stunning for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TheHunt.png",
+                "lvl": 10,
+                "name": "The Hunt"
+            },
+            {
+                "desc": "Take 50% reduced damage from Abilities while Evasion is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SixthSense.png",
+                "lvl": 13,
+                "name": "Sixth Sense"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Grants global range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NowheretoHide.png",
+                "lvl": 20,
+                "name": "Nowhere to Hide"
+            }
+        ],
+        "winPercent": "83.3 %"
+    },
+    {
+        "gamesPlayed": "21",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Charge to target unit, dealing 150 (+20 per level) damage on impact and stunning for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TheHunt.png",
+                "lvl": 10,
+                "name": "The Hunt"
+            },
+            {
+                "desc": "Take 50% reduced damage from Abilities while Evasion is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SixthSense.png",
+                "lvl": 13,
+                "name": "Sixth Sense"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "81.0 %"
+    },
+    {
+        "gamesPlayed": "20",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Transforms into demon form at the target location. Deal 20 (+4 per level) damage in the area. Illidan gains 100 temporary max Health for each Hero hit and 20% increased Attack Speed. Lasts for 18 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Metamorphosis.png",
+                "lvl": 10,
+                "name": "Metamorphosis"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "75.0 %"
+    },
+    {
+        "gamesPlayed": "56",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Transforms into demon form at the target location. Deal 20 (+4 per level) damage in the area. Illidan gains 100 temporary max Health for each Hero hit and 20% increased Attack Speed. Lasts for 18 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Metamorphosis.png",
+                "lvl": 10,
+                "name": "Metamorphosis"
+            },
+            {
+                "desc": "Take 50% reduced damage from Abilities while Evasion is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SixthSense.png",
+                "lvl": 13,
+                "name": "Sixth Sense"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Permanently remain in Demonic Form. Increases the Attack Speed bonus of Demonic Form to 30% and grants a 50% reduction in the duration of disabling effects. Illidan can now mount in this form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DemonicForm.png",
+                "lvl": 20,
+                "name": "Demonic Form"
+            }
+        ],
+        "winPercent": "71.4 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Transforms into demon form at the target location. Deal 20 (+4 per level) damage in the area. Illidan gains 100 temporary max Health for each Hero hit and 20% increased Attack Speed. Lasts for 18 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Metamorphosis.png",
+                "lvl": 10,
+                "name": "Metamorphosis"
+            },
+            {
+                "desc": "Take 50% reduced damage from Abilities while Evasion is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SixthSense.png",
+                "lvl": 13,
+                "name": "Sixth Sense"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "68.2 %"
+    },
+    {
+        "gamesPlayed": "47",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Transforms into demon form at the target location. Deal 20 (+4 per level) damage in the area. Illidan gains 100 temporary max Health for each Hero hit and 20% increased Attack Speed. Lasts for 18 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Metamorphosis.png",
+                "lvl": 10,
+                "name": "Metamorphosis"
+            },
+            {
+                "desc": "Take 50% reduced damage from Abilities while Evasion is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SixthSense.png",
+                "lvl": 13,
+                "name": "Sixth Sense"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "68.1 %"
+    },
+    {
+        "gamesPlayed": "32",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Transforms into demon form at the target location. Deal 20 (+4 per level) damage in the area. Illidan gains 100 temporary max Health for each Hero hit and 20% increased Attack Speed. Lasts for 18 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Metamorphosis.png",
+                "lvl": 10,
+                "name": "Metamorphosis"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Permanently remain in Demonic Form. Increases the Attack Speed bonus of Demonic Form to 30% and grants a 50% reduction in the duration of disabling effects. Illidan can now mount in this form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DemonicForm.png",
+                "lvl": 20,
+                "name": "Demonic Form"
+            }
+        ],
+        "winPercent": "62.5 %"
+    },
+    {
+        "gamesPlayed": "153",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Transforms into demon form at the target location. Deal 20 (+4 per level) damage in the area. Illidan gains 100 temporary max Health for each Hero hit and 20% increased Attack Speed. Lasts for 18 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Metamorphosis.png",
+                "lvl": 10,
+                "name": "Metamorphosis"
+            },
+            {
+                "desc": "Take 50% reduced damage from Abilities while Evasion is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SixthSense.png",
+                "lvl": 13,
+                "name": "Sixth Sense"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Permanently remain in Demonic Form. Increases the Attack Speed bonus of Demonic Form to 30% and grants a 50% reduction in the duration of disabling effects. Illidan can now mount in this form.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DemonicForm.png",
+                "lvl": 20,
+                "name": "Demonic Form"
+            }
+        ],
+        "winPercent": "61.4 %"
+    },
+    {
+        "gamesPlayed": "18",
+        "talents": [
+            {
+                "desc": "Evasion grants a 62.5 point Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShadowShield.png",
+                "lvl": 1,
+                "name": "Shadow Shield"
+            },
+            {
+                "desc": "After using Sweeping Strike, burn nearby enemies for 13 (+2.5 per level) damage a second for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Immolation.png",
+                "lvl": 4,
+                "name": "Immolation"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Transforms into demon form at the target location. Deal 20 (+4 per level) damage in the area. Illidan gains 100 temporary max Health for each Hero hit and 20% increased Attack Speed. Lasts for 18 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Metamorphosis.png",
+                "lvl": 10,
+                "name": "Metamorphosis"
+            },
+            {
+                "desc": "Take 50% reduced damage from Abilities while Evasion is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SixthSense.png",
+                "lvl": 13,
+                "name": "Sixth Sense"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "61.1 %"
+    }
+]

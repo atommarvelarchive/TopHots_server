@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "4",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Increase standard Basic Attack range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MaelstromShells.png",
+                "lvl": 4,
+                "name": "Maelstrom Shells"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Middle Spider Mine knocks target back a short distance.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BullheadMines.png",
+                "lvl": 13,
+                "name": "Bullhead Mines"
+            },
+            {
+                "desc": "Increase the number of mines by 2.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MineField.png",
+                "lvl": 16,
+                "name": "Mine Field"
+            },
+            {
+                "desc": "Napalm Strike's range is increased by 75% and its impact does 50% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedLavaStrike.png",
+                "lvl": 20,
+                "name": "Advanced Lava Strike"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "2",
+        "talents": [
+            {
+                "desc": "While in Siege Mode, the duration of Silences, Stuns, Slows, and Roots are reduced by 75%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Resistant.png",
+                "lvl": 1,
+                "name": "Resistant"
+            },
+            {
+                "desc": "Basic Attacks heal for 15% of the damage dealt to the primary target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VampiricAssault.png",
+                "lvl": 4,
+                "name": "Vampiric Assault"
+            },
+            {
+                "desc": "Reduce the cooldown of Thrusters by 10 seconds. Thrusters are always active while at the Altar.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperCoolingEngines.png",
+                "lvl": 7,
+                "name": "Hyper-Cooling Engines"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "You can move at 50% Movement Speed in Siege Mode.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HoverSiegeMode.png",
+                "lvl": 16,
+                "name": "Hover Siege Mode"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "2",
+        "talents": [
+            {
+                "desc": "While in Siege Mode, the duration of Silences, Stuns, Slows, and Roots are reduced by 75%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Resistant.png",
+                "lvl": 1,
+                "name": "Resistant"
+            },
+            {
+                "desc": "Increase standard Basic Attack range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MaelstromShells.png",
+                "lvl": 4,
+                "name": "Maelstrom Shells"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Basic Attacks deal 25% more damage if you haven't been attacked within the last 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstStrike.png",
+                "lvl": 13,
+                "name": "First Strike"
+            },
+            {
+                "desc": "You can move at 50% Movement Speed in Siege Mode.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HoverSiegeMode.png",
+                "lvl": 16,
+                "name": "Hover Siege Mode"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Double the knock back distance.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ExcessiveForce.png",
+                "lvl": 4,
+                "name": "Excessive Force"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Create a wall of path blocking debris for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Barricade.png",
+                "lvl": 13,
+                "name": "Barricade"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Napalm Strike's range is increased by 75% and its impact does 50% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedLavaStrike.png",
+                "lvl": 20,
+                "name": "Advanced Lava Strike"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Increase the damage bonus to long distance enemies by 10%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedArtillery.png",
+                "lvl": 1,
+                "name": "Advanced Artillery"
+            },
+            {
+                "desc": "Basic Attacks heal for 15% of the damage dealt to the primary target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VampiricAssault.png",
+                "lvl": 4,
+                "name": "Vampiric Assault"
+            },
+            {
+                "desc": "Reduce the cooldown of Thrusters by 10 seconds. Thrusters are always active while at the Altar.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperCoolingEngines.png",
+                "lvl": 7,
+                "name": "Hyper-Cooling Engines"
+            },
+            {
+                "desc": "Fire a missile across the battlefield, dealing 220 (+29 per level) damage to enemies in its path.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BluntForceGun.png",
+                "lvl": 10,
+                "name": "Blunt Force Gun"
+            },
+            {
+                "desc": "Basic Attacks deal 25% more damage if you haven't been attacked within the last 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstStrike.png",
+                "lvl": 13,
+                "name": "First Strike"
+            },
+            {
+                "desc": "You can move at 50% Movement Speed in Siege Mode.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HoverSiegeMode.png",
+                "lvl": 16,
+                "name": "Hover Siege Mode"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "5",
+        "talents": [
+            {
+                "desc": "Increase the damage bonus to long distance enemies by 10%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedArtillery.png",
+                "lvl": 1,
+                "name": "Advanced Artillery"
+            },
+            {
+                "desc": "Increase standard Basic Attack range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MaelstromShells.png",
+                "lvl": 4,
+                "name": "Maelstrom Shells"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Basic Attacks deal 40% more damage against slowed, rooted, or stunned targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Executioner.png",
+                "lvl": 16,
+                "name": "Executioner"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "80.0 %"
+    },
+    {
+        "gamesPlayed": "6",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Increase standard Basic Attack range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MaelstromShells.png",
+                "lvl": 4,
+                "name": "Maelstrom Shells"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Basic Attacks deal 40% more damage against slowed, rooted, or stunned targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Executioner.png",
+                "lvl": 16,
+                "name": "Executioner"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Increase the damage bonus to long distance enemies by 10%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedArtillery.png",
+                "lvl": 1,
+                "name": "Advanced Artillery"
+            },
+            {
+                "desc": "Increase standard Basic Attack range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MaelstromShells.png",
+                "lvl": 4,
+                "name": "Maelstrom Shells"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "You can move at 50% Movement Speed in Siege Mode.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HoverSiegeMode.png",
+                "lvl": 16,
+                "name": "Hover Siege Mode"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "33.3 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Increase standard Basic Attack range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MaelstromShells.png",
+                "lvl": 4,
+                "name": "Maelstrom Shells"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Deals 40 (+16 per level) damage on impact. Additionally deals 30 (+4 per level) damage per second.  Lasts for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NapalmStrike.png",
+                "lvl": 10,
+                "name": "Napalm Strike"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Napalm Strike's range is increased by 75% and its impact does 50% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdvancedLavaStrike.png",
+                "lvl": 20,
+                "name": "Advanced Lava Strike"
+            }
+        ],
+        "winPercent": "0.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Double the knock back distance.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ExcessiveForce.png",
+                "lvl": 4,
+                "name": "Excessive Force"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Fire a missile across the battlefield, dealing 220 (+29 per level) damage to enemies in its path.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BluntForceGun.png",
+                "lvl": 10,
+                "name": "Blunt Force Gun"
+            },
+            {
+                "desc": "Create a wall of path blocking debris for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Barricade.png",
+                "lvl": 13,
+                "name": "Barricade"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Blunt Force Gun's missile orbits the planet every 5 seconds. Only the last missile fired orbits.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OrbitalBFG.png",
+                "lvl": 20,
+                "name": "Orbital BFG"
+            }
+        ],
+        "winPercent": "0.0 %"
+    }
+]

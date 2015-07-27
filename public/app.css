@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.leftView {
+    width: 80%;
+}
+.rightView{
+    width: 20%;
+}
+.choice > img{
+    width: 100%;
+}
+
+.listItem {
+    border-bottom: solid thin;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.gamesPlayed, .backButton{
+  float: left;
+  padding-right: 15px;
+}
+
+.buildGuide {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.buildList {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.buildItem {
+    border-bottom: solid thin;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+

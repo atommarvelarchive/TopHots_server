@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "8",
+        "talents": [
+            {
+                "desc": "Increases the duration of Cloud Serpent by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TimelessCreature.png",
+                "lvl": 1,
+                "name": "Timeless Creature"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 10 (+1.1 per level) damage each.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png",
+                "lvl": 7,
+                "name": "Lightning Serpent"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Blinding Wind also slows enemy Movement Speed by 25% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HinderingWinds.png",
+                "lvl": 13,
+                "name": "Hindering Winds"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Jug of 1,000 Cups now hits two targets at a time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000000Cups.png",
+                "lvl": 20,
+                "name": "Jug of 1,000,000 Cups"
+            }
+        ],
+        "winPercent": "87.5 %"
+    },
+    {
+        "gamesPlayed": "10",
+        "talents": [
+            {
+                "desc": "Increases the duration of Cloud Serpent by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TimelessCreature.png",
+                "lvl": 1,
+                "name": "Timeless Creature"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 10 (+1.1 per level) damage each.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png",
+                "lvl": 7,
+                "name": "Lightning Serpent"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "80.0 %"
+    },
+    {
+        "gamesPlayed": "10",
+        "talents": [
+            {
+                "desc": "Increases the duration of Cloud Serpent by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TimelessCreature.png",
+                "lvl": 1,
+                "name": "Timeless Creature"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Reduces the duration of the next Stun or Root against you by 75%. Can only trigger once every 15 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShakeItOff.png",
+                "lvl": 7,
+                "name": "Shake It Off"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "When Fast Feet is triggered, gain 2 charges of Block (50% reduced Basic Attack damage) for 10 seconds. Can only trigger once every 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElusiveFeet.png",
+                "lvl": 13,
+                "name": "Elusive Feet"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Abilities recharge two and a half times as fast while Fast Feet is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KungFuHustle.png",
+                "lvl": 20,
+                "name": "Kung Fu Hustle"
+            }
+        ],
+        "winPercent": "80.0 %"
+    },
+    {
+        "gamesPlayed": "20",
+        "talents": [
+            {
+                "desc": "Increases the duration of Cloud Serpent by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TimelessCreature.png",
+                "lvl": 1,
+                "name": "Timeless Creature"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 10 (+1.1 per level) damage each.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png",
+                "lvl": 7,
+                "name": "Lightning Serpent"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Gain 5% Ability Power for 8 seconds for every enemy hit by Blinding Wind. Additional enemies hit refresh the duration of this buff and further increase Ability Power. Stacks up to 4 times.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SurgingWinds.png",
+                "lvl": 13,
+                "name": "Surging Winds"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Abilities recharge two and a half times as fast while Fast Feet is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KungFuHustle.png",
+                "lvl": 20,
+                "name": "Kung Fu Hustle"
+            }
+        ],
+        "winPercent": "75.0 %"
+    },
+    {
+        "gamesPlayed": "32",
+        "talents": [
+            {
+                "desc": "Increases the duration of Cloud Serpent by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TimelessCreature.png",
+                "lvl": 1,
+                "name": "Timeless Creature"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 10 (+1.1 per level) damage each.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png",
+                "lvl": 7,
+                "name": "Lightning Serpent"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Abilities recharge two and a half times as fast while Fast Feet is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KungFuHustle.png",
+                "lvl": 20,
+                "name": "Kung Fu Hustle"
+            }
+        ],
+        "winPercent": "68.8 %"
+    },
+    {
+        "gamesPlayed": "28",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 10 (+1.1 per level) damage each.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png",
+                "lvl": 7,
+                "name": "Lightning Serpent"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Abilities recharge two and a half times as fast while Fast Feet is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KungFuHustle.png",
+                "lvl": 20,
+                "name": "Kung Fu Hustle"
+            }
+        ],
+        "winPercent": "67.9 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "Increases the duration of Cloud Serpent by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TimelessCreature.png",
+                "lvl": 1,
+                "name": "Timeless Creature"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 10 (+1.1 per level) damage each.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png",
+                "lvl": 7,
+                "name": "Lightning Serpent"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Blinding Wind also slows enemy Movement Speed by 25% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HinderingWinds.png",
+                "lvl": 13,
+                "name": "Hindering Winds"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Abilities recharge two and a half times as fast while Fast Feet is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KungFuHustle.png",
+                "lvl": 20,
+                "name": "Kung Fu Hustle"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "7",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Increases the number of enemies hit by Blinding Wind from 2 to 4.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MassVortex.png",
+                "lvl": 4,
+                "name": "Mass Vortex"
+            },
+            {
+                "desc": "Reduces the duration of the next Stun or Root against you by 75%. Can only trigger once every 15 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShakeItOff.png",
+                "lvl": 7,
+                "name": "Shake It Off"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Increases the number of allies healed by Healing Brew to 2, but increases the cooldown by 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TwoForOne.png",
+                "lvl": 16,
+                "name": "Two For One"
+            },
+            {
+                "desc": "Abilities recharge two and a half times as fast while Fast Feet is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KungFuHustle.png",
+                "lvl": 20,
+                "name": "Kung Fu Hustle"
+            }
+        ],
+        "winPercent": "57.1 %"
+    },
+    {
+        "gamesPlayed": "16",
+        "talents": [
+            {
+                "desc": "Increases the duration of Cloud Serpent by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TimelessCreature.png",
+                "lvl": 1,
+                "name": "Timeless Creature"
+            },
+            {
+                "desc": "Cloud Serpent heals the friendly unit for 15 (+1.65 per level) Health each time it attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MendingSerpent.png",
+                "lvl": 4,
+                "name": "Mending Serpent"
+            },
+            {
+                "desc": "Cloud Serpent's attacks bounce to 3 nearby enemy targets, dealing 10 (+1.1 per level) damage each.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningSerpent.png",
+                "lvl": 7,
+                "name": "Lightning Serpent"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "You also gain a Cloud Serpent whenever you cast it on another ally.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SerpentSidekick.png",
+                "lvl": 16,
+                "name": "Serpent Sidekick"
+            },
+            {
+                "desc": "Jug of 1,000 Cups now hits two targets at a time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000000Cups.png",
+                "lvl": 20,
+                "name": "Jug of 1,000,000 Cups"
+            }
+        ],
+        "winPercent": "56.3 %"
+    },
+    {
+        "gamesPlayed": "9",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Increases the number of enemies hit by Blinding Wind from 2 to 4.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MassVortex.png",
+                "lvl": 4,
+                "name": "Mass Vortex"
+            },
+            {
+                "desc": "Healing Brew heals for an additional 21 (+5.4 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TheGoodStuff.png",
+                "lvl": 7,
+                "name": "The Good Stuff"
+            },
+            {
+                "desc": "Rapidly tosses brew to the most injured nearby allies, prioritizing Heroes, restoring a total of 480 (+156 per level) Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jugof1000Cups.png",
+                "lvl": 10,
+                "name": "Jug of 1,000 Cups"
+            },
+            {
+                "desc": "Gain 5% Ability Power for 8 seconds for every enemy hit by Blinding Wind. Additional enemies hit refresh the duration of this buff and further increase Ability Power. Stacks up to 4 times.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SurgingWinds.png",
+                "lvl": 13,
+                "name": "Surging Winds"
+            },
+            {
+                "desc": "Increases the number of allies healed by Healing Brew to 2, but increases the cooldown by 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TwoForOne.png",
+                "lvl": 16,
+                "name": "Two For One"
+            },
+            {
+                "desc": "Abilities recharge two and a half times as fast while Fast Feet is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KungFuHustle.png",
+                "lvl": 20,
+                "name": "Kung Fu Hustle"
+            }
+        ],
+        "winPercent": "55.6 %"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "24",
+        "talents": [
+            {
+                "desc": "Increases Moonfire's damage to Minions and Mercenaries by 100%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Moonburn.png",
+                "lvl": 1,
+                "name": "Moonburn"
+            },
+            {
+                "desc": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElunesGrace.png",
+                "lvl": 4,
+                "name": "Elune's Grace"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceBlock.png",
+                "lvl": 13,
+                "name": "Ice Block"
+            },
+            {
+                "desc": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TenaciousRoots.png",
+                "lvl": 16,
+                "name": "Tenacious Roots"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "83.3 %"
+    },
+    {
+        "gamesPlayed": "19",
+        "talents": [
+            {
+                "desc": "Reduces Innervate's cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShandosClarity.png",
+                "lvl": 1,
+                "name": "Shan'do's Clarity"
+            },
+            {
+                "desc": "Increases the initial heal of Regrowth by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RampantGrowth.png",
+                "lvl": 4,
+                "name": "Rampant Growth"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "While above 80% life, your Basic Ability cooldowns regenerate 50% faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedFocus.png",
+                "lvl": 16,
+                "name": "Hardened Focus"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "73.7 %"
+    },
+    {
+        "gamesPlayed": "56",
+        "talents": [
+            {
+                "desc": "Increases Moonfire's damage to Minions and Mercenaries by 100%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Moonburn.png",
+                "lvl": 1,
+                "name": "Moonburn"
+            },
+            {
+                "desc": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElunesGrace.png",
+                "lvl": 4,
+                "name": "Elune's Grace"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TenaciousRoots.png",
+                "lvl": 16,
+                "name": "Tenacious Roots"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "73.2 %"
+    },
+    {
+        "gamesPlayed": "21",
+        "talents": [
+            {
+                "desc": "Increases Moonfire's damage to Minions and Mercenaries by 100%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Moonburn.png",
+                "lvl": 1,
+                "name": "Moonburn"
+            },
+            {
+                "desc": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElunesGrace.png",
+                "lvl": 4,
+                "name": "Elune's Grace"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "While above 80% life, your Basic Ability cooldowns regenerate 50% faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedFocus.png",
+                "lvl": 16,
+                "name": "Hardened Focus"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "36",
+        "talents": [
+            {
+                "desc": "Increases Moonfire's damage to Minions and Mercenaries by 100%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Moonburn.png",
+                "lvl": 1,
+                "name": "Moonburn"
+            },
+            {
+                "desc": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElunesGrace.png",
+                "lvl": 4,
+                "name": "Elune's Grace"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "While above 80% life, your Basic Ability cooldowns regenerate 50% faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedFocus.png",
+                "lvl": 16,
+                "name": "Hardened Focus"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "63.9 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Reduces Innervate's cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShandosClarity.png",
+                "lvl": 1,
+                "name": "Shan'do's Clarity"
+            },
+            {
+                "desc": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElunesGrace.png",
+                "lvl": 4,
+                "name": "Elune's Grace"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TenaciousRoots.png",
+                "lvl": 16,
+                "name": "Tenacious Roots"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "63.6 %"
+    },
+    {
+        "gamesPlayed": "19",
+        "talents": [
+            {
+                "desc": "If Moonfire hits a target, reduce the Mana cost of Regrowth by 10.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Harmony.png",
+                "lvl": 1,
+                "name": "Harmony"
+            },
+            {
+                "desc": "Increases the initial heal of Regrowth by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RampantGrowth.png",
+                "lvl": 4,
+                "name": "Rampant Growth"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TenaciousRoots.png",
+                "lvl": 16,
+                "name": "Tenacious Roots"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "63.2 %"
+    },
+    {
+        "gamesPlayed": "35",
+        "talents": [
+            {
+                "desc": "Places a Scouting Drone at target location, revealing a large area around it for 45 seconds. This drone cannot be hidden and is killed by enemies with 2 Basic Attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ScoutingDrone.png",
+                "lvl": 1,
+                "name": "Scouting Drone"
+            },
+            {
+                "desc": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElunesGrace.png",
+                "lvl": 4,
+                "name": "Elune's Grace"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TenaciousRoots.png",
+                "lvl": 16,
+                "name": "Tenacious Roots"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "62.9 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Places a Scouting Drone at target location, revealing a large area around it for 45 seconds. This drone cannot be hidden and is killed by enemies with 2 Basic Attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ScoutingDrone.png",
+                "lvl": 1,
+                "name": "Scouting Drone"
+            },
+            {
+                "desc": "Increases the initial heal of Regrowth by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RampantGrowth.png",
+                "lvl": 4,
+                "name": "Rampant Growth"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Nearby damaged allied Heroes will automatically gain the heal over time portion of Regrowth. This effect has a 20 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeSeed.png",
+                "lvl": 13,
+                "name": "Life Seed"
+            },
+            {
+                "desc": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TenaciousRoots.png",
+                "lvl": 16,
+                "name": "Tenacious Roots"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "54.6 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Increases Moonfire's damage to Minions and Mercenaries by 100%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Moonburn.png",
+                "lvl": 1,
+                "name": "Moonburn"
+            },
+            {
+                "desc": "Increases the range of Regrowth, Moonfire, and Entangling Roots by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ElunesGrace.png",
+                "lvl": 4,
+                "name": "Elune's Grace"
+            },
+            {
+                "desc": "Increases the duration of Regrowth by 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnduringGrowth.png",
+                "lvl": 7,
+                "name": "Enduring Growth"
+            },
+            {
+                "desc": "Heals 20 (+9 per level) Health per second to nearby allies over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tranquility.png",
+                "lvl": 10,
+                "name": "Tranquility"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceBlock.png",
+                "lvl": 13,
+                "name": "Ice Block"
+            },
+            {
+                "desc": "Entangling Roots grows 25% larger, lasts 25% longer, and roots targets for 0.5 seconds longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TenaciousRoots.png",
+                "lvl": 16,
+                "name": "Tenacious Roots"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "46.7 %"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "59",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "Divine Shield lasts 2 seconds longer and its cooldown is reduced by 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BulwarkofLight.png",
+                "lvl": 20,
+                "name": "Bulwark of Light"
+            }
+        ],
+        "winPercent": "81.4 %"
+    },
+    {
+        "gamesPlayed": "104",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Increases the width and length of Holy Radiance by 40%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoundlessConviction.png",
+                "lvl": 4,
+                "name": "Boundless Conviction"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Redemption.png",
+                "lvl": 20,
+                "name": "Redemption"
+            }
+        ],
+        "winPercent": "78.9 %"
+    },
+    {
+        "gamesPlayed": "47",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to reveal an area for 10 seconds.  Enemies in the area are revealed for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Clairvoyance.png",
+                "lvl": 7,
+                "name": "Clairvoyance"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Redemption.png",
+                "lvl": 20,
+                "name": "Redemption"
+            }
+        ],
+        "winPercent": "78.7 %"
+    },
+    {
+        "gamesPlayed": "44",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "While above 80% life, your Basic Ability cooldowns regenerate 50% faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedFocus.png",
+                "lvl": 16,
+                "name": "Hardened Focus"
+            },
+            {
+                "desc": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Redemption.png",
+                "lvl": 20,
+                "name": "Redemption"
+            }
+        ],
+        "winPercent": "77.3 %"
+    },
+    {
+        "gamesPlayed": "529",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Redemption.png",
+                "lvl": 20,
+                "name": "Redemption"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "17",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "Divine Shield lasts 2 seconds longer and its cooldown is reduced by 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BulwarkofLight.png",
+                "lvl": 20,
+                "name": "Bulwark of Light"
+            }
+        ],
+        "winPercent": "64.7 %"
+    },
+    {
+        "gamesPlayed": "41",
+        "talents": [
+            {
+                "desc": "Increases the range of Holy Light and Flash of Light by 40%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reach.png",
+                "lvl": 1,
+                "name": "Reach"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Redemption.png",
+                "lvl": 20,
+                "name": "Redemption"
+            }
+        ],
+        "winPercent": "63.4 %"
+    },
+    {
+        "gamesPlayed": "46",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "60.9 %"
+    },
+    {
+        "gamesPlayed": "66",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Redemption.png",
+                "lvl": 20,
+                "name": "Redemption"
+            }
+        ],
+        "winPercent": "59.1 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Activate to remove all stuns, roots, silences, and slows from the target and prevents their reapplication for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Cleanse.png",
+                "lvl": 7,
+                "name": "Cleanse"
+            },
+            {
+                "desc": "Make an allied Hero Invulnerable and increase their Movement Speed by 20% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DivineShield.png",
+                "lvl": 10,
+                "name": "Divine Shield"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Activate to reduce the Mana cost of your next Basic Ability by 50 and its cooldown by 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Benediction.png",
+                "lvl": 16,
+                "name": "Benediction"
+            },
+            {
+                "desc": "After Eternal Devotion ends, return to 50% of your maximum Health at your spirit's location. This effect has a 180 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Redemption.png",
+                "lvl": 20,
+                "name": "Redemption"
+            }
+        ],
+        "winPercent": "50.0 %"
+    }
+]

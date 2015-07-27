@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "21",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Channel to regenerate up to 25% of your Health and Mana over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RapidIncubation.png",
+                "lvl": 7,
+                "name": "Rapid Incubation"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Your Hunter Killer now spawns a Mutalisk with a bounce attack and 50% increased duration.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Mutalisk.png",
+                "lvl": 13,
+                "name": "Mutalisk"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Every 5 seconds, your next basic attack will deal an additional 20 damage to the target, and 20 damage to all nearby Minions and Mercenaries.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuryoftheStorm.png",
+                "lvl": 20,
+                "name": "Fury of the Storm"
+            }
+        ],
+        "winPercent": "76.2 %"
+    },
+    {
+        "gamesPlayed": "63",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Creep Tumors spread Creep 50% farther and have 100% increased health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EndlessCreep.png",
+                "lvl": 7,
+                "name": "Endless Creep"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Hunter Killer has its range increased by 35% and damage increased by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GroovedSpines.png",
+                "lvl": 13,
+                "name": "Grooved Spines"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "74.6 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Channel to regenerate up to 25% of your Health and Mana over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RapidIncubation.png",
+                "lvl": 7,
+                "name": "Rapid Incubation"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "73.3 %"
+    },
+    {
+        "gamesPlayed": "11",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Creep Tumor mana cost removed. Cooldown decreased to 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TumorClutch.png",
+                "lvl": 4,
+                "name": "Tumor Clutch"
+            },
+            {
+                "desc": "Creep Tumors spread Creep 50% farther and have 100% increased health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EndlessCreep.png",
+                "lvl": 7,
+                "name": "Endless Creep"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Your Hunter Killer now spawns a Mutalisk with a bounce attack and 50% increased duration.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Mutalisk.png",
+                "lvl": 13,
+                "name": "Mutalisk"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "72.7 %"
+    },
+    {
+        "gamesPlayed": "287",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Channel to regenerate up to 25% of your Health and Mana over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RapidIncubation.png",
+                "lvl": 7,
+                "name": "Rapid Incubation"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Your Hunter Killer now spawns a Mutalisk with a bounce attack and 50% increased duration.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Mutalisk.png",
+                "lvl": 13,
+                "name": "Mutalisk"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "70.0 %"
+    },
+    {
+        "gamesPlayed": "79",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Your Hunter Killer now spawns a Mutalisk with a bounce attack and 50% increased duration.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Mutalisk.png",
+                "lvl": 13,
+                "name": "Mutalisk"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "67.1 %"
+    },
+    {
+        "gamesPlayed": "234",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Creep Tumors spread Creep 50% farther and have 100% increased health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EndlessCreep.png",
+                "lvl": 7,
+                "name": "Endless Creep"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Your Hunter Killer now spawns a Mutalisk with a bounce attack and 50% increased duration.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Mutalisk.png",
+                "lvl": 13,
+                "name": "Mutalisk"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "93",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Channel to regenerate up to 25% of your Health and Mana over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RapidIncubation.png",
+                "lvl": 7,
+                "name": "Rapid Incubation"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Hunter Killer has its range increased by 35% and damage increased by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GroovedSpines.png",
+                "lvl": 13,
+                "name": "Grooved Spines"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "59.1 %"
+    },
+    {
+        "gamesPlayed": "9",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Creep Tumor mana cost removed. Cooldown decreased to 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TumorClutch.png",
+                "lvl": 4,
+                "name": "Tumor Clutch"
+            },
+            {
+                "desc": "Creep Tumors spread Creep 50% farther and have 100% increased health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EndlessCreep.png",
+                "lvl": 7,
+                "name": "Endless Creep"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Hunter Killer has its range increased by 35% and damage increased by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GroovedSpines.png",
+                "lvl": 13,
+                "name": "Grooved Spines"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "55.6 %"
+    },
+    {
+        "gamesPlayed": "11",
+        "talents": [
+            {
+                "desc": "Health Restoration bonus on Creep increased by 200%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reconstitution.png",
+                "lvl": 1,
+                "name": "Reconstitution"
+            },
+            {
+                "desc": "Basic Attacks have their range increased by 20% and deal an additional 15 (+3 per level) damage over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpines.png",
+                "lvl": 4,
+                "name": "Envenomed Spines"
+            },
+            {
+                "desc": "Channel to regenerate up to 25% of your Health and Mana over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RapidIncubation.png",
+                "lvl": 7,
+                "name": "Rapid Incubation"
+            },
+            {
+                "desc": "Summons a Devouring Maw that deals 75 (+24 per level) damage and devours enemies for 4 seconds. Devoured enemies cannot fight and take 38 (+2 per level) damage per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevouringMaw.png",
+                "lvl": 10,
+                "name": "Devouring Maw"
+            },
+            {
+                "desc": "Your Hunter Killer now spawns a Mutalisk with a bounce attack and 50% increased duration.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Mutalisk.png",
+                "lvl": 13,
+                "name": "Mutalisk"
+            },
+            {
+                "desc": "Can hold up to 2 charges of Hunter Killer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BroodExpansion.png",
+                "lvl": 16,
+                "name": "Brood Expansion"
+            },
+            {
+                "desc": "Devouring Maw deals 50% more damage and each Takedown reduces its cooldown by 25 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TyrantMaw.png",
+                "lvl": 20,
+                "name": "Tyrant Maw"
+            }
+        ],
+        "winPercent": "54.6 %"
+    }
+]

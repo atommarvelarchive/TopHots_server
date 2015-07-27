@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "32",
+        "talents": [
+            {
+                "desc": "Withering Fire deals 200% bonus damage to Minions and Mercenaries.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BarbedShot.png",
+                "lvl": 1,
+                "name": "Barbed Shot"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "68.8 %"
+    },
+    {
+        "gamesPlayed": "37",
+        "talents": [
+            {
+                "desc": "Increases Withering Fire's range by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WiththeWind.png",
+                "lvl": 1,
+                "name": "With the Wind"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 3 seconds deals 25% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Remorseless.png",
+                "lvl": 7,
+                "name": "Remorseless"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "64.9 %"
+    },
+    {
+        "gamesPlayed": "106",
+        "talents": [
+            {
+                "desc": "Increases Withering Fire's range by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WiththeWind.png",
+                "lvl": 1,
+                "name": "With the Wind"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "62.3 %"
+    },
+    {
+        "gamesPlayed": "18",
+        "talents": [
+            {
+                "desc": "Increases Withering Fire's range by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WiththeWind.png",
+                "lvl": 1,
+                "name": "With the Wind"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Enemies at the center of Wailing Arrow's explosion take 50% more damage and are silenced for twice as long.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeafeningBlast.png",
+                "lvl": 20,
+                "name": "Deafening Blast"
+            }
+        ],
+        "winPercent": "61.1 %"
+    },
+    {
+        "gamesPlayed": "55",
+        "talents": [
+            {
+                "desc": "Increases Withering Fire's range by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WiththeWind.png",
+                "lvl": 1,
+                "name": "With the Wind"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "60.0 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "Withering Fire deals 200% bonus damage to Minions and Mercenaries.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BarbedShot.png",
+                "lvl": 1,
+                "name": "Barbed Shot"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "58.3 %"
+    },
+    {
+        "gamesPlayed": "28",
+        "talents": [
+            {
+                "desc": "Increases Withering Fire's range by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WiththeWind.png",
+                "lvl": 1,
+                "name": "With the Wind"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "57.1 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Increases Withering Fire's range by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WiththeWind.png",
+                "lvl": 1,
+                "name": "With the Wind"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Shadow Dagger heals you for 10 (+3.5 per level) each time it spreads to a new enemy.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeDrain.png",
+                "lvl": 7,
+                "name": "Life Drain"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "54.6 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Reduces the cooldown of Shadow Dagger by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LostSoul.png",
+                "lvl": 1,
+                "name": "Lost Soul"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Shadow Dagger makes enemies Vulnerable, taking 25% more damage, but the range of Shadow Dagger is reduced by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ColdEmbrace.png",
+                "lvl": 16,
+                "name": "Cold Embrace"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "46.7 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Withering Fire deals 200% bonus damage to Minions and Mercenaries.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BarbedShot.png",
+                "lvl": 1,
+                "name": "Barbed Shot"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Minions and Mercenaries that die under the effects of Black Arrows explode, dealing 75 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstablePoison.png",
+                "lvl": 7,
+                "name": "Unstable Poison"
+            },
+            {
+                "desc": "Shoot an arrow that can be reactivated to deal 140 (+18 per level) damage and Silencing enemies in an area making them unable to use Abilities for 2.5 seconds. The arrow detonates automatically when it reaches maximum range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WailingArrow.png",
+                "lvl": 10,
+                "name": "Wailing Arrow"
+            },
+            {
+                "desc": "You gain 10% Movement Speed for 2 seconds whenever an enemy is hit with Withering Fire, stacking up to 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvasiveFire.png",
+                "lvl": 13,
+                "name": "Evasive Fire"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "45.5 %"
+    }
+]

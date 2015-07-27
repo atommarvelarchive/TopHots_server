@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "7",
+        "talents": [
+            {
+                "desc": "Lower the Cooldown of Hunter's Mark by 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RangersMark.png",
+                "lvl": 1,
+                "name": "Ranger's Mark"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "When you are above 50% Health, Light of Elune's allied heal is increased by 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OverflowingLight.png",
+                "lvl": 13,
+                "name": "Overflowing Light"
+            },
+            {
+                "desc": "Lunar Flare deals 50% more damage and refunds all Mana if you hit an enemy Hero.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShootingStar.png",
+                "lvl": 16,
+                "name": "Shooting Star"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "85.7 %"
+    },
+    {
+        "gamesPlayed": "14",
+        "talents": [
+            {
+                "desc": "Lower the Cooldown of Hunter's Mark by 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RangersMark.png",
+                "lvl": 1,
+                "name": "Ranger's Mark"
+            },
+            {
+                "desc": "Sentinel no longer stops at the first Hero hit, affecting all enemy Heroes along the path.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pierce.png",
+                "lvl": 4,
+                "name": "Pierce"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "When you are above 50% Health, Light of Elune's allied heal is increased by 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OverflowingLight.png",
+                "lvl": 13,
+                "name": "Overflowing Light"
+            },
+            {
+                "desc": "Increases width of Sentinel by 100%. Increases damage dealt based on distance traveled, up to a maximum of +200% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ranger.png",
+                "lvl": 16,
+                "name": "Ranger"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "78.6 %"
+    },
+    {
+        "gamesPlayed": "8",
+        "talents": [
+            {
+                "desc": "Lower the Cooldown of Hunter's Mark by 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RangersMark.png",
+                "lvl": 1,
+                "name": "Ranger's Mark"
+            },
+            {
+                "desc": "Sentinel no longer stops at the first Hero hit, affecting all enemy Heroes along the path.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pierce.png",
+                "lvl": 4,
+                "name": "Pierce"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Increases width of Sentinel by 100%. Increases damage dealt based on distance traveled, up to a maximum of +200% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ranger.png",
+                "lvl": 16,
+                "name": "Ranger"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "75.0 %"
+    },
+    {
+        "gamesPlayed": "11",
+        "talents": [
+            {
+                "desc": "When Sentinel impacts, your cooldowns are instantly reduced by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Empower.png",
+                "lvl": 1,
+                "name": "Empower"
+            },
+            {
+                "desc": "Sentinel no longer stops at the first Hero hit, affecting all enemy Heroes along the path.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pierce.png",
+                "lvl": 4,
+                "name": "Pierce"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "When you are above 50% Health, Light of Elune's allied heal is increased by 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OverflowingLight.png",
+                "lvl": 13,
+                "name": "Overflowing Light"
+            },
+            {
+                "desc": "Increases width of Sentinel by 100%. Increases damage dealt based on distance traveled, up to a maximum of +200% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ranger.png",
+                "lvl": 16,
+                "name": "Ranger"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "72.7 %"
+    },
+    {
+        "gamesPlayed": "14",
+        "talents": [
+            {
+                "desc": "Lower the Cooldown of Hunter's Mark by 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RangersMark.png",
+                "lvl": 1,
+                "name": "Ranger's Mark"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "Activate to reduce an enemy Hero's damage by 50% and Movement Speed by 50% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShrinkRay.png",
+                "lvl": 13,
+                "name": "Shrink Ray"
+            },
+            {
+                "desc": "Lunar Flare deals 50% more damage and refunds all Mana if you hit an enemy Hero.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShootingStar.png",
+                "lvl": 16,
+                "name": "Shooting Star"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "71.4 %"
+    },
+    {
+        "gamesPlayed": "7",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Activate to increase Basic Attack damage by 40% for 5 seconds.  Each attack costs 10 Mana.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SearingArrows.png",
+                "lvl": 4,
+                "name": "Searing Arrows"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "Gain 40% additional Attack Speed for 4 seconds when using Hunter's Mark.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HuntressFury.png",
+                "lvl": 13,
+                "name": "Huntress' Fury"
+            },
+            {
+                "desc": "You passively grant 15% Basic Attack damage to nearby allies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TrueshotAura.png",
+                "lvl": 16,
+                "name": "Trueshot Aura"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "71.4 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Lower the Cooldown of Hunter's Mark by 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RangersMark.png",
+                "lvl": 1,
+                "name": "Ranger's Mark"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "When you are above 50% Health, Light of Elune's allied heal is increased by 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OverflowingLight.png",
+                "lvl": 13,
+                "name": "Overflowing Light"
+            },
+            {
+                "desc": "Lunar Flare deals 50% more damage and refunds all Mana if you hit an enemy Hero.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShootingStar.png",
+                "lvl": 16,
+                "name": "Shooting Star"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "When Sentinel impacts, your cooldowns are instantly reduced by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Empower.png",
+                "lvl": 1,
+                "name": "Empower"
+            },
+            {
+                "desc": "Sentinel no longer stops at the first Hero hit, affecting all enemy Heroes along the path.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pierce.png",
+                "lvl": 4,
+                "name": "Pierce"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Increases width of Sentinel by 100%. Increases damage dealt based on distance traveled, up to a maximum of +200% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ranger.png",
+                "lvl": 16,
+                "name": "Ranger"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "5",
+        "talents": [
+            {
+                "desc": "When Sentinel impacts, your cooldowns are instantly reduced by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Empower.png",
+                "lvl": 1,
+                "name": "Empower"
+            },
+            {
+                "desc": "Sentinel no longer stops at the first Hero hit, affecting all enemy Heroes along the path.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pierce.png",
+                "lvl": 4,
+                "name": "Pierce"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Stealth you and all allied Heroes for 8 seconds, and reveal all enemy Heroes for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Shadowstalk.png",
+                "lvl": 10,
+                "name": "Shadowstalk"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Increases width of Sentinel by 100%. Increases damage dealt based on distance traveled, up to a maximum of +200% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ranger.png",
+                "lvl": 16,
+                "name": "Ranger"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "60.0 %"
+    },
+    {
+        "gamesPlayed": "13",
+        "talents": [
+            {
+                "desc": "Lower the Cooldown of Hunter's Mark by 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RangersMark.png",
+                "lvl": 1,
+                "name": "Ranger's Mark"
+            },
+            {
+                "desc": "Activate to shield an allied Hero for 15% of their max Health for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ProtectiveShield.png",
+                "lvl": 4,
+                "name": "Protective Shield"
+            },
+            {
+                "desc": "Increases the range of Lunar Flare by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LunarBlaze.png",
+                "lvl": 7,
+                "name": "Lunar Blaze"
+            },
+            {
+                "desc": "Deal 20 (+6 per level) damage per second and slow enemies by 20% in an area. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Starfall.png",
+                "lvl": 10,
+                "name": "Starfall"
+            },
+            {
+                "desc": "When you are above 50% Health, Light of Elune's allied heal is increased by 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OverflowingLight.png",
+                "lvl": 13,
+                "name": "Overflowing Light"
+            },
+            {
+                "desc": "Lunar Flare deals 50% more damage and refunds all Mana if you hit an enemy Hero.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShootingStar.png",
+                "lvl": 16,
+                "name": "Shooting Star"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "38.5 %"
+    }
+]

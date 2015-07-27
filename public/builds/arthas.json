@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "9",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Deals 150 (+15 per level) damage, slows enemy Heroes, and freezes Minions for 10 seconds and Structures for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonSindragosa.png",
+                "lvl": 10,
+                "name": "Summon Sindragosa"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Increased application to your next 2 Basic Attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostmourneFeeds.png",
+                "lvl": 16,
+                "name": "Frostmourne Feeds"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "88.9 %"
+    },
+    {
+        "gamesPlayed": "16",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Summons Ghouls that last 15 seconds. Sacrifice Ghouls to heal for 104 (+24 per level) Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmyoftheDead.png",
+                "lvl": 10,
+                "name": "Army of the Dead"
+            },
+            {
+                "desc": "Reduces the duration of silences, stuns, slows, and roots against your Hero by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Relentless.png",
+                "lvl": 13,
+                "name": "Relentless"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "81.3 %"
+    },
+    {
+        "gamesPlayed": "5",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Summons Ghouls that last 15 seconds. Sacrifice Ghouls to heal for 104 (+24 per level) Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmyoftheDead.png",
+                "lvl": 10,
+                "name": "Army of the Dead"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "80.0 %"
+    },
+    {
+        "gamesPlayed": "30",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Summons Ghouls that last 15 seconds. Sacrifice Ghouls to heal for 104 (+24 per level) Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmyoftheDead.png",
+                "lvl": 10,
+                "name": "Army of the Dead"
+            },
+            {
+                "desc": "Reduces the duration of silences, stuns, slows, and roots against your Hero by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Relentless.png",
+                "lvl": 13,
+                "name": "Relentless"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "73.3 %"
+    },
+    {
+        "gamesPlayed": "7",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Deals 150 (+15 per level) damage, slows enemy Heroes, and freezes Minions for 10 seconds and Structures for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonSindragosa.png",
+                "lvl": 10,
+                "name": "Summon Sindragosa"
+            },
+            {
+                "desc": "Frozen Tempest damage increased by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BitingCold.png",
+                "lvl": 13,
+                "name": "Biting Cold"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "71.4 %"
+    },
+    {
+        "gamesPlayed": "10",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Summons Ghouls that last 15 seconds. Sacrifice Ghouls to heal for 104 (+24 per level) Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmyoftheDead.png",
+                "lvl": 10,
+                "name": "Army of the Dead"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "70.0 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Deals 150 (+15 per level) damage, slows enemy Heroes, and freezes Minions for 10 seconds and Structures for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonSindragosa.png",
+                "lvl": 10,
+                "name": "Summon Sindragosa"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "9",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Deals 150 (+15 per level) damage, slows enemy Heroes, and freezes Minions for 10 seconds and Structures for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonSindragosa.png",
+                "lvl": 10,
+                "name": "Summon Sindragosa"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Damage boost of Frostmourne Hungers increased to 150% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Destruction.png",
+                "lvl": 4,
+                "name": "Destruction"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Summons Ghouls that last 15 seconds. Sacrifice Ghouls to heal for 104 (+24 per level) Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmyoftheDead.png",
+                "lvl": 10,
+                "name": "Army of the Dead"
+            },
+            {
+                "desc": "Frozen Tempest damage increased by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BitingCold.png",
+                "lvl": 13,
+                "name": "Biting Cold"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "60.0 %"
+    },
+    {
+        "gamesPlayed": "5",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Frozen Tempest Mana cost reduced by 3 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrozenWastes.png",
+                "lvl": 4,
+                "name": "Frozen Wastes"
+            },
+            {
+                "desc": "Every 3rd Basic Attack heals you for 3.12% of your max Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RuneTap.png",
+                "lvl": 7,
+                "name": "Rune Tap"
+            },
+            {
+                "desc": "Deals 150 (+15 per level) damage, slows enemy Heroes, and freezes Minions for 10 seconds and Structures for 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonSindragosa.png",
+                "lvl": 10,
+                "name": "Summon Sindragosa"
+            },
+            {
+                "desc": "Frozen Tempest damage increased by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BitingCold.png",
+                "lvl": 13,
+                "name": "Biting Cold"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "60.0 %"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "gamesPlayed": "37",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Upon expiring, up to 5 remaining Zombies uproot and attack nearby enemies for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeadRush.png",
+                "lvl": 13,
+                "name": "Dead Rush"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Gargantuan lasts until killed instead of timing out, and deals 100% more damage against non-Heroic targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Humongoid.png",
+                "lvl": 20,
+                "name": "Humongoid"
+            }
+        ],
+        "winPercent": "86.5 %"
+    },
+    {
+        "gamesPlayed": "30",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summons a Ravenous Spirit for 8 seconds. Deals 60 (+16 per level) damage per second. Nazeebo cannot move while channeling.\nChanneled ability.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RavenousSpirit.png",
+                "lvl": 10,
+                "name": "Ravenous Spirit"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "80.0 %"
+    },
+    {
+        "gamesPlayed": "22",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "MULE: Activate to calldown a Mule that repairs Structures, one at a time, near target point for 40 seconds, healing for 100 Health every 1 second.  Grants 1 ammo every  3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CalldownMULE.png",
+                "lvl": 7,
+                "name": "Calldown"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "77.3 %"
+    },
+    {
+        "gamesPlayed": "327",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Gargantuan lasts until killed instead of timing out, and deals 100% more damage against non-Heroic targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Humongoid.png",
+                "lvl": 20,
+                "name": "Humongoid"
+            }
+        ],
+        "winPercent": "71.3 %"
+    },
+    {
+        "gamesPlayed": "20",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceBlock.png",
+                "lvl": 13,
+                "name": "Ice Block"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Gargantuan lasts until killed instead of timing out, and deals 100% more damage against non-Heroic targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Humongoid.png",
+                "lvl": 20,
+                "name": "Humongoid"
+            }
+        ],
+        "winPercent": "70.0 %"
+    },
+    {
+        "gamesPlayed": "23",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Every 5 seconds, your next basic attack will deal an additional 20 damage to the target, and 20 damage to all nearby Minions and Mercenaries.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuryoftheStorm.png",
+                "lvl": 20,
+                "name": "Fury of the Storm"
+            }
+        ],
+        "winPercent": "69.6 %"
+    },
+    {
+        "gamesPlayed": "340",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "67.7 %"
+    },
+    {
+        "gamesPlayed": "71",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IceBlock.png",
+                "lvl": 13,
+                "name": "Ice Block"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "62.0 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
+                "lvl": 4,
+                "name": "Gathering Power"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summon a Gargantuan that guards you for 20 seconds. Deals 30 (+15 per level) damage to nearby enemies when summoned, attacks for 100 (+20 per level) damage, and can be ordered to stomp, dealing 30 (+15 per level) damage. The Gargantuan deals extra damage to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gargantuan.png",
+                "lvl": 10,
+                "name": "Gargantuan"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "58.3 %"
+    },
+    {
+        "gamesPlayed": "35",
+        "talents": [
+            {
+                "desc": "Permanently gain 5 Health and 3 Mana when a Minion dies under Voodoo Ritual.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathRitual.png",
+                "lvl": 1,
+                "name": "Death Ritual"
+            },
+            {
+                "desc": "Corpse Spiders creates 3 more spiders over 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpiderCluster.png",
+                "lvl": 4,
+                "name": "Spider Cluster"
+            },
+            {
+                "desc": "Increases the explosion area of Plague Toads and the duration of your Zombie Wall and Corpse Spiders by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gidbinn.png",
+                "lvl": 7,
+                "name": "Gidbinn"
+            },
+            {
+                "desc": "Summons a Ravenous Spirit for 8 seconds. Deals 60 (+16 per level) damage per second. Nazeebo cannot move while channeling.\nChanneled ability.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RavenousSpirit.png",
+                "lvl": 10,
+                "name": "Ravenous Spirit"
+            },
+            {
+                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
+                "lvl": 13,
+                "name": "Sprint"
+            },
+            {
+                "desc": "Corpse Spiders leap at their targets and deal 25% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeapingSpiders.png",
+                "lvl": 16,
+                "name": "Leaping Spiders"
+            },
+            {
+                "desc": "Increases the range of Ravenous Spirit by 50% and Movement Speed by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AnnihilatingSpirit.png",
+                "lvl": 20,
+                "name": "Annihilating Spirit"
+            }
+        ],
+        "winPercent": "54.3 %"
+    }
+]
