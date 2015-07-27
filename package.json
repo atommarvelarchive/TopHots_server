@@ -1,0 +1,24 @@
+{
+  "name": "TopHots",
+  "version": "1.0.0",
+  "description": "a hotslogs scraper service that makes it easy to see the best builds on your phone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atommarvel/TopHots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atommarvel/TopHots/issues"
+  },
+  "homepage": "https://github.com/atommarvel/TopHots",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "phantomjs": "^1.9.17"
+  }
+}
