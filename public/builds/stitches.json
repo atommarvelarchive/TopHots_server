@@ -1,18 +1,18 @@
 [
     {
-        "gamesPlayed": "3",
+        "gamesPlayed": "2",
         "talents": [
             {
-                "desc": "Slam damage increased by 50%",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HeavySlam.png",
+                "desc": "Using Devour also heals you for 9.555% of your max Health over 3.0625 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChewYourFood.png",
                 "lvl": 1,
-                "name": "Heavy Slam"
+                "name": "Chew Your Food"
             },
             {
-                "desc": "Increases regeneration effects and all healing received by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
+                "desc": "Enemies hit by Slam are infected with Vile Gas.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PutridGround.png",
                 "lvl": 4,
-                "name": "Amplified Healing"
+                "name": "Putrid Ground"
             },
             {
                 "desc": "Basic Attacks slow enemy Movement Speed by 25% for 1.5 seconds.",
@@ -33,16 +33,16 @@
                 "name": "Relentless"
             },
             {
-                "desc": "Decreases Slam's cooldown by 2 seconds and it also slows enemies by 75% for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pulverize.png",
+                "desc": "Hook has an additional 40% range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FishingHook.png",
                 "lvl": 16,
-                "name": "Pulverize"
+                "name": "Fishing Hook"
             },
             {
-                "desc": "Putrid Bile lasts 2 seconds longer, grants an additional 10% Movement Speed and heals for 50% of the damage dealt.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerativeBile.png",
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
                 "lvl": 20,
-                "name": "Regenerative Bile"
+                "name": "Bolt of the Storm"
             }
         ],
         "winPercent": "100.0 %"
@@ -94,54 +94,6 @@
             }
         ],
         "winPercent": "71.4 %"
-    },
-    {
-        "gamesPlayed": "3",
-        "talents": [
-            {
-                "desc": "Slam damage increased by 50%",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HeavySlam.png",
-                "lvl": 1,
-                "name": "Heavy Slam"
-            },
-            {
-                "desc": "Increases regeneration effects and all healing received by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
-                "lvl": 4,
-                "name": "Amplified Healing"
-            },
-            {
-                "desc": "Basic Attacks slow enemy Movement Speed by 25% for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tenderizer.png",
-                "lvl": 7,
-                "name": "Tenderizer"
-            },
-            {
-                "desc": "Emit bile that deals 20 (+3 per level) damage per second to enemies within, slowing them by 35%. You gain 20% Movement Speed while emitting bile. Lasts 8 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PutridBile.png",
-                "lvl": 10,
-                "name": "Putrid Bile"
-            },
-            {
-                "desc": "Reduces the duration of silences, stuns, slows, and roots against your Hero by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Relentless.png",
-                "lvl": 13,
-                "name": "Relentless"
-            },
-            {
-                "desc": "Hook has an additional 40% range.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FishingHook.png",
-                "lvl": 16,
-                "name": "Fishing Hook"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
-                "lvl": 20,
-                "name": "Hardened Shield"
-            }
-        ],
-        "winPercent": "66.7 %"
     },
     {
         "gamesPlayed": "3",
@@ -331,6 +283,54 @@
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
                 "lvl": 20,
                 "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "50.0 %"
+    },
+    {
+        "gamesPlayed": "2",
+        "talents": [
+            {
+                "desc": "Slam damage increased by 50%",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HeavySlam.png",
+                "lvl": 1,
+                "name": "Heavy Slam"
+            },
+            {
+                "desc": "Increases regeneration effects and all healing received by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
+                "lvl": 4,
+                "name": "Amplified Healing"
+            },
+            {
+                "desc": "Basic Attacks slow enemy Movement Speed by 25% for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Tenderizer.png",
+                "lvl": 7,
+                "name": "Tenderizer"
+            },
+            {
+                "desc": "Emit bile that deals 20 (+3 per level) damage per second to enemies within, slowing them by 35%. You gain 20% Movement Speed while emitting bile. Lasts 8 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PutridBile.png",
+                "lvl": 10,
+                "name": "Putrid Bile"
+            },
+            {
+                "desc": "Reduces the duration of silences, stuns, slows, and roots against your Hero by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Relentless.png",
+                "lvl": 13,
+                "name": "Relentless"
+            },
+            {
+                "desc": "Hook has an additional 40% range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FishingHook.png",
+                "lvl": 16,
+                "name": "Fishing Hook"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
             }
         ],
         "winPercent": "50.0 %"
@@ -435,10 +435,10 @@
         "gamesPlayed": "3",
         "talents": [
             {
-                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
                 "lvl": 1,
-                "name": "Regeneration Master"
+                "name": "Block"
             },
             {
                 "desc": "Increases regeneration effects and all healing received by 30%.",
@@ -471,12 +471,12 @@
                 "name": "Fishing Hook"
             },
             {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "desc": "Putrid Bile lasts 2 seconds longer, grants an additional 10% Movement Speed and heals for 50% of the damage dealt.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerativeBile.png",
                 "lvl": 20,
-                "name": "Hardened Shield"
+                "name": "Regenerative Bile"
             }
         ],
-        "winPercent": "0.0 %"
+        "winPercent": "33.3 %"
     }
 ]

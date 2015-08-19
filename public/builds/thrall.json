@@ -1,101 +1,5 @@
 [
     {
-        "gamesPlayed": "6",
-        "talents": [
-            {
-                "desc": "Damaging Heroes with Feral Spirit grants 3 stacks of Frostwolf Resilience.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RabidWolves.png",
-                "lvl": 1,
-                "name": "Rabid Wolves"
-            },
-            {
-                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
-                "lvl": 4,
-                "name": "Envenom"
-            },
-            {
-                "desc": "Reduces the cooldown of Windfury by 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WindShear.png",
-                "lvl": 7,
-                "name": "Wind Shear"
-            },
-            {
-                "desc": "After a short delay, sunder the earth in a long line. Deals 160 (+22 per level) damage and shoves enemies to the side, stunning them for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sundering.png",
-                "lvl": 10,
-                "name": "Sundering"
-            },
-            {
-                "desc": "Windfury attacks grant twice as many stacks of Frostwolf Resilience.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GraceOfAir.png",
-                "lvl": 13,
-                "name": "Grace Of Air"
-            },
-            {
-                "desc": "The final strike of Windfury hits 3 times for 75% normal damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TempestFury.png",
-                "lvl": 16,
-                "name": "Tempest Fury"
-            },
-            {
-                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
-                "lvl": 20,
-                "name": "Nexus Blades"
-            }
-        ],
-        "winPercent": "100.0 %"
-    },
-    {
-        "gamesPlayed": "5",
-        "talents": [
-            {
-                "desc": "Damaging Heroes with Feral Spirit grants 3 stacks of Frostwolf Resilience.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RabidWolves.png",
-                "lvl": 1,
-                "name": "Rabid Wolves"
-            },
-            {
-                "desc": "Frostwolf Resilience also restores 15 Mana.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaTide.png",
-                "lvl": 4,
-                "name": "Mana Tide"
-            },
-            {
-                "desc": "Reduces the cooldown of Windfury by 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WindShear.png",
-                "lvl": 7,
-                "name": "Wind Shear"
-            },
-            {
-                "desc": "After a short delay, sunder the earth in a long line. Deals 160 (+22 per level) damage and shoves enemies to the side, stunning them for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sundering.png",
-                "lvl": 10,
-                "name": "Sundering"
-            },
-            {
-                "desc": "Windfury attacks grant twice as many stacks of Frostwolf Resilience.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GraceOfAir.png",
-                "lvl": 13,
-                "name": "Grace Of Air"
-            },
-            {
-                "desc": "The final strike of Windfury hits 3 times for 75% normal damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TempestFury.png",
-                "lvl": 16,
-                "name": "Tempest Fury"
-            },
-            {
-                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
-                "lvl": 20,
-                "name": "Nexus Blades"
-            }
-        ],
-        "winPercent": "100.0 %"
-    },
-    {
         "gamesPlayed": "5",
         "talents": [
             {
@@ -144,7 +48,55 @@
         "winPercent": "100.0 %"
     },
     {
-        "gamesPlayed": "12",
+        "gamesPlayed": "4",
+        "talents": [
+            {
+                "desc": "Damaging Heroes with Feral Spirit grants 3 stacks of Frostwolf Resilience.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RabidWolves.png",
+                "lvl": 1,
+                "name": "Rabid Wolves"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "Reduces the cooldown of Windfury by 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WindShear.png",
+                "lvl": 7,
+                "name": "Wind Shear"
+            },
+            {
+                "desc": "After a short delay, sunder the earth in a long line. Deals 160 (+22 per level) damage and shoves enemies to the side, stunning them for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sundering.png",
+                "lvl": 10,
+                "name": "Sundering"
+            },
+            {
+                "desc": "Windfury attacks grant twice as many stacks of Frostwolf Resilience.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GraceOfAir.png",
+                "lvl": 13,
+                "name": "Grace Of Air"
+            },
+            {
+                "desc": "The final strike of Windfury hits 3 times for 75% normal damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TempestFury.png",
+                "lvl": 16,
+                "name": "Tempest Fury"
+            },
+            {
+                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
+                "lvl": 20,
+                "name": "Nexus Blades"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "15",
         "talents": [
             {
                 "desc": "Increases Chain Lightning's range by 30% and attacking enemies recently hit by Chain Lightning restores 10 Mana.",
@@ -189,58 +141,10 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "91.7 %"
+        "winPercent": "86.7 %"
     },
     {
-        "gamesPlayed": "7",
-        "talents": [
-            {
-                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
-                "lvl": 1,
-                "name": "Seasoned Marksman"
-            },
-            {
-                "desc": "Chain Lightning can hit 2 additional enemies for 50% damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RideTheLightning.png",
-                "lvl": 4,
-                "name": "Ride The Lightning"
-            },
-            {
-                "desc": "Frostwolf Resilience can be activated to immediately heal Thrall.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostwolfsGrace.png",
-                "lvl": 7,
-                "name": "Frostwolf's Grace"
-            },
-            {
-                "desc": "After a short delay, sunder the earth in a long line. Deals 160 (+22 per level) damage and shoves enemies to the side, stunning them for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sundering.png",
-                "lvl": 10,
-                "name": "Sundering"
-            },
-            {
-                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
-                "lvl": 13,
-                "name": "Giant Killer"
-            },
-            {
-                "desc": "The final strike of Windfury hits 3 times for 75% normal damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TempestFury.png",
-                "lvl": 16,
-                "name": "Tempest Fury"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "85.7 %"
-    },
-    {
-        "gamesPlayed": "10",
+        "gamesPlayed": "11",
         "talents": [
             {
                 "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
@@ -285,7 +189,7 @@
                 "name": "Nexus Blades"
             }
         ],
-        "winPercent": "80.0 %"
+        "winPercent": "81.8 %"
     },
     {
         "gamesPlayed": "14",
@@ -384,6 +288,54 @@
         "winPercent": "75.0 %"
     },
     {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Increases Chain Lightning's range by 30% and attacking enemies recently hit by Chain Lightning restores 10 Mana.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingThunder.png",
+                "lvl": 1,
+                "name": "Rolling Thunder"
+            },
+            {
+                "desc": "Chain Lightning can hit 2 additional enemies for 50% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RideTheLightning.png",
+                "lvl": 4,
+                "name": "Ride The Lightning"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "After a short delay, sunder the earth in a long line. Deals 160 (+22 per level) damage and shoves enemies to the side, stunning them for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sundering.png",
+                "lvl": 10,
+                "name": "Sundering"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Allows Chain Lightning to hold 2 charges that can be used in quick succession.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ForkedLightning.png",
+                "lvl": 16,
+                "name": "Forked Lightning"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
         "gamesPlayed": "13",
         "talents": [
             {
@@ -429,7 +381,7 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "69.2 %"
+        "winPercent": "53.9 %"
     },
     {
         "gamesPlayed": "4",
@@ -469,6 +421,54 @@
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ForkedLightning.png",
                 "lvl": 16,
                 "name": "Forked Lightning"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "50.0 %"
+    },
+    {
+        "gamesPlayed": "4",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
+                "lvl": 4,
+                "name": "Envenom"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "After a short delay, sunder the earth in a long line. Deals 160 (+22 per level) damage and shoves enemies to the side, stunning them for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sundering.png",
+                "lvl": 10,
+                "name": "Sundering"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
+                "lvl": 13,
+                "name": "Giant Killer"
+            },
+            {
+                "desc": "The final strike of Windfury hits 3 times for 75% normal damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TempestFury.png",
+                "lvl": 16,
+                "name": "Tempest Fury"
             },
             {
                 "desc": "Activate to teleport to a nearby location.",

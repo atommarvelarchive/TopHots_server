@@ -45,10 +45,10 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "79.0 %"
+        "winPercent": "75.8 %"
     },
     {
-        "gamesPlayed": "18",
+        "gamesPlayed": "28",
         "talents": [
             {
                 "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
@@ -63,10 +63,10 @@
                 "name": "Gathering Power"
             },
             {
-                "desc": "After using an ability, your next Basic Attack deals 80% additional damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OneintheChamber.png",
+                "desc": "Your Basic Attacks deal 250% damage, but your Attack Speed is proportionally slower.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AntiArmorShells.png",
                 "lvl": 7,
-                "name": "One in the Chamber"
+                "name": "Anti-Armor Shells"
             },
             {
                 "desc": "After a 1.5 second delay, deals 300 (+35 per level) damage in an area. Unlimited range.",
@@ -93,10 +93,10 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "72.2 %"
+        "winPercent": "75.0 %"
     },
     {
-        "gamesPlayed": "174",
+        "gamesPlayed": "185",
         "talents": [
             {
                 "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
@@ -141,10 +141,10 @@
                 "name": "Rewind"
             }
         ],
-        "winPercent": "69.0 %"
+        "winPercent": "69.2 %"
     },
     {
-        "gamesPlayed": "42",
+        "gamesPlayed": "16",
         "talents": [
             {
                 "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
@@ -177,19 +177,67 @@
                 "name": "Lethal Decoy"
             },
             {
+                "desc": "Enemies hit by Pinning shot become Vulnerable, taking 25% increased damage for the duration of the slow.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CripplingShot.png",
+                "lvl": 16,
+                "name": "Crippling Shot"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "68.8 %"
+    },
+    {
+        "gamesPlayed": "27",
+        "talents": [
+            {
+                "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmbushSnipe.png",
+                "lvl": 1,
+                "name": "Ambush Snipe"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
+                "lvl": 4,
+                "name": "Gathering Power"
+            },
+            {
+                "desc": "Your Basic Attacks deal 250% damage, but your Attack Speed is proportionally slower.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AntiArmorShells.png",
+                "lvl": 7,
+                "name": "Anti-Armor Shells"
+            },
+            {
+                "desc": "After a 1.5 second delay, deals 300 (+35 per level) damage in an area. Unlimited range.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PrecisionStrike.png",
+                "lvl": 10,
+                "name": "Precision Strike"
+            },
+            {
+                "desc": "Holo Decoy now deals 25% of Nova's damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LethalDecoy.png",
+                "lvl": 13,
+                "name": "Lethal Decoy"
+            },
+            {
                 "desc": "Casting Holo Decoy creates an additional Decoy at your current location.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleFake.png",
                 "lvl": 16,
                 "name": "Double Fake"
             },
             {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "desc": "Precision Strike now holds two charges with a short cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PrecisionBarrage.png",
                 "lvl": 20,
-                "name": "Rewind"
+                "name": "Precision Barrage"
             }
         ],
-        "winPercent": "64.3 %"
+        "winPercent": "66.7 %"
     },
     {
         "gamesPlayed": "19",
@@ -240,7 +288,7 @@
         "winPercent": "63.2 %"
     },
     {
-        "gamesPlayed": "27",
+        "gamesPlayed": "37",
         "talents": [
             {
                 "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
@@ -255,10 +303,10 @@
                 "name": "Gathering Power"
             },
             {
-                "desc": "Your Basic Attacks deal 250% damage, but your Attack Speed is proportionally slower.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AntiArmorShells.png",
+                "desc": "After using an ability, your next Basic Attack deals 80% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OneintheChamber.png",
                 "lvl": 7,
-                "name": "Anti-Armor Shells"
+                "name": "One in the Chamber"
             },
             {
                 "desc": "After a 1.5 second delay, deals 300 (+35 per level) damage in an area. Unlimited range.",
@@ -279,13 +327,13 @@
                 "name": "Double Fake"
             },
             {
-                "desc": "Precision Strike now holds two charges with a short cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PrecisionBarrage.png",
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
                 "lvl": 20,
-                "name": "Precision Barrage"
+                "name": "Rewind"
             }
         ],
-        "winPercent": "63.0 %"
+        "winPercent": "62.2 %"
     },
     {
         "gamesPlayed": "34",
@@ -336,55 +384,7 @@
         "winPercent": "61.8 %"
     },
     {
-        "gamesPlayed": "30",
-        "talents": [
-            {
-                "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmbushSnipe.png",
-                "lvl": 1,
-                "name": "Ambush Snipe"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
-                "lvl": 4,
-                "name": "Gathering Power"
-            },
-            {
-                "desc": "Your Basic Attacks deal 250% damage, but your Attack Speed is proportionally slower.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AntiArmorShells.png",
-                "lvl": 7,
-                "name": "Anti-Armor Shells"
-            },
-            {
-                "desc": "After a 1.5 second delay, deals 300 (+35 per level) damage in an area. Unlimited range.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PrecisionStrike.png",
-                "lvl": 10,
-                "name": "Precision Strike"
-            },
-            {
-                "desc": "Holo Decoy now deals 25% of Nova's damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LethalDecoy.png",
-                "lvl": 13,
-                "name": "Lethal Decoy"
-            },
-            {
-                "desc": "Enemies hit by Pinning shot become Vulnerable, taking 25% increased damage for the duration of the slow.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CripplingShot.png",
-                "lvl": 16,
-                "name": "Crippling Shot"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "60.0 %"
-    },
-    {
-        "gamesPlayed": "22",
+        "gamesPlayed": "20",
         "talents": [
             {
                 "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
@@ -429,10 +429,10 @@
                 "name": "Rewind"
             }
         ],
-        "winPercent": "59.1 %"
+        "winPercent": "55.0 %"
     },
     {
-        "gamesPlayed": "16",
+        "gamesPlayed": "15",
         "talents": [
             {
                 "desc": "Increases Snipe's damage by 20% when used from Cloak or within one second of being Cloaked.",
@@ -477,6 +477,6 @@
                 "name": "Rewind"
             }
         ],
-        "winPercent": "50.0 %"
+        "winPercent": "46.7 %"
     }
 ]

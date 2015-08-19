@@ -21,10 +21,10 @@
                 "name": "Battle Momentum"
             },
             {
-                "desc": "Create a demonic rune under each enemy Hero on the battleground. After 1.75 seconds the rune explodes dealing 100 (+10 per level) damage and stunning for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Apocalypse.png",
+                "desc": "Become Unstoppable while channeling lightning that deals 320 (+72 per level) damage over 4 seconds.  The direction of the Lightning changes with your mouse cursor position.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningBreath.png",
                 "lvl": 10,
-                "name": "Apocalypse"
+                "name": "Lightning Breath"
             },
             {
                 "desc": "Fire Stomp waves return to you, dealing 125% damage.",
@@ -33,22 +33,118 @@
                 "name": "Firestorm"
             },
             {
+                "desc": "Fire Stomp increases Diablo's Movement Speed by 20% and Basic Attack damage by 50% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rampage.png",
+                "lvl": 16,
+                "name": "Rampage"
+            },
+            {
+                "desc": "Lightning Breath lasts and reaches 50% longer.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hellstorm.png",
+                "lvl": 20,
+                "name": "Hellstorm"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Fire Stomp also surrounds you in flames that deal 10 (+2 per level) damage every second for 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FireDevil.png",
+                "lvl": 4,
+                "name": "Fire Devil"
+            },
+            {
+                "desc": "Increases the amount of Health gained from Black Soulstone by 66%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SoulSteal.png",
+                "lvl": 7,
+                "name": "Soul Steal"
+            },
+            {
+                "desc": "Create a demonic rune under each enemy Hero on the battleground. After 1.75 seconds the rune explodes dealing 100 (+10 per level) damage and stunning for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Apocalypse.png",
+                "lvl": 10,
+                "name": "Apocalypse"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Overpower can store 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ContinuousOverpower.png",
+                "lvl": 16,
+                "name": "Continuous Overpower"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Reduces Black Soulstone's resurrection cost to 60 Souls.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DevilsDue.png",
+                "lvl": 1,
+                "name": "Devil's Due"
+            },
+            {
+                "desc": "Fire Stomp also surrounds you in flames that deal 10 (+2 per level) damage every second for 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FireDevil.png",
+                "lvl": 4,
+                "name": "Fire Devil"
+            },
+            {
+                "desc": "Increases the amount of Health gained from Black Soulstone by 66%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SoulSteal.png",
+                "lvl": 7,
+                "name": "Soul Steal"
+            },
+            {
+                "desc": "Create a demonic rune under each enemy Hero on the battleground. After 1.75 seconds the rune explodes dealing 100 (+10 per level) damage and stunning for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Apocalypse.png",
+                "lvl": 10,
+                "name": "Apocalypse"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
                 "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
                 "lvl": 16,
                 "name": "Imposing Presence"
             },
             {
-                "desc": "Activate to steal 10% of the maximum Health of nearby enemy Heroes.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LordofTerror.png",
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
                 "lvl": 20,
-                "name": "Lord of Terror"
+                "name": "Bolt of the Storm"
             }
         ],
         "winPercent": "100.0 %"
     },
     {
-        "gamesPlayed": "13",
+        "gamesPlayed": "12",
         "talents": [
             {
                 "desc": "Black Soulstone increases your Health Regeneration by 3% per Soul.",
@@ -93,7 +189,7 @@
                 "name": "Hellstorm"
             }
         ],
-        "winPercent": "84.6 %"
+        "winPercent": "83.3 %"
     },
     {
         "gamesPlayed": "10",
@@ -144,7 +240,7 @@
         "winPercent": "80.0 %"
     },
     {
-        "gamesPlayed": "26",
+        "gamesPlayed": "11",
         "talents": [
             {
                 "desc": "Black Soulstone increases your Health Regeneration by 3% per Soul.",
@@ -189,7 +285,7 @@
                 "name": "Lord of Terror"
             }
         ],
-        "winPercent": "73.1 %"
+        "winPercent": "72.7 %"
     },
     {
         "gamesPlayed": "3",
@@ -240,102 +336,6 @@
         "winPercent": "66.7 %"
     },
     {
-        "gamesPlayed": "3",
-        "talents": [
-            {
-                "desc": "Black Soulstone increases your Health Regeneration by 3% per Soul.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SoulFeast.png",
-                "lvl": 1,
-                "name": "Soul Feast"
-            },
-            {
-                "desc": "Fire Stomp also surrounds you in flames that deal 10 (+2 per level) damage every second for 6 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FireDevil.png",
-                "lvl": 4,
-                "name": "Fire Devil"
-            },
-            {
-                "desc": "Increases the amount of Health gained from Black Soulstone by 66%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SoulSteal.png",
-                "lvl": 7,
-                "name": "Soul Steal"
-            },
-            {
-                "desc": "Create a demonic rune under each enemy Hero on the battleground. After 1.75 seconds the rune explodes dealing 100 (+10 per level) damage and stunning for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Apocalypse.png",
-                "lvl": 10,
-                "name": "Apocalypse"
-            },
-            {
-                "desc": "Fire Stomp waves return to you, dealing 125% damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Firestorm.png",
-                "lvl": 13,
-                "name": "Firestorm"
-            },
-            {
-                "desc": "Fire Stomp increases Diablo's Movement Speed by 20% and Basic Attack damage by 50% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rampage.png",
-                "lvl": 16,
-                "name": "Rampage"
-            },
-            {
-                "desc": "Apocalypse's cooldown is reduced by 20 seconds and is cast for free when you die.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DyingBreath.png",
-                "lvl": 20,
-                "name": "Dying Breath"
-            }
-        ],
-        "winPercent": "66.7 %"
-    },
-    {
-        "gamesPlayed": "2",
-        "talents": [
-            {
-                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
-                "lvl": 1,
-                "name": "Block"
-            },
-            {
-                "desc": "Fire Stomp also surrounds you in flames that deal 10 (+2 per level) damage every second for 6 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FireDevil.png",
-                "lvl": 4,
-                "name": "Fire Devil"
-            },
-            {
-                "desc": "Increases the amount of Health gained from Black Soulstone by 66%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SoulSteal.png",
-                "lvl": 7,
-                "name": "Soul Steal"
-            },
-            {
-                "desc": "Create a demonic rune under each enemy Hero on the battleground. After 1.75 seconds the rune explodes dealing 100 (+10 per level) damage and stunning for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Apocalypse.png",
-                "lvl": 10,
-                "name": "Apocalypse"
-            },
-            {
-                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
-                "lvl": 13,
-                "name": "Spell Shield"
-            },
-            {
-                "desc": "Overpower can store 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ContinuousOverpower.png",
-                "lvl": 16,
-                "name": "Continuous Overpower"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "50.0 %"
-    },
-    {
         "gamesPlayed": "2",
         "talents": [
             {
@@ -357,10 +357,10 @@
                 "name": "Soul Steal"
             },
             {
-                "desc": "Create a demonic rune under each enemy Hero on the battleground. After 1.75 seconds the rune explodes dealing 100 (+10 per level) damage and stunning for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Apocalypse.png",
+                "desc": "Become Unstoppable while channeling lightning that deals 320 (+72 per level) damage over 4 seconds.  The direction of the Lightning changes with your mouse cursor position.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LightningBreath.png",
                 "lvl": 10,
-                "name": "Apocalypse"
+                "name": "Lightning Breath"
             },
             {
                 "desc": "Fire Stomp waves return to you, dealing 125% damage.",
@@ -375,10 +375,10 @@
                 "name": "Rampage"
             },
             {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "desc": "Activate to steal 10% of the maximum Health of nearby enemy Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LordofTerror.png",
                 "lvl": 20,
-                "name": "Bolt of the Storm"
+                "name": "Lord of Terror"
             }
         ],
         "winPercent": "50.0 %"

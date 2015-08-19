@@ -63,10 +63,10 @@
                 "name": "Mental Acuity"
             },
             {
-                "desc": "MULE: Activate to calldown a Mule that repairs Structures, one at a time, near target point for 40 seconds, healing for 100 Health every 1 second.  Grants 1 ammo every  3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CalldownMULE.png",
+                "desc": "Dimensional Shift duration increased by 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepShift.png",
                 "lvl": 7,
-                "name": "Calldown"
+                "name": "Deep Shift"
             },
             {
                 "desc": "Transform into an Archon, gaining a 200 point Shield, causing Basic Attacks to deal 64 (+12 per level) damage and splash for 32 (+6 per level) additional damage. Lasts for 12 seconds.",
@@ -144,7 +144,55 @@
         "winPercent": "85.7 %"
     },
     {
-        "gamesPlayed": "8",
+        "gamesPlayed": "5",
+        "talents": [
+            {
+                "desc": "Increases Psionic Storm's range by 33%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Overload.png",
+                "lvl": 1,
+                "name": "Overload"
+            },
+            {
+                "desc": "Reduces the cooldown of Oracle by 15 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MentalAcuity.png",
+                "lvl": 4,
+                "name": "Mental Acuity"
+            },
+            {
+                "desc": "Enemies damaged by Psionic Storm are marked with Static Charge. Your Basic Attacks consume the Static Charge to deal 24 (+4.5 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StaticCharge.png",
+                "lvl": 7,
+                "name": "Static Charge"
+            },
+            {
+                "desc": "Transform into an Archon, gaining a 200 point Shield, causing Basic Attacks to deal 64 (+12 per level) damage and splash for 32 (+6 per level) additional damage. Lasts for 12 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Archon.png",
+                "lvl": 10,
+                "name": "Archon"
+            },
+            {
+                "desc": "Dimensional Shift will automatically activate when you fall below 15% Health. This effect has a separate 45 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Prescience.png",
+                "lvl": 13,
+                "name": "Prescience"
+            },
+            {
+                "desc": "While Dimensional Shifted, gain 50% Movement Speed and heal for 40 (+40 per level) Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DimensionalWarp.png",
+                "lvl": 16,
+                "name": "Dimensional Warp"
+            },
+            {
+                "desc": "Increases Archon's initial Shield, Attack Damage, and Basic Attack range by 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TwilightArchon.png",
+                "lvl": 20,
+                "name": "Twilight Archon"
+            }
+        ],
+        "winPercent": "80.0 %"
+    },
+    {
+        "gamesPlayed": "11",
         "talents": [
             {
                 "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
@@ -189,10 +237,10 @@
                 "name": "Twilight Archon"
             }
         ],
-        "winPercent": "75.0 %"
+        "winPercent": "72.7 %"
     },
     {
-        "gamesPlayed": "10",
+        "gamesPlayed": "7",
         "talents": [
             {
                 "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
@@ -207,10 +255,10 @@
                 "name": "Mental Acuity"
             },
             {
-                "desc": "Dimensional Shift duration increased by 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepShift.png",
+                "desc": "MULE: Activate to calldown a Mule that repairs Structures, one at a time, near target point for 40 seconds, healing for 100 Health every 1 second.  Grants 1 ammo every  3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CalldownMULE.png",
                 "lvl": 7,
-                "name": "Deep Shift"
+                "name": "Calldown"
             },
             {
                 "desc": "Transform into an Archon, gaining a 200 point Shield, causing Basic Attacks to deal 64 (+12 per level) damage and splash for 32 (+6 per level) additional damage. Lasts for 12 seconds.",
@@ -237,103 +285,7 @@
                 "name": "Twilight Archon"
             }
         ],
-        "winPercent": "70.0 %"
-    },
-    {
-        "gamesPlayed": "12",
-        "talents": [
-            {
-                "desc": "Psionic Storm returns 7 Mana for each target initally hit.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PsiInfusion.png",
-                "lvl": 1,
-                "name": "Psi-Infusion"
-            },
-            {
-                "desc": "Reduces the cooldown of Oracle by 15 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MentalAcuity.png",
-                "lvl": 4,
-                "name": "Mental Acuity"
-            },
-            {
-                "desc": "Enemies damaged by Psionic Storm are marked with Static Charge. Your Basic Attacks consume the Static Charge to deal 24 (+4.5 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StaticCharge.png",
-                "lvl": 7,
-                "name": "Static Charge"
-            },
-            {
-                "desc": "Transform into an Archon, gaining a 200 point Shield, causing Basic Attacks to deal 64 (+12 per level) damage and splash for 32 (+6 per level) additional damage. Lasts for 12 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Archon.png",
-                "lvl": 10,
-                "name": "Archon"
-            },
-            {
-                "desc": "Dimensional Shift will automatically activate when you fall below 15% Health. This effect has a separate 45 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Prescience.png",
-                "lvl": 13,
-                "name": "Prescience"
-            },
-            {
-                "desc": "While Dimensional Shifted, gain 50% Movement Speed and heal for 40 (+40 per level) Health.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DimensionalWarp.png",
-                "lvl": 16,
-                "name": "Dimensional Warp"
-            },
-            {
-                "desc": "Increases Archon's initial Shield, Attack Damage, and Basic Attack range by 35%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TwilightArchon.png",
-                "lvl": 20,
-                "name": "Twilight Archon"
-            }
-        ],
-        "winPercent": "66.7 %"
-    },
-    {
-        "gamesPlayed": "6",
-        "talents": [
-            {
-                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
-                "lvl": 1,
-                "name": "Conjurer's Pursuit"
-            },
-            {
-                "desc": "Reduces the cooldown of Oracle by 15 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MentalAcuity.png",
-                "lvl": 4,
-                "name": "Mental Acuity"
-            },
-            {
-                "desc": "Enemies damaged by Psionic Storm are marked with Static Charge. Your Basic Attacks consume the Static Charge to deal 24 (+4.5 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StaticCharge.png",
-                "lvl": 7,
-                "name": "Static Charge"
-            },
-            {
-                "desc": "Transform into an Archon, gaining a 200 point Shield, causing Basic Attacks to deal 64 (+12 per level) damage and splash for 32 (+6 per level) additional damage. Lasts for 12 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Archon.png",
-                "lvl": 10,
-                "name": "Archon"
-            },
-            {
-                "desc": "Dimensional Shift will automatically activate when you fall below 15% Health. This effect has a separate 45 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Prescience.png",
-                "lvl": 13,
-                "name": "Prescience"
-            },
-            {
-                "desc": "After casting Psionic Storm, you may cast Psionic Storm again for free within 3 seconds. The damage does not stack.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SecondStrike.png",
-                "lvl": 16,
-                "name": "Second Strike"
-            },
-            {
-                "desc": "Increases Archon's initial Shield, Attack Damage, and Basic Attack range by 35%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TwilightArchon.png",
-                "lvl": 20,
-                "name": "Twilight Archon"
-            }
-        ],
-        "winPercent": "66.7 %"
+        "winPercent": "71.4 %"
     },
     {
         "gamesPlayed": "8",
@@ -384,13 +336,13 @@
         "winPercent": "62.5 %"
     },
     {
-        "gamesPlayed": "30",
+        "gamesPlayed": "14",
         "talents": [
             {
-                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "desc": "Psionic Storm returns 7 Mana for each target initally hit.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PsiInfusion.png",
                 "lvl": 1,
-                "name": "Conjurer's Pursuit"
+                "name": "Psi-Infusion"
             },
             {
                 "desc": "Reduces the cooldown of Oracle by 15 seconds.",
@@ -429,7 +381,7 @@
                 "name": "Twilight Archon"
             }
         ],
-        "winPercent": "60.0 %"
+        "winPercent": "57.1 %"
     },
     {
         "gamesPlayed": "7",
@@ -478,5 +430,53 @@
             }
         ],
         "winPercent": "57.1 %"
+    },
+    {
+        "gamesPlayed": "25",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Mana Regeneration by 0.1015 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConjurersPursuit.png",
+                "lvl": 1,
+                "name": "Conjurer's Pursuit"
+            },
+            {
+                "desc": "Reduces the cooldown of Oracle by 15 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MentalAcuity.png",
+                "lvl": 4,
+                "name": "Mental Acuity"
+            },
+            {
+                "desc": "Enemies damaged by Psionic Storm are marked with Static Charge. Your Basic Attacks consume the Static Charge to deal 24 (+4.5 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StaticCharge.png",
+                "lvl": 7,
+                "name": "Static Charge"
+            },
+            {
+                "desc": "Transform into an Archon, gaining a 200 point Shield, causing Basic Attacks to deal 64 (+12 per level) damage and splash for 32 (+6 per level) additional damage. Lasts for 12 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Archon.png",
+                "lvl": 10,
+                "name": "Archon"
+            },
+            {
+                "desc": "Dimensional Shift will automatically activate when you fall below 15% Health. This effect has a separate 45 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Prescience.png",
+                "lvl": 13,
+                "name": "Prescience"
+            },
+            {
+                "desc": "While Dimensional Shifted, gain 50% Movement Speed and heal for 40 (+40 per level) Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DimensionalWarp.png",
+                "lvl": 16,
+                "name": "Dimensional Warp"
+            },
+            {
+                "desc": "Increases Archon's initial Shield, Attack Damage, and Basic Attack range by 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TwilightArchon.png",
+                "lvl": 20,
+                "name": "Twilight Archon"
+            }
+        ],
+        "winPercent": "56.0 %"
     }
 ]

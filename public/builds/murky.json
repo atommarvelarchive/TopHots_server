@@ -1,6 +1,54 @@
 [
     {
-        "gamesPlayed": "57",
+        "gamesPlayed": "24",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
+                "lvl": 4,
+                "name": "Living The Dream"
+            },
+            {
+                "desc": "Your Basic Attacks deal 100% bonus damage to Slimed targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimeAdvantage.png",
+                "lvl": 7,
+                "name": "Slime Advantage"
+            },
+            {
+                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
+                "lvl": 10,
+                "name": "Octo-Grab"
+            },
+            {
+                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
+                "lvl": 13,
+                "name": "Wrath of Cod"
+            },
+            {
+                "desc": "The Pufferfish casts Slime at its location upon landing.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimyPufferfish.png",
+                "lvl": 16,
+                "name": "Slimy Pufferfish"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "83.3 %"
+    },
+    {
+        "gamesPlayed": "59",
         "talents": [
             {
                 "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
@@ -45,154 +93,10 @@
                 "name": "... And A Shark Too!"
             }
         ],
-        "winPercent": "79.0 %"
+        "winPercent": "81.4 %"
     },
     {
-        "gamesPlayed": "12",
-        "talents": [
-            {
-                "desc": "Gain 20% Movement Speed while in Safety Bubble.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BubbleBreeze.png",
-                "lvl": 1,
-                "name": "Bubble Breeze"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
-                "lvl": 4,
-                "name": "Living The Dream"
-            },
-            {
-                "desc": "Area of effect of Pufferfish increased by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompressedAir.png",
-                "lvl": 7,
-                "name": "Compressed Air"
-            },
-            {
-                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
-                "lvl": 10,
-                "name": "Octo-Grab"
-            },
-            {
-                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
-                "lvl": 13,
-                "name": "Wrath of Cod"
-            },
-            {
-                "desc": "The Pufferfish casts Slime at its location upon landing.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimyPufferfish.png",
-                "lvl": 16,
-                "name": "Slimy Pufferfish"
-            },
-            {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
-                "lvl": 20,
-                "name": "Rewind"
-            }
-        ],
-        "winPercent": "75.0 %"
-    },
-    {
-        "gamesPlayed": "23",
-        "talents": [
-            {
-                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
-                "lvl": 1,
-                "name": "Block"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
-                "lvl": 4,
-                "name": "Living The Dream"
-            },
-            {
-                "desc": "Your Basic Attacks deal 100% bonus damage to Slimed targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimeAdvantage.png",
-                "lvl": 7,
-                "name": "Slime Advantage"
-            },
-            {
-                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
-                "lvl": 10,
-                "name": "Octo-Grab"
-            },
-            {
-                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
-                "lvl": 13,
-                "name": "Wrath of Cod"
-            },
-            {
-                "desc": "The Pufferfish casts Slime at its location upon landing.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimyPufferfish.png",
-                "lvl": 16,
-                "name": "Slimy Pufferfish"
-            },
-            {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
-                "lvl": 20,
-                "name": "Rewind"
-            }
-        ],
-        "winPercent": "73.9 %"
-    },
-    {
-        "gamesPlayed": "75",
-        "talents": [
-            {
-                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
-                "lvl": 1,
-                "name": "Block"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
-                "lvl": 4,
-                "name": "Living The Dream"
-            },
-            {
-                "desc": "Area of effect of Pufferfish increased by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompressedAir.png",
-                "lvl": 7,
-                "name": "Compressed Air"
-            },
-            {
-                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
-                "lvl": 10,
-                "name": "Octo-Grab"
-            },
-            {
-                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
-                "lvl": 13,
-                "name": "Wrath of Cod"
-            },
-            {
-                "desc": "The Pufferfish casts Slime at its location upon landing.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimyPufferfish.png",
-                "lvl": 16,
-                "name": "Slimy Pufferfish"
-            },
-            {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
-                "lvl": 20,
-                "name": "Rewind"
-            }
-        ],
-        "winPercent": "73.3 %"
-    },
-    {
-        "gamesPlayed": "15",
+        "gamesPlayed": "19",
         "talents": [
             {
                 "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 20 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.",
@@ -237,10 +141,154 @@
                 "name": "Rewind"
             }
         ],
-        "winPercent": "73.3 %"
+        "winPercent": "73.7 %"
     },
     {
-        "gamesPlayed": "21",
+        "gamesPlayed": "83",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
+                "lvl": 4,
+                "name": "Living The Dream"
+            },
+            {
+                "desc": "Area of effect of Pufferfish increased by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompressedAir.png",
+                "lvl": 7,
+                "name": "Compressed Air"
+            },
+            {
+                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
+                "lvl": 10,
+                "name": "Octo-Grab"
+            },
+            {
+                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
+                "lvl": 13,
+                "name": "Wrath of Cod"
+            },
+            {
+                "desc": "The Pufferfish casts Slime at its location upon landing.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimyPufferfish.png",
+                "lvl": 16,
+                "name": "Slimy Pufferfish"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "72.3 %"
+    },
+    {
+        "gamesPlayed": "18",
+        "talents": [
+            {
+                "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 20 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bribe.png",
+                "lvl": 1,
+                "name": "Bribe"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
+                "lvl": 4,
+                "name": "Living The Dream"
+            },
+            {
+                "desc": "Area of effect of Pufferfish increased by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompressedAir.png",
+                "lvl": 7,
+                "name": "Compressed Air"
+            },
+            {
+                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
+                "lvl": 10,
+                "name": "Octo-Grab"
+            },
+            {
+                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
+                "lvl": 13,
+                "name": "Wrath of Cod"
+            },
+            {
+                "desc": "The Pufferfish casts Slime at its location upon landing.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimyPufferfish.png",
+                "lvl": 16,
+                "name": "Slimy Pufferfish"
+            },
+            {
+                "desc": "Increases the damage of Octo-Grab by 10000% (+1000% per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AndASharkToo.png",
+                "lvl": 20,
+                "name": "... And A Shark Too!"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "11",
+        "talents": [
+            {
+                "desc": "Gain 20% Movement Speed while in Safety Bubble.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BubbleBreeze.png",
+                "lvl": 1,
+                "name": "Bubble Breeze"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
+                "lvl": 4,
+                "name": "Living The Dream"
+            },
+            {
+                "desc": "Area of effect of Pufferfish increased by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompressedAir.png",
+                "lvl": 7,
+                "name": "Compressed Air"
+            },
+            {
+                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
+                "lvl": 10,
+                "name": "Octo-Grab"
+            },
+            {
+                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
+                "lvl": 13,
+                "name": "Wrath of Cod"
+            },
+            {
+                "desc": "The Pufferfish casts Slime at its location upon landing.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimyPufferfish.png",
+                "lvl": 16,
+                "name": "Slimy Pufferfish"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "63.6 %"
+    },
+    {
+        "gamesPlayed": "19",
         "talents": [
             {
                 "desc": "Gain 20% Movement Speed while in Safety Bubble.",
@@ -285,103 +333,7 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "71.4 %"
-    },
-    {
-        "gamesPlayed": "13",
-        "talents": [
-            {
-                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
-                "lvl": 1,
-                "name": "Block"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
-                "lvl": 4,
-                "name": "Living The Dream"
-            },
-            {
-                "desc": "Your Basic Attacks deal 100% bonus damage to Slimed targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimeAdvantage.png",
-                "lvl": 7,
-                "name": "Slime Advantage"
-            },
-            {
-                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
-                "lvl": 10,
-                "name": "Octo-Grab"
-            },
-            {
-                "desc": "Safety Bubble cooldown reduced by 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BubbleMachine.png",
-                "lvl": 13,
-                "name": "Bubble Machine"
-            },
-            {
-                "desc": "Safety Bubble restores 50% of your Health.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RejuvenatingBubble.png",
-                "lvl": 16,
-                "name": "Rejuvenating Bubble"
-            },
-            {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
-                "lvl": 20,
-                "name": "Rewind"
-            }
-        ],
-        "winPercent": "61.5 %"
-    },
-    {
-        "gamesPlayed": "10",
-        "talents": [
-            {
-                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
-                "lvl": 1,
-                "name": "Block"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
-                "lvl": 4,
-                "name": "Living The Dream"
-            },
-            {
-                "desc": "Your Basic Attacks deal 100% bonus damage to Slimed targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimeAdvantage.png",
-                "lvl": 7,
-                "name": "Slime Advantage"
-            },
-            {
-                "desc": "Command a legion of Murlocs to march in a target direction, each one leaping onto the first enemy Hero or Structure they find. Each Murloc deals 60 (+7.5 per level) damage and slow its target by 15% for 5 seconds. Does half damage to Structures.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchoftheMurlocs.png",
-                "lvl": 10,
-                "name": "March of the Murlocs"
-            },
-            {
-                "desc": "Safety Bubble cooldown reduced by 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BubbleMachine.png",
-                "lvl": 13,
-                "name": "Bubble Machine"
-            },
-            {
-                "desc": "Safety Bubble restores 50% of your Health.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RejuvenatingBubble.png",
-                "lvl": 16,
-                "name": "Rejuvenating Bubble"
-            },
-            {
-                "desc": "Murlocs from March of the Murlocs travel farther and cling to targets for 2 seconds longer.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NeverEndingMurlocs.png",
-                "lvl": 20,
-                "name": "Never-Ending Murlocs"
-            }
-        ],
-        "winPercent": "60.0 %"
+        "winPercent": "63.2 %"
     },
     {
         "gamesPlayed": "43",
@@ -432,25 +384,25 @@
         "winPercent": "58.1 %"
     },
     {
-        "gamesPlayed": "16",
+        "gamesPlayed": "11",
         "talents": [
             {
-                "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 20 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bribe.png",
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
                 "lvl": 1,
-                "name": "Bribe"
+                "name": "Block"
             },
             {
-                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
+                "desc": "Slime area increased by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BiggerSlime.png",
                 "lvl": 4,
-                "name": "Living The Dream"
+                "name": "Bigger Slime"
             },
             {
-                "desc": "Area of effect of Pufferfish increased by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompressedAir.png",
+                "desc": "Your Basic Attacks deal 100% bonus damage to Slimed targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimeAdvantage.png",
                 "lvl": 7,
-                "name": "Compressed Air"
+                "name": "Slime Advantage"
             },
             {
                 "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
@@ -459,10 +411,10 @@
                 "name": "Octo-Grab"
             },
             {
-                "desc": "Increase Pufferfish's damage by 35% against Slimed targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathofCod.png",
+                "desc": "Decreases the cooldown of Slime from 4 seconds to 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ContinuousSlime.png",
                 "lvl": 13,
-                "name": "Wrath of Cod"
+                "name": "Continuous Slime"
             },
             {
                 "desc": "The Pufferfish casts Slime at its location upon landing.",
@@ -471,12 +423,60 @@
                 "name": "Slimy Pufferfish"
             },
             {
-                "desc": "Increases the damage of Octo-Grab by 10000% (+1000% per level).",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AndASharkToo.png",
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
                 "lvl": 20,
-                "name": "... And A Shark Too!"
+                "name": "Rewind"
             }
         ],
-        "winPercent": "56.3 %"
+        "winPercent": "54.6 %"
+    },
+    {
+        "gamesPlayed": "13",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Every 5 seconds Murky is alive he gains 1% more Ability Power, to a maximum of 15% extra. These stacks are lost on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LivingTheDream.png",
+                "lvl": 4,
+                "name": "Living The Dream"
+            },
+            {
+                "desc": "Your Basic Attacks deal 100% bonus damage to Slimed targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SlimeAdvantage.png",
+                "lvl": 7,
+                "name": "Slime Advantage"
+            },
+            {
+                "desc": "Summon an octopus to stun target enemy Hero for 3.0625 seconds while you hit them for 1 damage a second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OctoGrab.png",
+                "lvl": 10,
+                "name": "Octo-Grab"
+            },
+            {
+                "desc": "Safety Bubble cooldown reduced by 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BubbleMachine.png",
+                "lvl": 13,
+                "name": "Bubble Machine"
+            },
+            {
+                "desc": "Safety Bubble restores 50% of your Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RejuvenatingBubble.png",
+                "lvl": 16,
+                "name": "Rejuvenating Bubble"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "53.9 %"
     }
 ]

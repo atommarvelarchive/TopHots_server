@@ -1,6 +1,6 @@
 [
     {
-        "gamesPlayed": "8",
+        "gamesPlayed": "9",
         "talents": [
             {
                 "desc": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second.",
@@ -45,7 +45,7 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "87.5 %"
+        "winPercent": "88.9 %"
     },
     {
         "gamesPlayed": "9",
@@ -57,10 +57,10 @@
                 "name": "Victuals"
             },
             {
-                "desc": "Increases the length of Hamstring by 40%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FlailAxe.png",
+                "desc": "Activate to poison an enemy Hero, dealing 179.96 damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Envenom.png",
                 "lvl": 4,
-                "name": "Flail Axe"
+                "name": "Envenom"
             },
             {
                 "desc": "Increases the maximum number of Fresh Meat to 35, and you only lose half upon death.",
@@ -96,55 +96,7 @@
         "winPercent": "77.8 %"
     },
     {
-        "gamesPlayed": "8",
-        "talents": [
-            {
-                "desc": "Heal for 3% of your Maximum Health when you collect Fresh Meat. Meat continues to drop at maximum stacks.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Victuals.png",
-                "lvl": 1,
-                "name": "Victuals"
-            },
-            {
-                "desc": "Increases the length of Hamstring by 40%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FlailAxe.png",
-                "lvl": 4,
-                "name": "Flail Axe"
-            },
-            {
-                "desc": "Increases the maximum number of Fresh Meat to 35, and you only lose half upon death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Abattoir.png",
-                "lvl": 7,
-                "name": "Abattoir"
-            },
-            {
-                "desc": "After a 3 second delay, fire explodes around you dealing 300 (+35 per level) damage to enemies.\nCan be cast while using Ruthless Onslaught.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FurnaceBlast.png",
-                "lvl": 10,
-                "name": "Furnace Blast"
-            },
-            {
-                "desc": "While an enemy is affected by Butcher's Brand, you gain 30% Movement Speed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CraveFlesh.png",
-                "lvl": 13,
-                "name": "Crave Flesh"
-            },
-            {
-                "desc": "Fresh Meat also increases your Attack Speed by 1% per stack.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodFrenzy.png",
-                "lvl": 16,
-                "name": "Blood Frenzy"
-            },
-            {
-                "desc": "Basic attacks deal 20% more damage and slow the target for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusBlades.png",
-                "lvl": 20,
-                "name": "Nexus Blades"
-            }
-        ],
-        "winPercent": "75.0 %"
-    },
-    {
-        "gamesPlayed": "18",
+        "gamesPlayed": "11",
         "talents": [
             {
                 "desc": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second.",
@@ -153,16 +105,16 @@
                 "name": "Invigoration"
             },
             {
-                "desc": "Reduces the cooldown of Ruthless Onslaught by 40% upon impact.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnrelentingPursuit.png",
+                "desc": "Increases the length of Hamstring by 40%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FlailAxe.png",
                 "lvl": 4,
-                "name": "Unrelenting Pursuit"
+                "name": "Flail Axe"
             },
             {
-                "desc": "Increases the maximum number of Fresh Meat to 35, and you only lose half upon death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Abattoir.png",
+                "desc": "After using Hamstring, your next Basic Attack deals an additional 50% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BrutalStrike.png",
                 "lvl": 7,
-                "name": "Abattoir"
+                "name": "Brutal Strike"
             },
             {
                 "desc": "After a 3 second delay, fire explodes around you dealing 300 (+35 per level) damage to enemies.\nCan be cast while using Ruthless Onslaught.",
@@ -177,10 +129,10 @@
                 "name": "Spell Shield"
             },
             {
-                "desc": "Fresh Meat also increases your Attack Speed by 1% per stack.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodFrenzy.png",
+                "desc": "Receiving damage that reduces you below 50% of your maximum Health causes you to become Enraged for 10 seconds. You gain 40% Attack Speed and reduce the duration of slows, stuns, silences, and roots against you by 75% while Enraged.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Enraged.png",
                 "lvl": 16,
-                "name": "Blood Frenzy"
+                "name": "Enraged"
             },
             {
                 "desc": "Activate to teleport to a nearby location.",
@@ -189,7 +141,55 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "72.2 %"
+        "winPercent": "72.7 %"
+    },
+    {
+        "gamesPlayed": "11",
+        "talents": [
+            {
+                "desc": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Invigoration.png",
+                "lvl": 1,
+                "name": "Invigoration"
+            },
+            {
+                "desc": "Increases the length of Hamstring by 40%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FlailAxe.png",
+                "lvl": 4,
+                "name": "Flail Axe"
+            },
+            {
+                "desc": "After using Hamstring, your next Basic Attack deals an additional 50% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BrutalStrike.png",
+                "lvl": 7,
+                "name": "Brutal Strike"
+            },
+            {
+                "desc": "After a 3 second delay, fire explodes around you dealing 300 (+35 per level) damage to enemies.\nCan be cast while using Ruthless Onslaught.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FurnaceBlast.png",
+                "lvl": 10,
+                "name": "Furnace Blast"
+            },
+            {
+                "desc": "While an enemy is affected by Butcher's Brand, you gain 30% Movement Speed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CraveFlesh.png",
+                "lvl": 13,
+                "name": "Crave Flesh"
+            },
+            {
+                "desc": "Receiving damage that reduces you below 50% of your maximum Health causes you to become Enraged for 10 seconds. You gain 40% Attack Speed and reduce the duration of slows, stuns, silences, and roots against you by 75% while Enraged.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Enraged.png",
+                "lvl": 16,
+                "name": "Enraged"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "72.7 %"
     },
     {
         "gamesPlayed": "14",
@@ -240,7 +240,7 @@
         "winPercent": "71.4 %"
     },
     {
-        "gamesPlayed": "10",
+        "gamesPlayed": "17",
         "talents": [
             {
                 "desc": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second.",
@@ -249,16 +249,16 @@
                 "name": "Invigoration"
             },
             {
-                "desc": "Increases the length of Hamstring by 40%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FlailAxe.png",
+                "desc": "Reduces the cooldown of Ruthless Onslaught by 40% upon impact.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnrelentingPursuit.png",
                 "lvl": 4,
-                "name": "Flail Axe"
+                "name": "Unrelenting Pursuit"
             },
             {
-                "desc": "After using Hamstring, your next Basic Attack deals an additional 50% damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BrutalStrike.png",
+                "desc": "Increases the maximum number of Fresh Meat to 35, and you only lose half upon death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Abattoir.png",
                 "lvl": 7,
-                "name": "Brutal Strike"
+                "name": "Abattoir"
             },
             {
                 "desc": "After a 3 second delay, fire explodes around you dealing 300 (+35 per level) damage to enemies.\nCan be cast while using Ruthless Onslaught.",
@@ -273,10 +273,10 @@
                 "name": "Spell Shield"
             },
             {
-                "desc": "Receiving damage that reduces you below 50% of your maximum Health causes you to become Enraged for 10 seconds. You gain 40% Attack Speed and reduce the duration of slows, stuns, silences, and roots against you by 75% while Enraged.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Enraged.png",
+                "desc": "Fresh Meat also increases your Attack Speed by 1% per stack.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodFrenzy.png",
                 "lvl": 16,
-                "name": "Enraged"
+                "name": "Blood Frenzy"
             },
             {
                 "desc": "Activate to teleport to a nearby location.",
@@ -285,7 +285,7 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "70.0 %"
+        "winPercent": "70.6 %"
     },
     {
         "gamesPlayed": "10",
@@ -336,7 +336,7 @@
         "winPercent": "70.0 %"
     },
     {
-        "gamesPlayed": "16",
+        "gamesPlayed": "15",
         "talents": [
             {
                 "desc": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second.",
@@ -381,10 +381,58 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "62.5 %"
+        "winPercent": "66.7 %"
     },
     {
-        "gamesPlayed": "12",
+        "gamesPlayed": "9",
+        "talents": [
+            {
+                "desc": "Increases the damage of Hamstring by 50% to non-Heroic targets, and Minions killed by Hamstring drop 3 stacks of meat.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChopMeat.png",
+                "lvl": 1,
+                "name": "Chop Meat"
+            },
+            {
+                "desc": "Increases the length of Hamstring by 40%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FlailAxe.png",
+                "lvl": 4,
+                "name": "Flail Axe"
+            },
+            {
+                "desc": "Increases the maximum number of Fresh Meat to 35, and you only lose half upon death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Abattoir.png",
+                "lvl": 7,
+                "name": "Abattoir"
+            },
+            {
+                "desc": "After a 3 second delay, fire explodes around you dealing 300 (+35 per level) damage to enemies.\nCan be cast while using Ruthless Onslaught.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FurnaceBlast.png",
+                "lvl": 10,
+                "name": "Furnace Blast"
+            },
+            {
+                "desc": "While an enemy is affected by Butcher's Brand, you gain 30% Movement Speed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CraveFlesh.png",
+                "lvl": 13,
+                "name": "Crave Flesh"
+            },
+            {
+                "desc": "Fresh Meat also increases your Attack Speed by 1% per stack.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodFrenzy.png",
+                "lvl": 16,
+                "name": "Blood Frenzy"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "16",
         "talents": [
             {
                 "desc": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second.",
@@ -429,54 +477,6 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "58.3 %"
-    },
-    {
-        "gamesPlayed": "8",
-        "talents": [
-            {
-                "desc": "If Hamstring hits a Hero, half of the Mana cost is refunded and the cooldown is reduced by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Invigoration.png",
-                "lvl": 1,
-                "name": "Invigoration"
-            },
-            {
-                "desc": "Increases the length of Hamstring by 40%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FlailAxe.png",
-                "lvl": 4,
-                "name": "Flail Axe"
-            },
-            {
-                "desc": "After using Hamstring, your next Basic Attack deals an additional 50% damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BrutalStrike.png",
-                "lvl": 7,
-                "name": "Brutal Strike"
-            },
-            {
-                "desc": "After a 3 second delay, fire explodes around you dealing 300 (+35 per level) damage to enemies.\nCan be cast while using Ruthless Onslaught.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FurnaceBlast.png",
-                "lvl": 10,
-                "name": "Furnace Blast"
-            },
-            {
-                "desc": "While an enemy is affected by Butcher's Brand, you gain 30% Movement Speed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CraveFlesh.png",
-                "lvl": 13,
-                "name": "Crave Flesh"
-            },
-            {
-                "desc": "Receiving damage that reduces you below 50% of your maximum Health causes you to become Enraged for 10 seconds. You gain 40% Attack Speed and reduce the duration of slows, stuns, silences, and roots against you by 75% while Enraged.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Enraged.png",
-                "lvl": 16,
-                "name": "Enraged"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "50.0 %"
+        "winPercent": "62.5 %"
     }
 ]

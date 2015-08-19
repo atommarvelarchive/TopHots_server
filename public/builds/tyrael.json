@@ -1,5 +1,53 @@
 [
     {
+        "gamesPlayed": "11",
+        "talents": [
+            {
+                "desc": "Smite deals 25% more damage to Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PurgeEvil.png",
+                "lvl": 1,
+                "name": "Purge Evil"
+            },
+            {
+                "desc": "Increases regeneration effects and all healing received by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
+                "lvl": 4,
+                "name": "Amplified Healing"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "While channeling, make all nearby allied Heroes, excluding you, invulnerable. Lasts 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sanctification.png",
+                "lvl": 10,
+                "name": "Sanctification"
+            },
+            {
+                "desc": "Enemies that attack you while shielded have their Attack Speed slowed by 50% and Movement Speed slowed by 50% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingWill.png",
+                "lvl": 13,
+                "name": "Imposing Will"
+            },
+            {
+                "desc": "Create a ring that blocks enemies from entering the area teleported to using El'Druin's Might.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HolyGround.png",
+                "lvl": 16,
+                "name": "Holy Ground"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "90.9 %"
+    },
+    {
         "gamesPlayed": "14",
         "talents": [
             {
@@ -9,10 +57,10 @@
                 "name": "Purge Evil"
             },
             {
-                "desc": "Cooldown is lowered by 0.5 seconds for each target hit by Smite.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Retribution.png",
+                "desc": "Increases regeneration effects and all healing received by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
                 "lvl": 4,
-                "name": "Retribution"
+                "name": "Amplified Healing"
             },
             {
                 "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
@@ -21,10 +69,10 @@
                 "name": "Battle Momentum"
             },
             {
-                "desc": "Charge target enemy Hero, dealing 60 (+8 per level) damage and stunning them for 1.5 seconds. While charging, nearby enemies are knocked back and take 30 (+4 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Judgment.png",
+                "desc": "While channeling, make all nearby allied Heroes, excluding you, invulnerable. Lasts 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sanctification.png",
                 "lvl": 10,
-                "name": "Judgment"
+                "name": "Sanctification"
             },
             {
                 "desc": "Enemies that attack you while shielded have their Attack Speed slowed by 50% and Movement Speed slowed by 50% for 2 seconds.",
@@ -48,7 +96,7 @@
         "winPercent": "85.7 %"
     },
     {
-        "gamesPlayed": "14",
+        "gamesPlayed": "16",
         "talents": [
             {
                 "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
@@ -93,58 +141,10 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "78.6 %"
+        "winPercent": "75.0 %"
     },
     {
-        "gamesPlayed": "15",
-        "talents": [
-            {
-                "desc": "Smite deals 25% more damage to Heroes.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PurgeEvil.png",
-                "lvl": 1,
-                "name": "Purge Evil"
-            },
-            {
-                "desc": "Increases regeneration effects and all healing received by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
-                "lvl": 4,
-                "name": "Amplified Healing"
-            },
-            {
-                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
-                "lvl": 7,
-                "name": "Battle Momentum"
-            },
-            {
-                "desc": "While channeling, make all nearby allied Heroes, excluding you, invulnerable. Lasts 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sanctification.png",
-                "lvl": 10,
-                "name": "Sanctification"
-            },
-            {
-                "desc": "Enemies that attack you while shielded have their Attack Speed slowed by 50% and Movement Speed slowed by 50% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingWill.png",
-                "lvl": 13,
-                "name": "Imposing Will"
-            },
-            {
-                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
-                "lvl": 16,
-                "name": "Blood for Blood"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
-                "lvl": 20,
-                "name": "Hardened Shield"
-            }
-        ],
-        "winPercent": "73.3 %"
-    },
-    {
-        "gamesPlayed": "44",
+        "gamesPlayed": "40",
         "talents": [
             {
                 "desc": "Smite deals 25% more damage to Heroes.",
@@ -189,10 +189,58 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "72.7 %"
+        "winPercent": "72.5 %"
     },
     {
-        "gamesPlayed": "18",
+        "gamesPlayed": "36",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Increases regeneration effects and all healing received by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
+                "lvl": 4,
+                "name": "Amplified Healing"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "Charge target enemy Hero, dealing 60 (+8 per level) damage and stunning them for 1.5 seconds. While charging, nearby enemies are knocked back and take 30 (+4 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Judgment.png",
+                "lvl": 10,
+                "name": "Judgment"
+            },
+            {
+                "desc": "Enemies that attack you while shielded have their Attack Speed slowed by 50% and Movement Speed slowed by 50% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingWill.png",
+                "lvl": 13,
+                "name": "Imposing Will"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "69.4 %"
+    },
+    {
+        "gamesPlayed": "13",
         "talents": [
             {
                 "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
@@ -237,106 +285,10 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "72.2 %"
+        "winPercent": "69.2 %"
     },
     {
-        "gamesPlayed": "41",
-        "talents": [
-            {
-                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
-                "lvl": 1,
-                "name": "Regeneration Master"
-            },
-            {
-                "desc": "Increases regeneration effects and all healing received by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
-                "lvl": 4,
-                "name": "Amplified Healing"
-            },
-            {
-                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
-                "lvl": 7,
-                "name": "Battle Momentum"
-            },
-            {
-                "desc": "Charge target enemy Hero, dealing 60 (+8 per level) damage and stunning them for 1.5 seconds. While charging, nearby enemies are knocked back and take 30 (+4 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Judgment.png",
-                "lvl": 10,
-                "name": "Judgment"
-            },
-            {
-                "desc": "Enemies that attack you while shielded have their Attack Speed slowed by 50% and Movement Speed slowed by 50% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingWill.png",
-                "lvl": 13,
-                "name": "Imposing Will"
-            },
-            {
-                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
-                "lvl": 16,
-                "name": "Blood for Blood"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
-                "lvl": 20,
-                "name": "Hardened Shield"
-            }
-        ],
-        "winPercent": "65.9 %"
-    },
-    {
-        "gamesPlayed": "25",
-        "talents": [
-            {
-                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
-                "lvl": 1,
-                "name": "Regeneration Master"
-            },
-            {
-                "desc": "Increases regeneration effects and all healing received by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
-                "lvl": 4,
-                "name": "Amplified Healing"
-            },
-            {
-                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
-                "lvl": 7,
-                "name": "Battle Momentum"
-            },
-            {
-                "desc": "Charge target enemy Hero, dealing 60 (+8 per level) damage and stunning them for 1.5 seconds. While charging, nearby enemies are knocked back and take 30 (+4 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Judgment.png",
-                "lvl": 10,
-                "name": "Judgment"
-            },
-            {
-                "desc": "Enemies that attack you while shielded have their Attack Speed slowed by 50% and Movement Speed slowed by 50% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingWill.png",
-                "lvl": 13,
-                "name": "Imposing Will"
-            },
-            {
-                "desc": "Create a ring that blocks enemies from entering the area teleported to using El'Druin's Might.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HolyGround.png",
-                "lvl": 16,
-                "name": "Holy Ground"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
-                "lvl": 20,
-                "name": "Hardened Shield"
-            }
-        ],
-        "winPercent": "64.0 %"
-    },
-    {
-        "gamesPlayed": "24",
+        "gamesPlayed": "23",
         "talents": [
             {
                 "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
@@ -381,16 +333,16 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "58.3 %"
+        "winPercent": "65.2 %"
     },
     {
-        "gamesPlayed": "26",
+        "gamesPlayed": "22",
         "talents": [
             {
-                "desc": "Smite deals 25% more damage to Heroes.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PurgeEvil.png",
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
                 "lvl": 1,
-                "name": "Purge Evil"
+                "name": "Regeneration Master"
             },
             {
                 "desc": "Increases regeneration effects and all healing received by 30%.",
@@ -411,16 +363,16 @@
                 "name": "Judgment"
             },
             {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "desc": "Enemies that attack you while shielded have their Attack Speed slowed by 50% and Movement Speed slowed by 50% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingWill.png",
                 "lvl": 13,
-                "name": "Burning Rage"
+                "name": "Imposing Will"
             },
             {
-                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "desc": "Create a ring that blocks enemies from entering the area teleported to using El'Druin's Might.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HolyGround.png",
                 "lvl": 16,
-                "name": "Blood for Blood"
+                "name": "Holy Ground"
             },
             {
                 "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
@@ -429,10 +381,10 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "57.7 %"
+        "winPercent": "59.1 %"
     },
     {
-        "gamesPlayed": "20",
+        "gamesPlayed": "14",
         "talents": [
             {
                 "desc": "Smite deals 25% more damage to Heroes.",
@@ -477,6 +429,54 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "55.0 %"
+        "winPercent": "57.1 %"
+    },
+    {
+        "gamesPlayed": "28",
+        "talents": [
+            {
+                "desc": "Smite deals 25% more damage to Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PurgeEvil.png",
+                "lvl": 1,
+                "name": "Purge Evil"
+            },
+            {
+                "desc": "Increases regeneration effects and all healing received by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AmplifiedHealing.png",
+                "lvl": 4,
+                "name": "Amplified Healing"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "Charge target enemy Hero, dealing 60 (+8 per level) damage and stunning them for 1.5 seconds. While charging, nearby enemies are knocked back and take 30 (+4 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Judgment.png",
+                "lvl": 10,
+                "name": "Judgment"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "50.0 %"
     }
 ]

@@ -9,6 +9,54 @@
                 "name": "Taste for Blood"
             },
             {
+                "desc": "15% of the damage dealt by All Shall Burn is returned as Health for Azmodan.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gluttony.png",
+                "lvl": 4,
+                "name": "Gluttony"
+            },
+            {
+                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
+                "lvl": 7,
+                "name": "Infernal Globe"
+            },
+            {
+                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
+                "lvl": 10,
+                "name": "Black Pool"
+            },
+            {
+                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
+                "lvl": 13,
+                "name": "March of Sin"
+            },
+            {
+                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
+                "lvl": 16,
+                "name": "Imposing Presence"
+            },
+            {
+                "desc": "Azmodan and other empowered ally attacks and Abilities slow Movement and Attack Speeds by 40% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FifthCircle.png",
+                "lvl": 20,
+                "name": "Fifth Circle"
+            }
+        ],
+        "winPercent": "83.3 %"
+    },
+    {
+        "gamesPlayed": "11",
+        "talents": [
+            {
+                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
+                "lvl": 1,
+                "name": "Taste for Blood"
+            },
+            {
                 "desc": "Structure damage bonus now applies to Minions and Mercenaries and is increased to 50%.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurntheWeak.png",
                 "lvl": 4,
@@ -43,54 +91,6 @@
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
                 "lvl": 20,
                 "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "83.3 %"
-    },
-    {
-        "gamesPlayed": "11",
-        "talents": [
-            {
-                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
-                "lvl": 1,
-                "name": "Taste for Blood"
-            },
-            {
-                "desc": "Using General of Hell on a Lane Minion decreases the non-Heroic damage they take by -24% and increases the damage they deal to non-Heroic targets by 100%. Lasts 30 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoundMinion.png",
-                "lvl": 4,
-                "name": "Bound Minion"
-            },
-            {
-                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
-                "lvl": 7,
-                "name": "Infernal Globe"
-            },
-            {
-                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
-                "lvl": 10,
-                "name": "Black Pool"
-            },
-            {
-                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
-                "lvl": 13,
-                "name": "March of Sin"
-            },
-            {
-                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
-                "lvl": 16,
-                "name": "Blood for Blood"
-            },
-            {
-                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
-                "lvl": 20,
-                "name": "Storm Shield"
             }
         ],
         "winPercent": "81.8 %"
@@ -144,55 +144,7 @@
         "winPercent": "80.0 %"
     },
     {
-        "gamesPlayed": "5",
-        "talents": [
-            {
-                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
-                "lvl": 1,
-                "name": "Taste for Blood"
-            },
-            {
-                "desc": "15% of the damage dealt by All Shall Burn is returned as Health for Azmodan.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gluttony.png",
-                "lvl": 4,
-                "name": "Gluttony"
-            },
-            {
-                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
-                "lvl": 7,
-                "name": "Infernal Globe"
-            },
-            {
-                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
-                "lvl": 10,
-                "name": "Black Pool"
-            },
-            {
-                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
-                "lvl": 13,
-                "name": "March of Sin"
-            },
-            {
-                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
-                "lvl": 16,
-                "name": "Blood for Blood"
-            },
-            {
-                "desc": "Azmodan and other empowered ally attacks and Abilities slow Movement and Attack Speeds by 40% for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FifthCircle.png",
-                "lvl": 20,
-                "name": "Fifth Circle"
-            }
-        ],
-        "winPercent": "80.0 %"
-    },
-    {
-        "gamesPlayed": "46",
+        "gamesPlayed": "11",
         "talents": [
             {
                 "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
@@ -231,64 +183,16 @@
                 "name": "Blood for Blood"
             },
             {
-                "desc": "Azmodan and other empowered ally attacks and Abilities slow Movement and Attack Speeds by 40% for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FifthCircle.png",
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
                 "lvl": 20,
-                "name": "Fifth Circle"
+                "name": "Storm Shield"
             }
         ],
-        "winPercent": "69.6 %"
+        "winPercent": "72.7 %"
     },
     {
-        "gamesPlayed": "16",
-        "talents": [
-            {
-                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
-                "lvl": 1,
-                "name": "Taste for Blood"
-            },
-            {
-                "desc": "Using General of Hell on a Lane Minion decreases the non-Heroic damage they take by -24% and increases the damage they deal to non-Heroic targets by 100%. Lasts 30 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoundMinion.png",
-                "lvl": 4,
-                "name": "Bound Minion"
-            },
-            {
-                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
-                "lvl": 7,
-                "name": "Infernal Globe"
-            },
-            {
-                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
-                "lvl": 10,
-                "name": "Black Pool"
-            },
-            {
-                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
-                "lvl": 13,
-                "name": "March of Sin"
-            },
-            {
-                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
-                "lvl": 16,
-                "name": "Imposing Presence"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "68.8 %"
-    },
-    {
-        "gamesPlayed": "30",
+        "gamesPlayed": "28",
         "talents": [
             {
                 "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
@@ -333,58 +237,10 @@
                 "name": "Fifth Circle"
             }
         ],
-        "winPercent": "66.7 %"
+        "winPercent": "67.9 %"
     },
     {
-        "gamesPlayed": "93",
-        "talents": [
-            {
-                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
-                "lvl": 1,
-                "name": "Taste for Blood"
-            },
-            {
-                "desc": "Using General of Hell on a Lane Minion decreases the non-Heroic damage they take by -24% and increases the damage they deal to non-Heroic targets by 100%. Lasts 30 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoundMinion.png",
-                "lvl": 4,
-                "name": "Bound Minion"
-            },
-            {
-                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
-                "lvl": 7,
-                "name": "Infernal Globe"
-            },
-            {
-                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
-                "lvl": 10,
-                "name": "Black Pool"
-            },
-            {
-                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
-                "lvl": 13,
-                "name": "March of Sin"
-            },
-            {
-                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
-                "lvl": 16,
-                "name": "Blood for Blood"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "62.4 %"
-    },
-    {
-        "gamesPlayed": "15",
+        "gamesPlayed": "14",
         "talents": [
             {
                 "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
@@ -429,10 +285,154 @@
                 "name": "Fifth Circle"
             }
         ],
-        "winPercent": "60.0 %"
+        "winPercent": "64.3 %"
     },
     {
-        "gamesPlayed": "10",
+        "gamesPlayed": "14",
+        "talents": [
+            {
+                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
+                "lvl": 1,
+                "name": "Taste for Blood"
+            },
+            {
+                "desc": "Using General of Hell on a Lane Minion decreases the non-Heroic damage they take by -24% and increases the damage they deal to non-Heroic targets by 100%. Lasts 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoundMinion.png",
+                "lvl": 4,
+                "name": "Bound Minion"
+            },
+            {
+                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
+                "lvl": 7,
+                "name": "Infernal Globe"
+            },
+            {
+                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
+                "lvl": 10,
+                "name": "Black Pool"
+            },
+            {
+                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
+                "lvl": 13,
+                "name": "March of Sin"
+            },
+            {
+                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
+                "lvl": 16,
+                "name": "Imposing Presence"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "64.3 %"
+    },
+    {
+        "gamesPlayed": "60",
+        "talents": [
+            {
+                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
+                "lvl": 1,
+                "name": "Taste for Blood"
+            },
+            {
+                "desc": "Using General of Hell on a Lane Minion decreases the non-Heroic damage they take by -24% and increases the damage they deal to non-Heroic targets by 100%. Lasts 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoundMinion.png",
+                "lvl": 4,
+                "name": "Bound Minion"
+            },
+            {
+                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
+                "lvl": 7,
+                "name": "Infernal Globe"
+            },
+            {
+                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
+                "lvl": 10,
+                "name": "Black Pool"
+            },
+            {
+                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
+                "lvl": 13,
+                "name": "March of Sin"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Azmodan and other empowered ally attacks and Abilities slow Movement and Attack Speeds by 40% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FifthCircle.png",
+                "lvl": 20,
+                "name": "Fifth Circle"
+            }
+        ],
+        "winPercent": "63.3 %"
+    },
+    {
+        "gamesPlayed": "87",
+        "talents": [
+            {
+                "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TasteforBlood.png",
+                "lvl": 1,
+                "name": "Taste for Blood"
+            },
+            {
+                "desc": "Using General of Hell on a Lane Minion decreases the non-Heroic damage they take by -24% and increases the damage they deal to non-Heroic targets by 100%. Lasts 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoundMinion.png",
+                "lvl": 4,
+                "name": "Bound Minion"
+            },
+            {
+                "desc": "Reduces the cast and travel time by 40% and deals an additional 12 (+3 per level) damage over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/InfernalGlobe.png",
+                "lvl": 7,
+                "name": "Infernal Globe"
+            },
+            {
+                "desc": "Create a pool that empowers Azmodan, his Demons, and allied Minions, increasing their attack and ability damage by 75%. Pools last 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlackPool.png",
+                "lvl": 10,
+                "name": "Black Pool"
+            },
+            {
+                "desc": "Azmodan can move at 75% speed while channeling All Shall Burn.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchofSin.png",
+                "lvl": 13,
+                "name": "March of Sin"
+            },
+            {
+                "desc": "Activate to deal 10% of target enemy Hero's Max Health and heal for twice that amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BloodforBlood.png",
+                "lvl": 16,
+                "name": "Blood for Blood"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "60.9 %"
+    },
+    {
+        "gamesPlayed": "8",
         "talents": [
             {
                 "desc": "Enemies killed by Globe of Annihilation's impact permanently increase its damage by 2 up to a maximum of 500.",
@@ -477,6 +477,6 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "40.0 %"
+        "winPercent": "50.0 %"
     }
 ]

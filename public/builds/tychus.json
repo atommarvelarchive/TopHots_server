@@ -1,101 +1,5 @@
 [
     {
-        "gamesPlayed": "7",
-        "talents": [
-            {
-                "desc": "Overkill's damage to the primary target increased by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
-                "lvl": 1,
-                "name": "Armor Piercing Rounds"
-            },
-            {
-                "desc": "Frag Grenade deals an additional 200 (+30 per level) damage over 10 seconds to Minions and Structures.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MeltingPoint.png",
-                "lvl": 4,
-                "name": "Melting Point"
-            },
-            {
-                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
-                "lvl": 7,
-                "name": "First Aid"
-            },
-            {
-                "desc": "Call down a Laser Drill to attack nearby enemies, dealing 30 (+14 per level) damage every second. Reactivate to assign a new target. Lasts 22 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DrakkenLaserDrill.png",
-                "lvl": 10,
-                "name": "Drakken Laser Drill"
-            },
-            {
-                "desc": "Overkill applies a stacking slow, up to 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeadRain.png",
-                "lvl": 13,
-                "name": "Lead Rain"
-            },
-            {
-                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
-                "lvl": 16,
-                "name": "Stoneskin"
-            },
-            {
-                "desc": "Increases the range of the Drakken Laser Drill by 50%.  Deals increased damage the longer it remains on a single target, up to 100% extra damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusingDiodes.png",
-                "lvl": 20,
-                "name": "Focusing Diodes"
-            }
-        ],
-        "winPercent": "85.7 %"
-    },
-    {
-        "gamesPlayed": "31",
-        "talents": [
-            {
-                "desc": "Overkill's damage to the primary target increased by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
-                "lvl": 1,
-                "name": "Armor Piercing Rounds"
-            },
-            {
-                "desc": "Overkill's range increased by 15%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
-                "lvl": 4,
-                "name": "Spray 'n' Pray"
-            },
-            {
-                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
-                "lvl": 7,
-                "name": "First Aid"
-            },
-            {
-                "desc": "Call down a Laser Drill to attack nearby enemies, dealing 30 (+14 per level) damage every second. Reactivate to assign a new target. Lasts 22 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DrakkenLaserDrill.png",
-                "lvl": 10,
-                "name": "Drakken Laser Drill"
-            },
-            {
-                "desc": "Overkill applies a stacking slow, up to 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeadRain.png",
-                "lvl": 13,
-                "name": "Lead Rain"
-            },
-            {
-                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
-                "lvl": 16,
-                "name": "Stoneskin"
-            },
-            {
-                "desc": "Increases the range of the Drakken Laser Drill by 50%.  Deals increased damage the longer it remains on a single target, up to 100% extra damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusingDiodes.png",
-                "lvl": 20,
-                "name": "Focusing Diodes"
-            }
-        ],
-        "winPercent": "77.4 %"
-    },
-    {
         "gamesPlayed": "11",
         "talents": [
             {
@@ -141,10 +45,10 @@
                 "name": "Big Red Button"
             }
         ],
-        "winPercent": "72.7 %"
+        "winPercent": "81.8 %"
     },
     {
-        "gamesPlayed": "9",
+        "gamesPlayed": "8",
         "talents": [
             {
                 "desc": "Overkill's damage to the primary target increased by 20%.",
@@ -153,22 +57,22 @@
                 "name": "Armor Piercing Rounds"
             },
             {
-                "desc": "Overkill's range increased by 15%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
+                "desc": "Frag Grenade deals an additional 200 (+30 per level) damage over 10 seconds to Minions and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MeltingPoint.png",
                 "lvl": 4,
-                "name": "Spray 'n' Pray"
+                "name": "Melting Point"
             },
             {
-                "desc": "Activate to increase Basic Attack damage by 50% for 5 seconds. Each attack costs 5 Mana.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SizzlinAttacks.png",
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
                 "lvl": 7,
-                "name": "Sizzlin' Attacks"
+                "name": "First Aid"
             },
             {
-                "desc": "Call down an Odin to pilot. The Odin deals increased Damage, has 100% increased Basic Attack range, and uses different Abilities. Lasts 23 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CommandeerOdin.png",
+                "desc": "Call down a Laser Drill to attack nearby enemies, dealing 30 (+14 per level) damage every second. Reactivate to assign a new target. Lasts 22 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DrakkenLaserDrill.png",
                 "lvl": 10,
-                "name": "Commandeer Odin"
+                "name": "Drakken Laser Drill"
             },
             {
                 "desc": "Overkill applies a stacking slow, up to 20%.",
@@ -183,16 +87,64 @@
                 "name": "Stoneskin"
             },
             {
-                "desc": "Odin lasts 50% longer and Ragnarok Missiles also launches a Nuclear Missile.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BigRedButton.png",
+                "desc": "Increases the range of the Drakken Laser Drill by 50%.  Deals increased damage the longer it remains on a single target, up to 100% extra damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusingDiodes.png",
                 "lvl": 20,
-                "name": "Big Red Button"
+                "name": "Focusing Diodes"
             }
         ],
-        "winPercent": "66.7 %"
+        "winPercent": "75.0 %"
     },
     {
-        "gamesPlayed": "14",
+        "gamesPlayed": "36",
+        "talents": [
+            {
+                "desc": "Overkill's damage to the primary target increased by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
+                "lvl": 1,
+                "name": "Armor Piercing Rounds"
+            },
+            {
+                "desc": "Overkill's range increased by 15%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
+                "lvl": 4,
+                "name": "Spray 'n' Pray"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Call down a Laser Drill to attack nearby enemies, dealing 30 (+14 per level) damage every second. Reactivate to assign a new target. Lasts 22 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DrakkenLaserDrill.png",
+                "lvl": 10,
+                "name": "Drakken Laser Drill"
+            },
+            {
+                "desc": "Overkill applies a stacking slow, up to 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeadRain.png",
+                "lvl": 13,
+                "name": "Lead Rain"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Increases the range of the Drakken Laser Drill by 50%.  Deals increased damage the longer it remains on a single target, up to 100% extra damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusingDiodes.png",
+                "lvl": 20,
+                "name": "Focusing Diodes"
+            }
+        ],
+        "winPercent": "69.4 %"
+    },
+    {
+        "gamesPlayed": "11",
         "talents": [
             {
                 "desc": "Overkill's damage to the primary target increased by 20%.",
@@ -237,10 +189,154 @@
                 "name": "Big Red Button"
             }
         ],
-        "winPercent": "64.3 %"
+        "winPercent": "63.6 %"
     },
     {
-        "gamesPlayed": "13",
+        "gamesPlayed": "8",
+        "talents": [
+            {
+                "desc": "Overkill's damage to the primary target increased by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
+                "lvl": 1,
+                "name": "Armor Piercing Rounds"
+            },
+            {
+                "desc": "Overkill's range increased by 15%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
+                "lvl": 4,
+                "name": "Spray 'n' Pray"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Call down an Odin to pilot. The Odin deals increased Damage, has 100% increased Basic Attack range, and uses different Abilities. Lasts 23 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CommandeerOdin.png",
+                "lvl": 10,
+                "name": "Commandeer Odin"
+            },
+            {
+                "desc": "Overkill applies a stacking slow, up to 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeadRain.png",
+                "lvl": 13,
+                "name": "Lead Rain"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "62.5 %"
+    },
+    {
+        "gamesPlayed": "61",
+        "talents": [
+            {
+                "desc": "Overkill's damage to the primary target increased by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
+                "lvl": 1,
+                "name": "Armor Piercing Rounds"
+            },
+            {
+                "desc": "Overkill's range increased by 15%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
+                "lvl": 4,
+                "name": "Spray 'n' Pray"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Call down an Odin to pilot. The Odin deals increased Damage, has 100% increased Basic Attack range, and uses different Abilities. Lasts 23 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CommandeerOdin.png",
+                "lvl": 10,
+                "name": "Commandeer Odin"
+            },
+            {
+                "desc": "Overkill applies a stacking slow, up to 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeadRain.png",
+                "lvl": 13,
+                "name": "Lead Rain"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Odin lasts 50% longer and Ragnarok Missiles also launches a Nuclear Missile.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BigRedButton.png",
+                "lvl": 20,
+                "name": "Big Red Button"
+            }
+        ],
+        "winPercent": "60.7 %"
+    },
+    {
+        "gamesPlayed": "7",
+        "talents": [
+            {
+                "desc": "Overkill's damage to the primary target increased by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
+                "lvl": 1,
+                "name": "Armor Piercing Rounds"
+            },
+            {
+                "desc": "Overkill's range increased by 15%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
+                "lvl": 4,
+                "name": "Spray 'n' Pray"
+            },
+            {
+                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
+                "lvl": 7,
+                "name": "First Aid"
+            },
+            {
+                "desc": "Call down an Odin to pilot. The Odin deals increased Damage, has 100% increased Basic Attack range, and uses different Abilities. Lasts 23 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CommandeerOdin.png",
+                "lvl": 10,
+                "name": "Commandeer Odin"
+            },
+            {
+                "desc": "After using Run and Gun, gain 20% Attack Speed and 20% Movement Speed for 3 seconds",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StimPack.png",
+                "lvl": 13,
+                "name": "Stim Pack"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
+                "lvl": 16,
+                "name": "Stoneskin"
+            },
+            {
+                "desc": "Odin lasts 50% longer and Ragnarok Missiles also launches a Nuclear Missile.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BigRedButton.png",
+                "lvl": 20,
+                "name": "Big Red Button"
+            }
+        ],
+        "winPercent": "57.1 %"
+    },
+    {
+        "gamesPlayed": "11",
         "talents": [
             {
                 "desc": "Increases the explosion radius of Frag Grenade by 25%.",
@@ -285,10 +381,10 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "61.5 %"
+        "winPercent": "54.6 %"
     },
     {
-        "gamesPlayed": "30",
+        "gamesPlayed": "28",
         "talents": [
             {
                 "desc": "Overkill's damage to the primary target increased by 20%.",
@@ -333,55 +429,7 @@
                 "name": "Big Red Button"
             }
         ],
-        "winPercent": "60.0 %"
-    },
-    {
-        "gamesPlayed": "64",
-        "talents": [
-            {
-                "desc": "Overkill's damage to the primary target increased by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
-                "lvl": 1,
-                "name": "Armor Piercing Rounds"
-            },
-            {
-                "desc": "Overkill's range increased by 15%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
-                "lvl": 4,
-                "name": "Spray 'n' Pray"
-            },
-            {
-                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
-                "lvl": 7,
-                "name": "First Aid"
-            },
-            {
-                "desc": "Call down an Odin to pilot. The Odin deals increased Damage, has 100% increased Basic Attack range, and uses different Abilities. Lasts 23 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CommandeerOdin.png",
-                "lvl": 10,
-                "name": "Commandeer Odin"
-            },
-            {
-                "desc": "Overkill applies a stacking slow, up to 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeadRain.png",
-                "lvl": 13,
-                "name": "Lead Rain"
-            },
-            {
-                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
-                "lvl": 16,
-                "name": "Stoneskin"
-            },
-            {
-                "desc": "Odin lasts 50% longer and Ragnarok Missiles also launches a Nuclear Missile.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BigRedButton.png",
-                "lvl": 20,
-                "name": "Big Red Button"
-            }
-        ],
-        "winPercent": "59.4 %"
+        "winPercent": "53.6 %"
     },
     {
         "gamesPlayed": "9",
@@ -393,54 +441,6 @@
                 "name": "Armor Piercing Rounds"
             },
             {
-                "desc": "Overkill's range increased by 15%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpraynPray.png",
-                "lvl": 4,
-                "name": "Spray 'n' Pray"
-            },
-            {
-                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
-                "lvl": 7,
-                "name": "First Aid"
-            },
-            {
-                "desc": "Call down an Odin to pilot. The Odin deals increased Damage, has 100% increased Basic Attack range, and uses different Abilities. Lasts 23 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CommandeerOdin.png",
-                "lvl": 10,
-                "name": "Commandeer Odin"
-            },
-            {
-                "desc": "Overkill applies a stacking slow, up to 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LeadRain.png",
-                "lvl": 13,
-                "name": "Lead Rain"
-            },
-            {
-                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneskin.png",
-                "lvl": 16,
-                "name": "Stoneskin"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "55.6 %"
-    },
-    {
-        "gamesPlayed": "7",
-        "talents": [
-            {
-                "desc": "Overkill's damage to the primary target increased by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArmorPiercingRounds.png",
-                "lvl": 1,
-                "name": "Armor Piercing Rounds"
-            },
-            {
                 "desc": "Frag Grenade deals an additional 200 (+30 per level) damage over 10 seconds to Minions and Structures.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MeltingPoint.png",
                 "lvl": 4,
@@ -477,6 +477,6 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "14.3 %"
+        "winPercent": "11.1 %"
     }
 ]

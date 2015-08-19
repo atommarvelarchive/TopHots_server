@@ -9,54 +9,6 @@
                 "name": "Mana Addict"
             },
             {
-                "desc": "Flamestrike restores 20 Mana per enemy killed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaTap.png",
-                "lvl": 4,
-                "name": "Mana Tap"
-            },
-            {
-                "desc": "Increases Living Bomb's explosion damage by 75%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
-                "lvl": 7,
-                "name": "Fission Bomb"
-            },
-            {
-                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
-                "lvl": 10,
-                "name": "Phoenix"
-            },
-            {
-                "desc": "Increases the cast range of Flamestrike by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
-                "lvl": 13,
-                "name": "Flamethrower"
-            },
-            {
-                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
-                "lvl": 16,
-                "name": "Ignite"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "80.0 %"
-    },
-    {
-        "gamesPlayed": "19",
-        "talents": [
-            {
-                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
-                "lvl": 1,
-                "name": "Mana Addict"
-            },
-            {
                 "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
                 "lvl": 4,
@@ -93,55 +45,7 @@
                 "name": "Arcane Power"
             }
         ],
-        "winPercent": "79.0 %"
-    },
-    {
-        "gamesPlayed": "73",
-        "talents": [
-            {
-                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
-                "lvl": 1,
-                "name": "Mana Addict"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
-                "lvl": 4,
-                "name": "Gathering Power"
-            },
-            {
-                "desc": "Increases Living Bomb's explosion damage by 75%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
-                "lvl": 7,
-                "name": "Fission Bomb"
-            },
-            {
-                "desc": "After 2 seconds, cast a slow-moving fireball that deals 300 (+65 per level) damage to an enemy Hero and 150 (+32.5 per level) damage to enemies nearby.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pyroblast.png",
-                "lvl": 10,
-                "name": "Pyroblast"
-            },
-            {
-                "desc": "Increases the cast range of Flamestrike by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
-                "lvl": 13,
-                "name": "Flamethrower"
-            },
-            {
-                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
-                "lvl": 16,
-                "name": "Ignite"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "74.0 %"
+        "winPercent": "86.7 %"
     },
     {
         "gamesPlayed": "19",
@@ -189,16 +93,16 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "73.7 %"
+        "winPercent": "79.0 %"
     },
     {
-        "gamesPlayed": "14",
+        "gamesPlayed": "70",
         "talents": [
             {
-                "desc": "Heal for 26 (+9 per level) Health when you activate Verdant Spheres.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FelInfusion.png",
+                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
                 "lvl": 1,
-                "name": "Fel Infusion"
+                "name": "Mana Addict"
             },
             {
                 "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
@@ -213,16 +117,64 @@
                 "name": "Fission Bomb"
             },
             {
+                "desc": "After 2 seconds, cast a slow-moving fireball that deals 300 (+65 per level) damage to an enemy Hero and 150 (+32.5 per level) damage to enemies nearby.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Pyroblast.png",
+                "lvl": 10,
+                "name": "Pyroblast"
+            },
+            {
+                "desc": "Increases the cast range of Flamestrike by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
+                "lvl": 13,
+                "name": "Flamethrower"
+            },
+            {
+                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
+                "lvl": 16,
+                "name": "Ignite"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "77.1 %"
+    },
+    {
+        "gamesPlayed": "14",
+        "talents": [
+            {
+                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
+                "lvl": 1,
+                "name": "Mana Addict"
+            },
+            {
+                "desc": "Flamestrike restores 20 Mana per enemy killed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaTap.png",
+                "lvl": 4,
+                "name": "Mana Tap"
+            },
+            {
+                "desc": "Increases Living Bomb's explosion damage by 75%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
+                "lvl": 7,
+                "name": "Fission Bomb"
+            },
+            {
                 "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
                 "lvl": 10,
                 "name": "Phoenix"
             },
             {
-                "desc": "Living Bomb's explosion applies Living Bomb to enemies not already affected by it.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChainBomb.png",
+                "desc": "Increases the cast range of Flamestrike by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
                 "lvl": 13,
-                "name": "Chain Bomb"
+                "name": "Flamethrower"
             },
             {
                 "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
@@ -240,7 +192,55 @@
         "winPercent": "71.4 %"
     },
     {
-        "gamesPlayed": "348",
+        "gamesPlayed": "43",
+        "talents": [
+            {
+                "desc": "Heal for 26 (+9 per level) Health when you activate Verdant Spheres.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FelInfusion.png",
+                "lvl": 1,
+                "name": "Fel Infusion"
+            },
+            {
+                "desc": "Increases Gravity Lapse's range and speed by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NetherWind.png",
+                "lvl": 4,
+                "name": "Nether Wind"
+            },
+            {
+                "desc": "Increases Living Bomb's explosion damage by 75%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
+                "lvl": 7,
+                "name": "Fission Bomb"
+            },
+            {
+                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
+                "lvl": 10,
+                "name": "Phoenix"
+            },
+            {
+                "desc": "Increases the cast range of Flamestrike by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
+                "lvl": 13,
+                "name": "Flamethrower"
+            },
+            {
+                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
+                "lvl": 16,
+                "name": "Ignite"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "67.4 %"
+    },
+    {
+        "gamesPlayed": "325",
         "talents": [
             {
                 "desc": "Heal for 26 (+9 per level) Health when you activate Verdant Spheres.",
@@ -285,10 +285,154 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "69.0 %"
+        "winPercent": "66.5 %"
     },
     {
-        "gamesPlayed": "58",
+        "gamesPlayed": "1347",
+        "talents": [
+            {
+                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
+                "lvl": 1,
+                "name": "Mana Addict"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
+                "lvl": 4,
+                "name": "Gathering Power"
+            },
+            {
+                "desc": "Increases Living Bomb's explosion damage by 75%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
+                "lvl": 7,
+                "name": "Fission Bomb"
+            },
+            {
+                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
+                "lvl": 10,
+                "name": "Phoenix"
+            },
+            {
+                "desc": "Increases the cast range of Flamestrike by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
+                "lvl": 13,
+                "name": "Flamethrower"
+            },
+            {
+                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
+                "lvl": 16,
+                "name": "Ignite"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "66.1 %"
+    },
+    {
+        "gamesPlayed": "173",
+        "talents": [
+            {
+                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
+                "lvl": 1,
+                "name": "Mana Addict"
+            },
+            {
+                "desc": "Increases Gravity Lapse's range and speed by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NetherWind.png",
+                "lvl": 4,
+                "name": "Nether Wind"
+            },
+            {
+                "desc": "Increases Living Bomb's explosion damage by 75%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
+                "lvl": 7,
+                "name": "Fission Bomb"
+            },
+            {
+                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
+                "lvl": 10,
+                "name": "Phoenix"
+            },
+            {
+                "desc": "Increases the cast range of Flamestrike by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
+                "lvl": 13,
+                "name": "Flamethrower"
+            },
+            {
+                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
+                "lvl": 16,
+                "name": "Ignite"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "62.4 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Heal for 26 (+9 per level) Health when you activate Verdant Spheres.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FelInfusion.png",
+                "lvl": 1,
+                "name": "Fel Infusion"
+            },
+            {
+                "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
+                "lvl": 4,
+                "name": "Gathering Power"
+            },
+            {
+                "desc": "Increases Living Bomb's explosion damage by 75%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
+                "lvl": 7,
+                "name": "Fission Bomb"
+            },
+            {
+                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
+                "lvl": 10,
+                "name": "Phoenix"
+            },
+            {
+                "desc": "Living Bomb's explosion applies Living Bomb to enemies not already affected by it.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ChainBomb.png",
+                "lvl": 13,
+                "name": "Chain Bomb"
+            },
+            {
+                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
+                "lvl": 16,
+                "name": "Ignite"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "60.0 %"
+    },
+    {
+        "gamesPlayed": "54",
         "talents": [
             {
                 "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
@@ -333,150 +477,6 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "69.0 %"
-    },
-    {
-        "gamesPlayed": "1346",
-        "talents": [
-            {
-                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
-                "lvl": 1,
-                "name": "Mana Addict"
-            },
-            {
-                "desc": "Passively grants 5% Ability Power. Each Hero takedown increases this bonus by 2% to a maximum of 15%. This bonus Ability Power is reset to 5% on death.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GatheringPower.png",
-                "lvl": 4,
-                "name": "Gathering Power"
-            },
-            {
-                "desc": "Increases Living Bomb's explosion damage by 75%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
-                "lvl": 7,
-                "name": "Fission Bomb"
-            },
-            {
-                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
-                "lvl": 10,
-                "name": "Phoenix"
-            },
-            {
-                "desc": "Increases the cast range of Flamestrike by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
-                "lvl": 13,
-                "name": "Flamethrower"
-            },
-            {
-                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
-                "lvl": 16,
-                "name": "Ignite"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "66.7 %"
-    },
-    {
-        "gamesPlayed": "53",
-        "talents": [
-            {
-                "desc": "Heal for 26 (+9 per level) Health when you activate Verdant Spheres.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FelInfusion.png",
-                "lvl": 1,
-                "name": "Fel Infusion"
-            },
-            {
-                "desc": "Increases Gravity Lapse's range and speed by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NetherWind.png",
-                "lvl": 4,
-                "name": "Nether Wind"
-            },
-            {
-                "desc": "Increases Living Bomb's explosion damage by 75%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
-                "lvl": 7,
-                "name": "Fission Bomb"
-            },
-            {
-                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
-                "lvl": 10,
-                "name": "Phoenix"
-            },
-            {
-                "desc": "Increases the cast range of Flamestrike by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
-                "lvl": 13,
-                "name": "Flamethrower"
-            },
-            {
-                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
-                "lvl": 16,
-                "name": "Ignite"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "64.2 %"
-    },
-    {
-        "gamesPlayed": "175",
-        "talents": [
-            {
-                "desc": "Increase your maximum Mana by 15 when you pick up a Regeneration Globe.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ManaAddict.png",
-                "lvl": 1,
-                "name": "Mana Addict"
-            },
-            {
-                "desc": "Increases Gravity Lapse's range and speed by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NetherWind.png",
-                "lvl": 4,
-                "name": "Nether Wind"
-            },
-            {
-                "desc": "Increases Living Bomb's explosion damage by 75%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FissionBomb.png",
-                "lvl": 7,
-                "name": "Fission Bomb"
-            },
-            {
-                "desc": "Launch a Phoenix to an area, dealing 10 (+8 per level) damage to enemies along the way. The Phoenix persists for 7 seconds, attacking enemies for 10 (+8 per level) damage and splashing for 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Phoenix.png",
-                "lvl": 10,
-                "name": "Phoenix"
-            },
-            {
-                "desc": "Increases the cast range of Flamestrike by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Flamethrower.png",
-                "lvl": 13,
-                "name": "Flamethrower"
-            },
-            {
-                "desc": "Flamestrike also applies Living Bomb to Heroes not already affected by it.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Ignite.png",
-                "lvl": 16,
-                "name": "Ignite"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "62.9 %"
+        "winPercent": "59.3 %"
     }
 ]

@@ -1,5 +1,53 @@
 [
     {
+        "gamesPlayed": "6",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
+                "lvl": 7,
+                "name": "Revolution Overdrive"
+            },
+            {
+                "desc": "Summon two Stealthed Banshees that attack an enemy. Each Banshee deals 16 (+4 per level) damage a second and lasts 22 seconds. Can reactivate the Ability to retarget the Banshees.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RaynorsRaiders.png",
+                "lvl": 10,
+                "name": "Raynor's Raiders"
+            },
+            {
+                "desc": "Increases Inspire's duration by 50% and causes Adrenaline Rush to also apply Inspire.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SteelResolve.png",
+                "lvl": 13,
+                "name": "Steel Resolve"
+            },
+            {
+                "desc": "The first enemy hit by Penetrating Round is stunned for 1 second and takes 50% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bullseye.png",
+                "lvl": 16,
+                "name": "Bullseye"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
         "gamesPlayed": "9",
         "talents": [
             {
@@ -45,10 +93,58 @@
                 "name": "Nexus Frenzy"
             }
         ],
-        "winPercent": "77.8 %"
+        "winPercent": "88.9 %"
     },
     {
-        "gamesPlayed": "9",
+        "gamesPlayed": "8",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
+                "lvl": 7,
+                "name": "Revolution Overdrive"
+            },
+            {
+                "desc": "Order the Hyperion to make a strafing run dealing 25 (+6 per level) damage a second, hitting up to 4 enemies. Also occasionally fires its Yamato Cannon on Structures for 300 (+72 per level) damage. Lasts 12 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hyperion.png",
+                "lvl": 10,
+                "name": "Hyperion"
+            },
+            {
+                "desc": "Penetrating Round gains a second charge.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBarreled.png",
+                "lvl": 13,
+                "name": "Double-Barreled"
+            },
+            {
+                "desc": "The first enemy hit by Penetrating Round is stunned for 1 second and takes 50% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bullseye.png",
+                "lvl": 16,
+                "name": "Bullseye"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "87.5 %"
+    },
+    {
+        "gamesPlayed": "10",
         "talents": [
             {
                 "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
@@ -93,10 +189,58 @@
                 "name": "Nexus Frenzy"
             }
         ],
-        "winPercent": "77.8 %"
+        "winPercent": "80.0 %"
     },
     {
-        "gamesPlayed": "13",
+        "gamesPlayed": "10",
+        "talents": [
+            {
+                "desc": "Increases Adrenaline Rush healing by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiveMeMore.png",
+                "lvl": 1,
+                "name": "Give Me More!"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
+                "lvl": 7,
+                "name": "Revolution Overdrive"
+            },
+            {
+                "desc": "Summon two Stealthed Banshees that attack an enemy. Each Banshee deals 16 (+4 per level) damage a second and lasts 22 seconds. Can reactivate the Ability to retarget the Banshees.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RaynorsRaiders.png",
+                "lvl": 10,
+                "name": "Raynor's Raiders"
+            },
+            {
+                "desc": "Penetrating Round gains a second charge.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBarreled.png",
+                "lvl": 13,
+                "name": "Double-Barreled"
+            },
+            {
+                "desc": "The first enemy hit by Penetrating Round is stunned for 1 second and takes 50% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bullseye.png",
+                "lvl": 16,
+                "name": "Bullseye"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "70.0 %"
+    },
+    {
+        "gamesPlayed": "9",
         "talents": [
             {
                 "desc": "Increases Adrenaline Rush healing by 50%.",
@@ -141,7 +285,55 @@
                 "name": "Nexus Frenzy"
             }
         ],
-        "winPercent": "69.2 %"
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "14",
+        "talents": [
+            {
+                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
+                "lvl": 1,
+                "name": "Seasoned Marksman"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
+                "lvl": 7,
+                "name": "Revolution Overdrive"
+            },
+            {
+                "desc": "Order the Hyperion to make a strafing run dealing 25 (+6 per level) damage a second, hitting up to 4 enemies. Also occasionally fires its Yamato Cannon on Structures for 300 (+72 per level) damage. Lasts 12 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hyperion.png",
+                "lvl": 10,
+                "name": "Hyperion"
+            },
+            {
+                "desc": "Penetrating Round gains a second charge.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBarreled.png",
+                "lvl": 13,
+                "name": "Double-Barreled"
+            },
+            {
+                "desc": "The first enemy hit by Penetrating Round is stunned for 1 second and takes 50% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bullseye.png",
+                "lvl": 16,
+                "name": "Bullseye"
+            },
+            {
+                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
+                "lvl": 20,
+                "name": "Nexus Frenzy"
+            }
+        ],
+        "winPercent": "64.3 %"
     },
     {
         "gamesPlayed": "8",
@@ -192,7 +384,7 @@
         "winPercent": "62.5 %"
     },
     {
-        "gamesPlayed": "10",
+        "gamesPlayed": "8",
         "talents": [
             {
                 "desc": "Increases Adrenaline Rush healing by 50%.",
@@ -237,58 +429,10 @@
                 "name": "Nexus Frenzy"
             }
         ],
-        "winPercent": "60.0 %"
+        "winPercent": "62.5 %"
     },
     {
-        "gamesPlayed": "10",
-        "talents": [
-            {
-                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
-                "lvl": 1,
-                "name": "Seasoned Marksman"
-            },
-            {
-                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
-                "lvl": 4,
-                "name": "Focused Attack"
-            },
-            {
-                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
-                "lvl": 7,
-                "name": "Revolution Overdrive"
-            },
-            {
-                "desc": "Order the Hyperion to make a strafing run dealing 25 (+6 per level) damage a second, hitting up to 4 enemies. Also occasionally fires its Yamato Cannon on Structures for 300 (+72 per level) damage. Lasts 12 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hyperion.png",
-                "lvl": 10,
-                "name": "Hyperion"
-            },
-            {
-                "desc": "Penetrating Round gains a second charge.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBarreled.png",
-                "lvl": 13,
-                "name": "Double-Barreled"
-            },
-            {
-                "desc": "The first enemy hit by Penetrating Round is stunned for 1 second and takes 50% more damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bullseye.png",
-                "lvl": 16,
-                "name": "Bullseye"
-            },
-            {
-                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
-                "lvl": 20,
-                "name": "Nexus Frenzy"
-            }
-        ],
-        "winPercent": "60.0 %"
-    },
-    {
-        "gamesPlayed": "18",
+        "gamesPlayed": "17",
         "talents": [
             {
                 "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
@@ -333,150 +477,6 @@
                 "name": "Nexus Frenzy"
             }
         ],
-        "winPercent": "55.6 %"
-    },
-    {
-        "gamesPlayed": "11",
-        "talents": [
-            {
-                "desc": "Increases Adrenaline Rush healing by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiveMeMore.png",
-                "lvl": 1,
-                "name": "Give Me More!"
-            },
-            {
-                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
-                "lvl": 4,
-                "name": "Focused Attack"
-            },
-            {
-                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
-                "lvl": 7,
-                "name": "Revolution Overdrive"
-            },
-            {
-                "desc": "Summon two Stealthed Banshees that attack an enemy. Each Banshee deals 16 (+4 per level) damage a second and lasts 22 seconds. Can reactivate the Ability to retarget the Banshees.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RaynorsRaiders.png",
-                "lvl": 10,
-                "name": "Raynor's Raiders"
-            },
-            {
-                "desc": "Penetrating Round gains a second charge.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBarreled.png",
-                "lvl": 13,
-                "name": "Double-Barreled"
-            },
-            {
-                "desc": "The first enemy hit by Penetrating Round is stunned for 1 second and takes 50% more damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bullseye.png",
-                "lvl": 16,
-                "name": "Bullseye"
-            },
-            {
-                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
-                "lvl": 20,
-                "name": "Nexus Frenzy"
-            }
-        ],
-        "winPercent": "54.6 %"
-    },
-    {
-        "gamesPlayed": "8",
-        "talents": [
-            {
-                "desc": "Increases Adrenaline Rush healing by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiveMeMore.png",
-                "lvl": 1,
-                "name": "Give Me More!"
-            },
-            {
-                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
-                "lvl": 4,
-                "name": "Focused Attack"
-            },
-            {
-                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
-                "lvl": 7,
-                "name": "Revolution Overdrive"
-            },
-            {
-                "desc": "Summon two Stealthed Banshees that attack an enemy. Each Banshee deals 16 (+4 per level) damage a second and lasts 22 seconds. Can reactivate the Ability to retarget the Banshees.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RaynorsRaiders.png",
-                "lvl": 10,
-                "name": "Raynor's Raiders"
-            },
-            {
-                "desc": "Penetrating Round gains a second charge.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleBarreled.png",
-                "lvl": 13,
-                "name": "Double-Barreled"
-            },
-            {
-                "desc": "The first enemy hit by Penetrating Round is stunned for 1 second and takes 50% more damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Bullseye.png",
-                "lvl": 16,
-                "name": "Bullseye"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "50.0 %"
-    },
-    {
-        "gamesPlayed": "11",
-        "talents": [
-            {
-                "desc": "For every 6 enemy Minion or Mercenary kills near your Hero, gain 1 Basic Attack damage. Hero Takedowns count as 2 Minion kills.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SeasonedMarksman.png",
-                "lvl": 1,
-                "name": "Seasoned Marksman"
-            },
-            {
-                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
-                "lvl": 4,
-                "name": "Focused Attack"
-            },
-            {
-                "desc": "Gain 10% Movement Speed while affected by Inspire.  Increase this bonus by 5% for each allied Hero nearby when Inspire is cast.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RevolutionOverdrive.png",
-                "lvl": 7,
-                "name": "Revolution Overdrive"
-            },
-            {
-                "desc": "Summon two Stealthed Banshees that attack an enemy. Each Banshee deals 16 (+4 per level) damage a second and lasts 22 seconds. Can reactivate the Ability to retarget the Banshees.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RaynorsRaiders.png",
-                "lvl": 10,
-                "name": "Raynor's Raiders"
-            },
-            {
-                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 1.5% of the Hero's maximum Health.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GiantKiller.png",
-                "lvl": 13,
-                "name": "Giant Killer"
-            },
-            {
-                "desc": "Reduces the duration of silences, stuns, slows, and roots against you by 50%. Once every 5 seconds, if you are stunned you knock nearby enemies away.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RelentlessLeader.png",
-                "lvl": 16,
-                "name": "Relentless Leader"
-            },
-            {
-                "desc": "Increases Attack Speed by 20% and Attack Range by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NexusFrenzy.png",
-                "lvl": 20,
-                "name": "Nexus Frenzy"
-            }
-        ],
-        "winPercent": "45.5 %"
+        "winPercent": "58.8 %"
     }
 ]

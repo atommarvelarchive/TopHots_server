@@ -1,54 +1,6 @@
 [
     {
-        "gamesPlayed": "39",
-        "talents": [
-            {
-                "desc": "Increases the slow of Chill from 25% to 35%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepChill.png",
-                "lvl": 1,
-                "name": "Deep Chill"
-            },
-            {
-                "desc": "Increases the radius of Blizzard by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Snowstorm.png",
-                "lvl": 4,
-                "name": "Snowstorm"
-            },
-            {
-                "desc": "Increases the damage bonus of Frostbite from 50% to 65%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Frostbitten.png",
-                "lvl": 7,
-                "name": "Frostbitten"
-            },
-            {
-                "desc": "Summons a Water Elemental at target location, dealing 65 (+7 per level) damage and Chilling nearby enemies. The Water Elemental's Basic Attacks do 50 (+6 per level) damage, splash for 25% damage and Chill. Can reactivate the Ability to retarget the Water Elemental.  Lasts 20 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonWaterElemental.png",
-                "lvl": 10,
-                "name": "Summon Water Elemental"
-            },
-            {
-                "desc": "Increases the cast range of Blizzard by 100%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormFront.png",
-                "lvl": 13,
-                "name": "Storm Front"
-            },
-            {
-                "desc": "Cone of Cold also roots Chilled targets for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NumbingBlast.png",
-                "lvl": 16,
-                "name": "Numbing Blast"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "79.5 %"
-    },
-    {
-        "gamesPlayed": "38",
+        "gamesPlayed": "42",
         "talents": [
             {
                 "desc": "Increases the slow of Chill from 25% to 35%.",
@@ -93,10 +45,58 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "76.3 %"
+        "winPercent": "76.2 %"
     },
     {
-        "gamesPlayed": "351",
+        "gamesPlayed": "706",
+        "talents": [
+            {
+                "desc": "Increases the slow of Chill from 25% to 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepChill.png",
+                "lvl": 1,
+                "name": "Deep Chill"
+            },
+            {
+                "desc": "Increases the radius of Blizzard by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Snowstorm.png",
+                "lvl": 4,
+                "name": "Snowstorm"
+            },
+            {
+                "desc": "Increases the damage bonus of Frostbite from 50% to 65%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Frostbitten.png",
+                "lvl": 7,
+                "name": "Frostbitten"
+            },
+            {
+                "desc": "Summons a Water Elemental at target location, dealing 65 (+7 per level) damage and Chilling nearby enemies. The Water Elemental's Basic Attacks do 50 (+6 per level) damage, splash for 25% damage and Chill. Can reactivate the Ability to retarget the Water Elemental.  Lasts 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonWaterElemental.png",
+                "lvl": 10,
+                "name": "Summon Water Elemental"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds. When this effect expires, nearby enemies are Chilled.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImprovedIceBlock.png",
+                "lvl": 13,
+                "name": "Improved Ice Block"
+            },
+            {
+                "desc": "Cone of Cold also roots Chilled targets for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NumbingBlast.png",
+                "lvl": 16,
+                "name": "Numbing Blast"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "73.5 %"
+    },
+    {
+        "gamesPlayed": "360",
         "talents": [
             {
                 "desc": "Increases the slow of Chill from 25% to 35%.",
@@ -141,58 +141,10 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "73.8 %"
+        "winPercent": "73.1 %"
     },
     {
-        "gamesPlayed": "691",
-        "talents": [
-            {
-                "desc": "Increases the slow of Chill from 25% to 35%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepChill.png",
-                "lvl": 1,
-                "name": "Deep Chill"
-            },
-            {
-                "desc": "Increases the radius of Blizzard by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Snowstorm.png",
-                "lvl": 4,
-                "name": "Snowstorm"
-            },
-            {
-                "desc": "Increases the damage bonus of Frostbite from 50% to 65%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Frostbitten.png",
-                "lvl": 7,
-                "name": "Frostbitten"
-            },
-            {
-                "desc": "Summons a Water Elemental at target location, dealing 65 (+7 per level) damage and Chilling nearby enemies. The Water Elemental's Basic Attacks do 50 (+6 per level) damage, splash for 25% damage and Chill. Can reactivate the Ability to retarget the Water Elemental.  Lasts 20 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonWaterElemental.png",
-                "lvl": 10,
-                "name": "Summon Water Elemental"
-            },
-            {
-                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds. When this effect expires, nearby enemies are Chilled.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImprovedIceBlock.png",
-                "lvl": 13,
-                "name": "Improved Ice Block"
-            },
-            {
-                "desc": "Cone of Cold also roots Chilled targets for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NumbingBlast.png",
-                "lvl": 16,
-                "name": "Numbing Blast"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "72.8 %"
-    },
-    {
-        "gamesPlayed": "342",
+        "gamesPlayed": "36",
         "talents": [
             {
                 "desc": "Increases the slow of Chill from 25% to 35%.",
@@ -205,54 +157,6 @@
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArcaneIntellect.png",
                 "lvl": 4,
                 "name": "Arcane Intellect"
-            },
-            {
-                "desc": "Increases the damage bonus of Frostbite from 50% to 65%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Frostbitten.png",
-                "lvl": 7,
-                "name": "Frostbitten"
-            },
-            {
-                "desc": "Summons a Water Elemental at target location, dealing 65 (+7 per level) damage and Chilling nearby enemies. The Water Elemental's Basic Attacks do 50 (+6 per level) damage, splash for 25% damage and Chill. Can reactivate the Ability to retarget the Water Elemental.  Lasts 20 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonWaterElemental.png",
-                "lvl": 10,
-                "name": "Summon Water Elemental"
-            },
-            {
-                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds. When this effect expires, nearby enemies are Chilled.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImprovedIceBlock.png",
-                "lvl": 13,
-                "name": "Improved Ice Block"
-            },
-            {
-                "desc": "Cone of Cold also roots Chilled targets for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NumbingBlast.png",
-                "lvl": 16,
-                "name": "Numbing Blast"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "69.9 %"
-    },
-    {
-        "gamesPlayed": "58",
-        "talents": [
-            {
-                "desc": "Increases the slow of Chill from 25% to 35%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepChill.png",
-                "lvl": 1,
-                "name": "Deep Chill"
-            },
-            {
-                "desc": "Increases the radius of Blizzard by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Snowstorm.png",
-                "lvl": 4,
-                "name": "Snowstorm"
             },
             {
                 "desc": "Enemy Heroes that attack you are Chilled. Additionally, every 8 seconds you can block the next Basic Attack from an enemy Hero reducing its damage by 75%",
@@ -285,10 +189,10 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "67.2 %"
+        "winPercent": "69.4 %"
     },
     {
-        "gamesPlayed": "168",
+        "gamesPlayed": "177",
         "talents": [
             {
                 "desc": "Increases the slow of Chill from 25% to 35%.",
@@ -333,10 +237,10 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "65.5 %"
+        "winPercent": "68.9 %"
     },
     {
-        "gamesPlayed": "185",
+        "gamesPlayed": "221",
         "talents": [
             {
                 "desc": "Increases the slow of Chill from 25% to 35%.",
@@ -381,10 +285,58 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "65.4 %"
+        "winPercent": "68.8 %"
     },
     {
-        "gamesPlayed": "62",
+        "gamesPlayed": "345",
+        "talents": [
+            {
+                "desc": "Increases the slow of Chill from 25% to 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepChill.png",
+                "lvl": 1,
+                "name": "Deep Chill"
+            },
+            {
+                "desc": "Dealing damage to a Chilled target returns Mana to Jaina. Basic Attacks return 5 Mana and abilities return 25.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ArcaneIntellect.png",
+                "lvl": 4,
+                "name": "Arcane Intellect"
+            },
+            {
+                "desc": "Increases the damage bonus of Frostbite from 50% to 65%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Frostbitten.png",
+                "lvl": 7,
+                "name": "Frostbitten"
+            },
+            {
+                "desc": "Summons a Water Elemental at target location, dealing 65 (+7 per level) damage and Chilling nearby enemies. The Water Elemental's Basic Attacks do 50 (+6 per level) damage, splash for 25% damage and Chill. Can reactivate the Ability to retarget the Water Elemental.  Lasts 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonWaterElemental.png",
+                "lvl": 10,
+                "name": "Summon Water Elemental"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds. When this effect expires, nearby enemies are Chilled.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImprovedIceBlock.png",
+                "lvl": 13,
+                "name": "Improved Ice Block"
+            },
+            {
+                "desc": "Cone of Cold also roots Chilled targets for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NumbingBlast.png",
+                "lvl": 16,
+                "name": "Numbing Blast"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "67.8 %"
+    },
+    {
+        "gamesPlayed": "59",
         "talents": [
             {
                 "desc": "Increases the slow of Chill from 25% to 35%.",
@@ -429,10 +381,58 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "64.5 %"
+        "winPercent": "66.1 %"
     },
     {
-        "gamesPlayed": "76",
+        "gamesPlayed": "52",
+        "talents": [
+            {
+                "desc": "Increases the slow of Chill from 25% to 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeepChill.png",
+                "lvl": 1,
+                "name": "Deep Chill"
+            },
+            {
+                "desc": "Increases the radius of Blizzard by 30%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Snowstorm.png",
+                "lvl": 4,
+                "name": "Snowstorm"
+            },
+            {
+                "desc": "Enemy Heroes that attack you are Chilled. Additionally, every 8 seconds you can block the next Basic Attack from an enemy Hero reducing its damage by 75%",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FrostArmor.png",
+                "lvl": 7,
+                "name": "Frost Armor"
+            },
+            {
+                "desc": "Summons a Water Elemental at target location, dealing 65 (+7 per level) damage and Chilling nearby enemies. The Water Elemental's Basic Attacks do 50 (+6 per level) damage, splash for 25% damage and Chill. Can reactivate the Ability to retarget the Water Elemental.  Lasts 20 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SummonWaterElemental.png",
+                "lvl": 10,
+                "name": "Summon Water Elemental"
+            },
+            {
+                "desc": "Activate to place yourself in Stasis and gain Invulnerability for 3 seconds. When this effect expires, nearby enemies are Chilled.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImprovedIceBlock.png",
+                "lvl": 13,
+                "name": "Improved Ice Block"
+            },
+            {
+                "desc": "Enemies damaged by Cone of Cold are also afflicted with Vulnerable, increasing the damage they take by 25% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NorthernExposure.png",
+                "lvl": 16,
+                "name": "Northern Exposure"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "63.5 %"
+    },
+    {
+        "gamesPlayed": "89",
         "talents": [
             {
                 "desc": "Increases the slow of Chill from 25% to 35%.",
@@ -477,6 +477,6 @@
                 "name": "Bolt of the Storm"
             }
         ],
-        "winPercent": "64.5 %"
+        "winPercent": "60.7 %"
     }
 ]

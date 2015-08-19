@@ -1,150 +1,6 @@
 [
     {
-        "gamesPlayed": "27",
-        "talents": [
-            {
-                "desc": "Storm Bolt's damage is permanently increased by 5 for each enemy Hero hit.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PerfectStorm.png",
-                "lvl": 1,
-                "name": "Perfect Storm"
-            },
-            {
-                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
-                "lvl": 4,
-                "name": "Thunderburn"
-            },
-            {
-                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
-                "lvl": 7,
-                "name": "Piercing Bolt"
-            },
-            {
-                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
-                "lvl": 10,
-                "name": "Avatar"
-            },
-            {
-                "desc": "Thunder Clap deals 300% damage if only one target is hit.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderstrike.png",
-                "lvl": 13,
-                "name": "Thunderstrike"
-            },
-            {
-                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
-                "lvl": 16,
-                "name": "Stoneform"
-            },
-            {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
-                "lvl": 20,
-                "name": "Rewind"
-            }
-        ],
-        "winPercent": "85.2 %"
-    },
-    {
-        "gamesPlayed": "32",
-        "talents": [
-            {
-                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
-                "lvl": 1,
-                "name": "Reverberation"
-            },
-            {
-                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
-                "lvl": 4,
-                "name": "Thunderburn"
-            },
-            {
-                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
-                "lvl": 7,
-                "name": "Piercing Bolt"
-            },
-            {
-                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
-                "lvl": 10,
-                "name": "Avatar"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
-                "lvl": 16,
-                "name": "Stoneform"
-            },
-            {
-                "desc": "Increases the duration of Avatar by 30%, and the duration of Disables are reduced by 75% while in Avatar.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstoppableForce.png",
-                "lvl": 20,
-                "name": "Unstoppable Force"
-            }
-        ],
-        "winPercent": "78.1 %"
-    },
-    {
-        "gamesPlayed": "98",
-        "talents": [
-            {
-                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
-                "lvl": 1,
-                "name": "Reverberation"
-            },
-            {
-                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
-                "lvl": 4,
-                "name": "Thunderburn"
-            },
-            {
-                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
-                "lvl": 7,
-                "name": "Piercing Bolt"
-            },
-            {
-                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
-                "lvl": 10,
-                "name": "Avatar"
-            },
-            {
-                "desc": "Thunder Clap deals 300% damage if only one target is hit.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderstrike.png",
-                "lvl": 13,
-                "name": "Thunderstrike"
-            },
-            {
-                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
-                "lvl": 16,
-                "name": "Stoneform"
-            },
-            {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
-                "lvl": 20,
-                "name": "Rewind"
-            }
-        ],
-        "winPercent": "69.4 %"
-    },
-    {
-        "gamesPlayed": "42",
+        "gamesPlayed": "40",
         "talents": [
             {
                 "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
@@ -189,10 +45,106 @@
                 "name": "Rewind"
             }
         ],
-        "winPercent": "69.1 %"
+        "winPercent": "82.5 %"
     },
     {
-        "gamesPlayed": "64",
+        "gamesPlayed": "28",
+        "talents": [
+            {
+                "desc": "Storm Bolt's damage is permanently increased by 5 for each enemy Hero hit.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PerfectStorm.png",
+                "lvl": 1,
+                "name": "Perfect Storm"
+            },
+            {
+                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
+                "lvl": 4,
+                "name": "Thunderburn"
+            },
+            {
+                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
+                "lvl": 7,
+                "name": "Piercing Bolt"
+            },
+            {
+                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
+                "lvl": 10,
+                "name": "Avatar"
+            },
+            {
+                "desc": "Thunder Clap deals 300% damage if only one target is hit.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderstrike.png",
+                "lvl": 13,
+                "name": "Thunderstrike"
+            },
+            {
+                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
+                "lvl": 16,
+                "name": "Stoneform"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "78.6 %"
+    },
+    {
+        "gamesPlayed": "29",
+        "talents": [
+            {
+                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
+                "lvl": 1,
+                "name": "Reverberation"
+            },
+            {
+                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
+                "lvl": 4,
+                "name": "Thunderburn"
+            },
+            {
+                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
+                "lvl": 7,
+                "name": "Piercing Bolt"
+            },
+            {
+                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
+                "lvl": 10,
+                "name": "Avatar"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
+                "lvl": 16,
+                "name": "Stoneform"
+            },
+            {
+                "desc": "Increases the duration of Avatar by 30%, and the duration of Disables are reduced by 75% while in Avatar.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnstoppableForce.png",
+                "lvl": 20,
+                "name": "Unstoppable Force"
+            }
+        ],
+        "winPercent": "75.9 %"
+    },
+    {
+        "gamesPlayed": "62",
         "talents": [
             {
                 "desc": "Storm Bolt's damage is permanently increased by 5 for each enemy Hero hit.",
@@ -237,10 +189,106 @@
                 "name": "Rewind"
             }
         ],
-        "winPercent": "68.8 %"
+        "winPercent": "71.0 %"
     },
     {
-        "gamesPlayed": "36",
+        "gamesPlayed": "88",
+        "talents": [
+            {
+                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
+                "lvl": 1,
+                "name": "Reverberation"
+            },
+            {
+                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
+                "lvl": 4,
+                "name": "Thunderburn"
+            },
+            {
+                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
+                "lvl": 7,
+                "name": "Piercing Bolt"
+            },
+            {
+                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
+                "lvl": 10,
+                "name": "Avatar"
+            },
+            {
+                "desc": "Thunder Clap deals 300% damage if only one target is hit.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderstrike.png",
+                "lvl": 13,
+                "name": "Thunderstrike"
+            },
+            {
+                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
+                "lvl": 16,
+                "name": "Stoneform"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "67.1 %"
+    },
+    {
+        "gamesPlayed": "45",
+        "talents": [
+            {
+                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
+                "lvl": 1,
+                "name": "Reverberation"
+            },
+            {
+                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
+                "lvl": 4,
+                "name": "Thunderburn"
+            },
+            {
+                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
+                "lvl": 7,
+                "name": "Piercing Bolt"
+            },
+            {
+                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
+                "lvl": 10,
+                "name": "Avatar"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
+                "lvl": 16,
+                "name": "Stoneform"
+            },
+            {
+                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
+                "lvl": 20,
+                "name": "Rewind"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "33",
         "talents": [
             {
                 "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
@@ -288,103 +336,7 @@
         "winPercent": "66.7 %"
     },
     {
-        "gamesPlayed": "41",
-        "talents": [
-            {
-                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
-                "lvl": 1,
-                "name": "Reverberation"
-            },
-            {
-                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
-                "lvl": 4,
-                "name": "Thunderburn"
-            },
-            {
-                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
-                "lvl": 7,
-                "name": "Piercing Bolt"
-            },
-            {
-                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
-                "lvl": 10,
-                "name": "Avatar"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
-                "lvl": 16,
-                "name": "Stoneform"
-            },
-            {
-                "desc": "Activate to reset the cooldowns of your Basic Abilities.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Rewind.png",
-                "lvl": 20,
-                "name": "Rewind"
-            }
-        ],
-        "winPercent": "63.4 %"
-    },
-    {
-        "gamesPlayed": "51",
-        "talents": [
-            {
-                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
-                "lvl": 1,
-                "name": "Reverberation"
-            },
-            {
-                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
-                "lvl": 4,
-                "name": "Thunderburn"
-            },
-            {
-                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
-                "lvl": 7,
-                "name": "Piercing Bolt"
-            },
-            {
-                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
-                "lvl": 10,
-                "name": "Avatar"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
-                "lvl": 16,
-                "name": "Stoneform"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
-                "lvl": 20,
-                "name": "Hardened Shield"
-            }
-        ],
-        "winPercent": "62.8 %"
-    },
-    {
-        "gamesPlayed": "70",
+        "gamesPlayed": "59",
         "talents": [
             {
                 "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
@@ -429,10 +381,58 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "61.4 %"
+        "winPercent": "61.0 %"
     },
     {
-        "gamesPlayed": "30",
+        "gamesPlayed": "43",
+        "talents": [
+            {
+                "desc": "Enemies hit by Thunder Clap have their Attack Speed reduced by 50% for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reverberation.png",
+                "lvl": 1,
+                "name": "Reverberation"
+            },
+            {
+                "desc": "Thunder Clap leaves a zone on the ground that explodes after 2 seconds dealing 25 (+4 per level) damage and applying a 25% slow for 2.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Thunderburn.png",
+                "lvl": 4,
+                "name": "Thunderburn"
+            },
+            {
+                "desc": "Penetrates through the first target hit, hitting 1 additional target.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PiercingBolt.png",
+                "lvl": 7,
+                "name": "Piercing Bolt"
+            },
+            {
+                "desc": "Transform for 20 seconds, gaining 320 Health and causing your Basic Attacks to stun enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Avatar.png",
+                "lvl": 10,
+                "name": "Avatar"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Activate to heal for 50% of your maximum Health over 8 seconds. Second Wind is disabled during this time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Stoneform.png",
+                "lvl": 16,
+                "name": "Stoneform"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
+        "winPercent": "60.5 %"
+    },
+    {
+        "gamesPlayed": "25",
         "talents": [
             {
                 "desc": "Storm Bolt's damage is permanently increased by 5 for each enemy Hero hit.",
@@ -477,6 +477,6 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "53.3 %"
+        "winPercent": "52.0 %"
     }
 ]

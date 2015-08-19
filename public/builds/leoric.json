@@ -1,102 +1,6 @@
 [
     {
-        "gamesPlayed": "11",
-        "talents": [
-            {
-                "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reanimation.png",
-                "lvl": 1,
-                "name": "Reanimation"
-            },
-            {
-                "desc": "During Wraith Walk, you take 25% less damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedBones.png",
-                "lvl": 4,
-                "name": "Hardened Bones"
-            },
-            {
-                "desc": "Activate to heal 20% of your maximum life over 6 seconds. Can be used while Undying to revive faster.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OsseinRenewal.png",
-                "lvl": 7,
-                "name": "Ossein Renewal"
-            },
-            {
-                "desc": "Become Unstoppable and swing your mace three times, healing yourself for 7.03% of your maximum Health for each enemy Hero hit and dealing 200 (+10 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchoftheBlackKing.png",
-                "lvl": 10,
-                "name": "March of the Black King"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Skeletal Swing heals you for 2% of your maximum Health per target hit, up to 10%. Effective while Undying.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConsumeVitality.png",
-                "lvl": 16,
-                "name": "Consume Vitality"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
-                "lvl": 20,
-                "name": "Hardened Shield"
-            }
-        ],
-        "winPercent": "90.9 %"
-    },
-    {
-        "gamesPlayed": "10",
-        "talents": [
-            {
-                "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reanimation.png",
-                "lvl": 1,
-                "name": "Reanimation"
-            },
-            {
-                "desc": "Increases the healing from Drain Hope to 30% of your maximum Health.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WillingVessel.png",
-                "lvl": 4,
-                "name": "Willing Vessel"
-            },
-            {
-                "desc": "Activate to heal 20% of your maximum life over 6 seconds. Can be used while Undying to revive faster.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OsseinRenewal.png",
-                "lvl": 7,
-                "name": "Ossein Renewal"
-            },
-            {
-                "desc": "Become Unstoppable and swing your mace three times, healing yourself for 7.03% of your maximum Health for each enemy Hero hit and dealing 200 (+10 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchoftheBlackKing.png",
-                "lvl": 10,
-                "name": "March of the Black King"
-            },
-            {
-                "desc": "If Drain Hope lasts its full duration, it deals bonus damage equal to 10% of the victim's Maximum Health. This damage does not heal you.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CrushingHope.png",
-                "lvl": 13,
-                "name": "Crushing Hope"
-            },
-            {
-                "desc": "Every second Drain Hope is active, its cooldown is reduced by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnyieldingDespair.png",
-                "lvl": 16,
-                "name": "Unyielding Despair"
-            },
-            {
-                "desc": "Your final swing of March of the Black King also applies the base version of Drain Hope to all enemy Heroes in a large area.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathMarch.png",
-                "lvl": 20,
-                "name": "Death March"
-            }
-        ],
-        "winPercent": "90.0 %"
-    },
-    {
-        "gamesPlayed": "12",
+        "gamesPlayed": "13",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -141,10 +45,10 @@
                 "name": "Spectral Leech"
             }
         ],
-        "winPercent": "83.3 %"
+        "winPercent": "84.6 %"
     },
     {
-        "gamesPlayed": "13",
+        "gamesPlayed": "12",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -153,10 +57,10 @@
                 "name": "Reanimation"
             },
             {
-                "desc": "When a nearby Minion dies, you gain 1% of your maximum Health and 5 Mana, even while Undying.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FealtyUntoDeath.png",
+                "desc": "Increases the healing from Drain Hope to 30% of your maximum Health.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WillingVessel.png",
                 "lvl": 4,
-                "name": "Fealty Unto Death"
+                "name": "Willing Vessel"
             },
             {
                 "desc": "Activate to heal 20% of your maximum life over 6 seconds. Can be used while Undying to revive faster.",
@@ -177,10 +81,10 @@
                 "name": "Crushing Hope"
             },
             {
-                "desc": "Skeletal Swing heals you for 2% of your maximum Health per target hit, up to 10%. Effective while Undying.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConsumeVitality.png",
+                "desc": "Every second Drain Hope is active, its cooldown is reduced by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UnyieldingDespair.png",
                 "lvl": 16,
-                "name": "Consume Vitality"
+                "name": "Unyielding Despair"
             },
             {
                 "desc": "Your final swing of March of the Black King also applies the base version of Drain Hope to all enemy Heroes in a large area.",
@@ -189,10 +93,10 @@
                 "name": "Death March"
             }
         ],
-        "winPercent": "76.9 %"
+        "winPercent": "83.3 %"
     },
     {
-        "gamesPlayed": "16",
+        "gamesPlayed": "20",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -237,10 +141,10 @@
                 "name": "Spectral Leech"
             }
         ],
-        "winPercent": "68.8 %"
+        "winPercent": "75.0 %"
     },
     {
-        "gamesPlayed": "11",
+        "gamesPlayed": "14",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -249,10 +153,58 @@
                 "name": "Reanimation"
             },
             {
-                "desc": "During Wraith Walk, you take 25% less damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedBones.png",
+                "desc": "When a nearby Minion dies, you gain 1% of your maximum Health and 5 Mana, even while Undying.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FealtyUntoDeath.png",
                 "lvl": 4,
-                "name": "Hardened Bones"
+                "name": "Fealty Unto Death"
+            },
+            {
+                "desc": "Activate to heal 20% of your maximum life over 6 seconds. Can be used while Undying to revive faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OsseinRenewal.png",
+                "lvl": 7,
+                "name": "Ossein Renewal"
+            },
+            {
+                "desc": "Become Unstoppable and swing your mace three times, healing yourself for 7.03% of your maximum Health for each enemy Hero hit and dealing 200 (+10 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MarchoftheBlackKing.png",
+                "lvl": 10,
+                "name": "March of the Black King"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Skeletal Swing heals you for 2% of your maximum Health per target hit, up to 10%. Effective while Undying.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConsumeVitality.png",
+                "lvl": 16,
+                "name": "Consume Vitality"
+            },
+            {
+                "desc": "Basic Attacks against enemy Heroes deal bonus damage equal to 5% of the Hero's maximum Health and heal you for the same amount.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpectralLeech.png",
+                "lvl": 20,
+                "name": "Spectral Leech"
+            }
+        ],
+        "winPercent": "71.4 %"
+    },
+    {
+        "gamesPlayed": "19",
+        "talents": [
+            {
+                "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reanimation.png",
+                "lvl": 1,
+                "name": "Reanimation"
+            },
+            {
+                "desc": "When a nearby Minion dies, you gain 1% of your maximum Health and 5 Mana, even while Undying.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FealtyUntoDeath.png",
+                "lvl": 4,
+                "name": "Fealty Unto Death"
             },
             {
                 "desc": "Activate to heal 20% of your maximum life over 6 seconds. Can be used while Undying to revive faster.",
@@ -279,16 +231,16 @@
                 "name": "Consume Vitality"
             },
             {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "desc": "Your final swing of March of the Black King also applies the base version of Drain Hope to all enemy Heroes in a large area.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathMarch.png",
                 "lvl": 20,
-                "name": "Hardened Shield"
+                "name": "Death March"
             }
         ],
-        "winPercent": "63.6 %"
+        "winPercent": "68.4 %"
     },
     {
-        "gamesPlayed": "15",
+        "gamesPlayed": "17",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -333,10 +285,10 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "60.0 %"
+        "winPercent": "58.8 %"
     },
     {
-        "gamesPlayed": "13",
+        "gamesPlayed": "14",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -381,10 +333,10 @@
                 "name": "Death March"
             }
         ],
-        "winPercent": "53.9 %"
+        "winPercent": "57.1 %"
     },
     {
-        "gamesPlayed": "12",
+        "gamesPlayed": "21",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -429,10 +381,58 @@
                 "name": "Death March"
             }
         ],
+        "winPercent": "52.4 %"
+    },
+    {
+        "gamesPlayed": "12",
+        "talents": [
+            {
+                "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Reanimation.png",
+                "lvl": 1,
+                "name": "Reanimation"
+            },
+            {
+                "desc": "When a nearby Minion dies, you gain 1% of your maximum Health and 5 Mana, even while Undying.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FealtyUntoDeath.png",
+                "lvl": 4,
+                "name": "Fealty Unto Death"
+            },
+            {
+                "desc": "Activate to heal 20% of your maximum life over 6 seconds. Can be used while Undying to revive faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/OsseinRenewal.png",
+                "lvl": 7,
+                "name": "Ossein Renewal"
+            },
+            {
+                "desc": "Create an unpathable tomb in front of you for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Entomb.png",
+                "lvl": 10,
+                "name": "Entomb"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Skeletal Swing heals you for 2% of your maximum Health per target hit, up to 10%. Effective while Undying.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ConsumeVitality.png",
+                "lvl": 16,
+                "name": "Consume Vitality"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HardenedShield.png",
+                "lvl": 20,
+                "name": "Hardened Shield"
+            }
+        ],
         "winPercent": "50.0 %"
     },
     {
-        "gamesPlayed": "11",
+        "gamesPlayed": "17",
         "talents": [
             {
                 "desc": "Every Regeneration Globe gathered increases your Health Regeneration by 1.5 per second, even during Undying.  You also gain the ability to gather Regeneration Globes while Undying.",
@@ -477,6 +477,6 @@
                 "name": "Hardened Shield"
             }
         ],
-        "winPercent": "36.4 %"
+        "winPercent": "41.2 %"
     }
 ]

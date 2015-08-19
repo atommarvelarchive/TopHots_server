@@ -3,54 +3,6 @@
         "gamesPlayed": "2",
         "talents": [
             {
-                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
-                "lvl": 1,
-                "name": "Regeneration Master"
-            },
-            {
-                "desc": "Activate to cause an allied lane Minion to take -24% reduced damage from non-Heroic targets and deal 100% bonus damage to non-Heroic targets for 30 seconds. Has 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Promote.png",
-                "lvl": 4,
-                "name": "Promote"
-            },
-            {
-                "desc": "Activate to heal 11.07% of your max Health over 6 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FirstAid.png",
-                "lvl": 7,
-                "name": "First Aid"
-            },
-            {
-                "desc": "After a 2 second delay, pull enemies toward the center of an area and deal 150 (+20 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gravobomb3000.png",
-                "lvl": 10,
-                "name": "Grav-o-bomb 3000"
-            },
-            {
-                "desc": "Activate to gain 75% Movement Speed for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Sprint.png",
-                "lvl": 13,
-                "name": "Sprint"
-            },
-            {
-                "desc": "Turret range increased by 40%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LongRangedTurrets.png",
-                "lvl": 16,
-                "name": "Long-Ranged Turrets"
-            },
-            {
-                "desc": "Grav-O-Bomb radius increased by 25% and damage increased by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MiniatureBlackHole.png",
-                "lvl": 20,
-                "name": "Miniature Black Hole"
-            }
-        ],
-        "winPercent": "100.0 %"
-    },
-    {
-        "gamesPlayed": "2",
-        "talents": [
-            {
                 "desc": "Scrap now causes Abilities to cooldown three times as fast for 3.07 seconds.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BreakitDown.png",
                 "lvl": 1,
@@ -144,7 +96,103 @@
         "winPercent": "100.0 %"
     },
     {
-        "gamesPlayed": "9",
+        "gamesPlayed": "2",
+        "talents": [
+            {
+                "desc": "Collecting Regeneration Globes permanently increases Health Regeneration by 1.5 per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RegenerationMaster.png",
+                "lvl": 1,
+                "name": "Regeneration Master"
+            },
+            {
+                "desc": "Activate to cause an allied lane Minion to take -24% reduced damage from non-Heroic targets and deal 100% bonus damage to non-Heroic targets for 30 seconds. Has 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Promote.png",
+                "lvl": 4,
+                "name": "Promote"
+            },
+            {
+                "desc": "Turrets attack up to 2 additonal targets for 50% damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RockItTurretXL.png",
+                "lvl": 7,
+                "name": "Rock-It! Turret XL"
+            },
+            {
+                "desc": "Basic Attacks deal an additional 150% damage to Minions, Mercenaries, and Structures.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RoboGoblin.png",
+                "lvl": 10,
+                "name": "Robo-Goblin"
+            },
+            {
+                "desc": "Max Turret charges increased to 3.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TurretStorage.png",
+                "lvl": 13,
+                "name": "Turret Storage"
+            },
+            {
+                "desc": "Turret range increased by 40%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LongRangedTurrets.png",
+                "lvl": 16,
+                "name": "Long-Ranged Turrets"
+            },
+            {
+                "desc": "Every 5 seconds, your next basic attack will deal an additional 20 damage to the target, and 20 damage to all nearby Minions and Mercenaries.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuryoftheStorm.png",
+                "lvl": 20,
+                "name": "Fury of the Storm"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "2",
+        "talents": [
+            {
+                "desc": "Scrap now causes Abilities to cooldown three times as fast for 3.07 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BreakitDown.png",
+                "lvl": 1,
+                "name": "Break it Down!"
+            },
+            {
+                "desc": "Activate to cause an allied lane Minion to take -24% reduced damage from non-Heroic targets and deal 100% bonus damage to non-Heroic targets for 30 seconds. Has 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Promote.png",
+                "lvl": 4,
+                "name": "Promote"
+            },
+            {
+                "desc": "Turret attacks slow Movement Speed by 25% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EngineGunk.png",
+                "lvl": 7,
+                "name": "Engine Gunk"
+            },
+            {
+                "desc": "After a 2 second delay, pull enemies toward the center of an area and deal 150 (+20 per level) damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gravobomb3000.png",
+                "lvl": 10,
+                "name": "Grav-o-bomb 3000"
+            },
+            {
+                "desc": "Deth Lazor slows Heroes by 40% and freezes minions or structures for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EZPZDimensionalRipper.png",
+                "lvl": 13,
+                "name": "EZ-PZ Dimensional Ripper"
+            },
+            {
+                "desc": "Deth Lazor charges twice as fast.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperfocusCoils.png",
+                "lvl": 16,
+                "name": "Hyperfocus Coils"
+            },
+            {
+                "desc": "Grav-O-Bomb radius increased by 25% and damage increased by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MiniatureBlackHole.png",
+                "lvl": 20,
+                "name": "Miniature Black Hole"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "10",
         "talents": [
             {
                 "desc": "Scrap now causes Abilities to cooldown three times as fast for 3.07 seconds.",
@@ -189,7 +237,7 @@
                 "name": "Miniature Black Hole"
             }
         ],
-        "winPercent": "88.9 %"
+        "winPercent": "90.0 %"
     },
     {
         "gamesPlayed": "7",
@@ -240,7 +288,7 @@
         "winPercent": "85.7 %"
     },
     {
-        "gamesPlayed": "6",
+        "gamesPlayed": "5",
         "talents": [
             {
                 "desc": "Increases the amount of Mana restored by scrap to 60.",
@@ -285,55 +333,7 @@
                 "name": "Miniature Black Hole"
             }
         ],
-        "winPercent": "83.3 %"
-    },
-    {
-        "gamesPlayed": "2",
-        "talents": [
-            {
-                "desc": "Scrap now causes Abilities to cooldown three times as fast for 3.07 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BreakitDown.png",
-                "lvl": 1,
-                "name": "Break it Down!"
-            },
-            {
-                "desc": "Deth Lazor gains an additional charge level after reaching max size, which increases the damage dealt by 25%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GoblinFusion.png",
-                "lvl": 4,
-                "name": "Goblin Fusion"
-            },
-            {
-                "desc": "Turret attacks slow Movement Speed by 25% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EngineGunk.png",
-                "lvl": 7,
-                "name": "Engine Gunk"
-            },
-            {
-                "desc": "After a 2 second delay, pull enemies toward the center of an area and deal 150 (+20 per level) damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Gravobomb3000.png",
-                "lvl": 10,
-                "name": "Grav-o-bomb 3000"
-            },
-            {
-                "desc": "Deth Lazor slows Heroes by 40% and freezes minions or structures for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EZPZDimensionalRipper.png",
-                "lvl": 13,
-                "name": "EZ-PZ Dimensional Ripper"
-            },
-            {
-                "desc": "Deth Lazor charges twice as fast.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HyperfocusCoils.png",
-                "lvl": 16,
-                "name": "Hyperfocus Coils"
-            },
-            {
-                "desc": "Grav-O-Bomb radius increased by 25% and damage increased by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MiniatureBlackHole.png",
-                "lvl": 20,
-                "name": "Miniature Black Hole"
-            }
-        ],
-        "winPercent": "50.0 %"
+        "winPercent": "80.0 %"
     },
     {
         "gamesPlayed": "2",

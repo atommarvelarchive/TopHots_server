@@ -57,10 +57,10 @@
                 "name": "Viking Bribery"
             },
             {
-                "desc": "Baleog's Basic Attacks and splash damage heal for 20% of the damage dealt. Healing is doubled against Heroes.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PainDontHurt.png",
+                "desc": "Permanently increases Erik's base Movement Speed by 10%, and as long as Erik is moving he heals 15 (+3 per level) Health per second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EriktheSwift.png",
                 "lvl": 4,
-                "name": "Pain Don't Hurt"
+                "name": "Erik the Swift"
             },
             {
                 "desc": "Activate to have each Viking deal 42 (+9 per level) damage to nearby enemies.",
@@ -91,6 +91,54 @@
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CheckpointReached.png",
                 "lvl": 20,
                 "name": "Checkpoint Reached"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 40 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.  Maximum stacks available: 100.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VikingBribery.png",
+                "lvl": 1,
+                "name": "Viking Bribery"
+            },
+            {
+                "desc": "Erik's Basic Attacks against Structures destroy 5 Ammo and deal 100 (+10 per level) damage over 10 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ItsaSabotage.png",
+                "lvl": 4,
+                "name": "It's a Sabotage!"
+            },
+            {
+                "desc": "Activate to have each Viking deal 42 (+9 per level) damage to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpinToWin.png",
+                "lvl": 7,
+                "name": "Spin To Win!"
+            },
+            {
+                "desc": "Summon, fully heal, and revive all Lost Vikings at target location after a Viking channels for 2 seconds. \nOnly one Viking may attempt to summon at a time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PlayAgain.png",
+                "lvl": 10,
+                "name": "Play Again!"
+            },
+            {
+                "desc": "Makes all Vikings Invulnerable and able to pass over enemies for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jump.png",
+                "lvl": 13,
+                "name": "Jump!"
+            },
+            {
+                "desc": "Enemies damaged by a Viking's Basic Attack reduce the cooldown of all Viking Abilities by 0.25 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImpatienceIsaVirtue.png",
+                "lvl": 16,
+                "name": "Impatience Is a Virtue"
+            },
+            {
+                "desc": "Every 5 seconds, your next Basic Attack will deal an additional 10 (+4 per level) damage to the target, and 10 (+11 per level) damage to all nearby Minions and Mercenaries.  Each Viking has their own cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuryoftheStorm.png",
+                "lvl": 20,
+                "name": "Fury of the Storm"
             }
         ],
         "winPercent": "100.0 %"
@@ -144,55 +192,7 @@
         "winPercent": "75.0 %"
     },
     {
-        "gamesPlayed": "3",
-        "talents": [
-            {
-                "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 40 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.  Maximum stacks available: 100.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/VikingBribery.png",
-                "lvl": 1,
-                "name": "Viking Bribery"
-            },
-            {
-                "desc": "Permanently increases Erik's base Movement Speed by 10%, and as long as Erik is moving he heals 15 (+3 per level) Health per second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EriktheSwift.png",
-                "lvl": 4,
-                "name": "Erik the Swift"
-            },
-            {
-                "desc": "Activate to have each Viking deal 42 (+9 per level) damage to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpinToWin.png",
-                "lvl": 7,
-                "name": "Spin To Win!"
-            },
-            {
-                "desc": "Summon, fully heal, and revive all Lost Vikings at target location after a Viking channels for 2 seconds. \nOnly one Viking may attempt to summon at a time.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PlayAgain.png",
-                "lvl": 10,
-                "name": "Play Again!"
-            },
-            {
-                "desc": "Activate to have all Viking Basic Attacks deal bonus damage equal to 1% of a Hero's maximum Health for 5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NordicAttackSquad.png",
-                "lvl": 13,
-                "name": "Nordic Attack Squad"
-            },
-            {
-                "desc": "Basic Attacks deal 40% more damage against slowed, rooted, or stunned targets.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Executioner.png",
-                "lvl": 16,
-                "name": "Executioner"
-            },
-            {
-                "desc": "Every 5 seconds, your next Basic Attack will deal an additional 10 (+4 per level) damage to the target, and 10 (+11 per level) damage to all nearby Minions and Mercenaries.  Each Viking has their own cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuryoftheStorm.png",
-                "lvl": 20,
-                "name": "Fury of the Storm"
-            }
-        ],
-        "winPercent": "66.7 %"
-    },
-    {
-        "gamesPlayed": "3",
+        "gamesPlayed": "4",
         "talents": [
             {
                 "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 40 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.  Maximum stacks available: 100.",
@@ -235,54 +235,6 @@
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuryoftheStorm.png",
                 "lvl": 20,
                 "name": "Fury of the Storm"
-            }
-        ],
-        "winPercent": "66.7 %"
-    },
-    {
-        "gamesPlayed": "2",
-        "talents": [
-            {
-                "desc": "After standing still for 3 seconds, Erik gains Stealth and his Sight Radius is increased by 75%. The Stealth persists for 3 seconds after moving.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpyGames.png",
-                "lvl": 1,
-                "name": "Spy Games"
-            },
-            {
-                "desc": "Baleog's Basic Attacks and splash damage heal for 20% of the damage dealt. Healing is doubled against Heroes.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PainDontHurt.png",
-                "lvl": 4,
-                "name": "Pain Don't Hurt"
-            },
-            {
-                "desc": "Activate to have each Viking deal 42 (+9 per level) damage to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpinToWin.png",
-                "lvl": 7,
-                "name": "Spin To Win!"
-            },
-            {
-                "desc": "Hop into an Unstoppable Longboat that fires at nearby enemies for 25 (+11 per level) damage per second and can fire a mortar that deals 50 (+20 per level) damage in an area.  The boat has increased Health for each Viking inside. If the boat is destroyed by enemies, all Vikings are stunned for 1.5 seconds. Lasts 15 seconds.\nRequires all surviving Vikings to be nearby.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LongboatRaid.png",
-                "lvl": 10,
-                "name": "Longboat Raid!"
-            },
-            {
-                "desc": "Makes all Vikings Invulnerable and able to pass over enemies for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jump.png",
-                "lvl": 13,
-                "name": "Jump!"
-            },
-            {
-                "desc": "When Olaf charges enemies, they are stunned for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LargeandInCharge.png",
-                "lvl": 16,
-                "name": "Large and In Charge"
-            },
-            {
-                "desc": "The Longboat can attack two targets at once and the range of its Mortar is increased by 100%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RagnaroknRoll.png",
-                "lvl": 20,
-                "name": "Ragnarok 'n' Roll!"
             }
         ],
         "winPercent": "50.0 %"
@@ -336,7 +288,7 @@
         "winPercent": "50.0 %"
     },
     {
-        "gamesPlayed": "3",
+        "gamesPlayed": "2",
         "talents": [
             {
                 "desc": "Kill enemy Minions to gain stacks of Bribe.  Use 40 stacks to bribe target Mercenary, instantly defeating them.  Does not work on Bosses.  Maximum stacks available: 100.",
@@ -381,7 +333,7 @@
                 "name": "Ragnarok 'n' Roll!"
             }
         ],
-        "winPercent": "33.3 %"
+        "winPercent": "50.0 %"
     },
     {
         "gamesPlayed": "3",
@@ -478,5 +430,53 @@
             }
         ],
         "winPercent": "33.3 %"
+    },
+    {
+        "gamesPlayed": "1",
+        "talents": [
+            {
+                "desc": "Increases Baleogâ€™s splash damage against non-Heroic enemies to 100%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ExplosiveAttacks.png",
+                "lvl": 1,
+                "name": "Explosive Attacks"
+            },
+            {
+                "desc": "Baleog's Basic Attacks and splash damage heal for 20% of the damage dealt. Healing is doubled against Heroes.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PainDontHurt.png",
+                "lvl": 4,
+                "name": "Pain Don't Hurt"
+            },
+            {
+                "desc": "Baleog's Basic Attacks increase his Attack Speed by 8%, stacking up to 5 times. After 3 seconds of not attacking, these stacks will rapidly decay.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BaleogtheFierce.png",
+                "lvl": 7,
+                "name": "Baleog the Fierce"
+            },
+            {
+                "desc": "Summon, fully heal, and revive all Lost Vikings at target location after a Viking channels for 2 seconds. \nOnly one Viking may attempt to summon at a time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PlayAgain.png",
+                "lvl": 10,
+                "name": "Play Again!"
+            },
+            {
+                "desc": "Makes all Vikings Invulnerable and able to pass over enemies for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Jump.png",
+                "lvl": 13,
+                "name": "Jump!"
+            },
+            {
+                "desc": "Basic Attacks deal 40% more damage against slowed, rooted, or stunned targets.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Executioner.png",
+                "lvl": 16,
+                "name": "Executioner"
+            },
+            {
+                "desc": "Every 5 seconds, your next Basic Attack will deal an additional 10 (+4 per level) damage to the target, and 10 (+11 per level) damage to all nearby Minions and Mercenaries.  Each Viking has their own cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuryoftheStorm.png",
+                "lvl": 20,
+                "name": "Fury of the Storm"
+            }
+        ],
+        "winPercent": "0.0 %"
     }
 ]

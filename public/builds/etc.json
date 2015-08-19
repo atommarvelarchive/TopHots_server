@@ -1,5 +1,101 @@
 [
     {
+        "gamesPlayed": "5",
+        "talents": [
+            {
+                "desc": "Increases the range of Powerslide by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingLikeaStone.png",
+                "lvl": 1,
+                "name": "Rolling Like a Stone"
+            },
+            {
+                "desc": "Increases Powerslide's width by 100% and you slide 30% faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleNeckedGuitar.png",
+                "lvl": 4,
+                "name": "Double-Necked Guitar"
+            },
+            {
+                "desc": "While Guitar Solo is active, the duration of silences, stuns, slows, roots, and polymorphs are reduced by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/JustKeepRockin.png",
+                "lvl": 7,
+                "name": "Just Keep Rockin'"
+            },
+            {
+                "desc": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MoshPit.png",
+                "lvl": 10,
+                "name": "Mosh Pit"
+            },
+            {
+                "desc": "Reduces all damage taken by 25% for 4 seconds after using Powerslide.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShowStopper.png",
+                "lvl": 13,
+                "name": "Show Stopper"
+            },
+            {
+                "desc": "Using a Basic or Heroic ability releases two pulses of 30 (+5 per level) damage. The first occurs instantly, the second occurs 2 seconds later.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EchoPedal.png",
+                "lvl": 16,
+                "name": "Echo Pedal"
+            },
+            {
+                "desc": "Mosh Pit refreshes the cooldown of Powerslide. You can Powerslide during Mosh Pit, which also increases its duration by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TourBus.png",
+                "lvl": 20,
+                "name": "Tour Bus"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "5",
+        "talents": [
+            {
+                "desc": "Increases the range of Powerslide by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingLikeaStone.png",
+                "lvl": 1,
+                "name": "Rolling Like a Stone"
+            },
+            {
+                "desc": "Increases Powerslide's width by 100% and you slide 30% faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleNeckedGuitar.png",
+                "lvl": 4,
+                "name": "Double-Necked Guitar"
+            },
+            {
+                "desc": "Increases Face Melt range and knockback by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LoudSpeakers.png",
+                "lvl": 7,
+                "name": "Loud Speakers"
+            },
+            {
+                "desc": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MoshPit.png",
+                "lvl": 10,
+                "name": "Mosh Pit"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Using a Basic or Heroic ability releases two pulses of 30 (+5 per level) damage. The first occurs instantly, the second occurs 2 seconds later.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EchoPedal.png",
+                "lvl": 16,
+                "name": "Echo Pedal"
+            },
+            {
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
+                "lvl": 20,
+                "name": "Bolt of the Storm"
+            }
+        ],
+        "winPercent": "100.0 %"
+    },
+    {
         "gamesPlayed": "4",
         "talents": [
             {
@@ -96,7 +192,7 @@
         "winPercent": "100.0 %"
     },
     {
-        "gamesPlayed": "4",
+        "gamesPlayed": "3",
         "talents": [
             {
                 "desc": "Increases the range of Powerslide by 25%.",
@@ -123,16 +219,16 @@
                 "name": "Mosh Pit"
             },
             {
-                "desc": "Reduces all damage taken by 25% for 4 seconds after using Powerslide.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShowStopper.png",
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
                 "lvl": 13,
-                "name": "Show Stopper"
+                "name": "Spell Shield"
             },
             {
-                "desc": "Using a Basic or Heroic ability releases two pulses of 30 (+5 per level) damage. The first occurs instantly, the second occurs 2 seconds later.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EchoPedal.png",
+                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
                 "lvl": 16,
-                "name": "Echo Pedal"
+                "name": "Imposing Presence"
             },
             {
                 "desc": "Mosh Pit refreshes the cooldown of Powerslide. You can Powerslide during Mosh Pit, which also increases its duration by 2 seconds.",
@@ -142,6 +238,54 @@
             }
         ],
         "winPercent": "100.0 %"
+    },
+    {
+        "gamesPlayed": "4",
+        "talents": [
+            {
+                "desc": "Increases the range of Powerslide by 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingLikeaStone.png",
+                "lvl": 1,
+                "name": "Rolling Like a Stone"
+            },
+            {
+                "desc": "Increases Powerslide's width by 100% and you slide 30% faster.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleNeckedGuitar.png",
+                "lvl": 4,
+                "name": "Double-Necked Guitar"
+            },
+            {
+                "desc": "While Guitar Solo is active, you heal for 50% of the damage dealt by Basic Attacks.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/GuitarHero.png",
+                "lvl": 7,
+                "name": "Guitar Hero"
+            },
+            {
+                "desc": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MoshPit.png",
+                "lvl": 10,
+                "name": "Mosh Pit"
+            },
+            {
+                "desc": "Guitar Solo also heals nearby allied Heroes for 24 (+6 per level) Health every second while it is active.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Groupies.png",
+                "lvl": 13,
+                "name": "Groupies"
+            },
+            {
+                "desc": "Rockstar also gives 20% Movement Speed for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpeedMetal.png",
+                "lvl": 16,
+                "name": "Speed Metal"
+            },
+            {
+                "desc": "Mosh Pit refreshes the cooldown of Powerslide. You can Powerslide during Mosh Pit, which also increases its duration by 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TourBus.png",
+                "lvl": 20,
+                "name": "Tour Bus"
+            }
+        ],
+        "winPercent": "75.0 %"
     },
     {
         "gamesPlayed": "4",
@@ -225,106 +369,10 @@
                 "name": "Face Smelt"
             },
             {
-                "desc": "Using a Basic or Heroic ability releases two pulses of 30 (+5 per level) damage. The first occurs instantly, the second occurs 2 seconds later.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EchoPedal.png",
-                "lvl": 16,
-                "name": "Echo Pedal"
-            },
-            {
-                "desc": "Activate to teleport to a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
-                "lvl": 20,
-                "name": "Bolt of the Storm"
-            }
-        ],
-        "winPercent": "66.7 %"
-    },
-    {
-        "gamesPlayed": "6",
-        "talents": [
-            {
-                "desc": "Increases the range of Powerslide by 25%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingLikeaStone.png",
-                "lvl": 1,
-                "name": "Rolling Like a Stone"
-            },
-            {
-                "desc": "Increases Powerslide's width by 100% and you slide 30% faster.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleNeckedGuitar.png",
-                "lvl": 4,
-                "name": "Double-Necked Guitar"
-            },
-            {
-                "desc": "Increases Face Melt range and knockback by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LoudSpeakers.png",
-                "lvl": 7,
-                "name": "Loud Speakers"
-            },
-            {
-                "desc": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MoshPit.png",
-                "lvl": 10,
-                "name": "Mosh Pit"
-            },
-            {
-                "desc": "Face Melt slows enemies by 80% fading over 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FaceSmelt.png",
-                "lvl": 13,
-                "name": "Face Smelt"
-            },
-            {
                 "desc": "Face Melt leaves an Amp behind, which will knock enemies away again 2 seconds later.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Encore.png",
                 "lvl": 16,
                 "name": "Encore"
-            },
-            {
-                "desc": "Mosh Pit refreshes the cooldown of Powerslide. You can Powerslide during Mosh Pit, which also increases its duration by 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/TourBus.png",
-                "lvl": 20,
-                "name": "Tour Bus"
-            }
-        ],
-        "winPercent": "66.7 %"
-    },
-    {
-        "gamesPlayed": "3",
-        "talents": [
-            {
-                "desc": "Increases the range of Powerslide by 25%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingLikeaStone.png",
-                "lvl": 1,
-                "name": "Rolling Like a Stone"
-            },
-            {
-                "desc": "Increases Powerslide's width by 100% and you slide 30% faster.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleNeckedGuitar.png",
-                "lvl": 4,
-                "name": "Double-Necked Guitar"
-            },
-            {
-                "desc": "Increases Face Melt range and knockback by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LoudSpeakers.png",
-                "lvl": 7,
-                "name": "Loud Speakers"
-            },
-            {
-                "desc": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MoshPit.png",
-                "lvl": 10,
-                "name": "Mosh Pit"
-            },
-            {
-                "desc": "Reduces all damage taken by 25% for 4 seconds after using Powerslide.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShowStopper.png",
-                "lvl": 13,
-                "name": "Show Stopper"
-            },
-            {
-                "desc": "Rockstar also gives 20% Movement Speed for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpeedMetal.png",
-                "lvl": 16,
-                "name": "Speed Metal"
             },
             {
                 "desc": "Mosh Pit refreshes the cooldown of Powerslide. You can Powerslide during Mosh Pit, which also increases its duration by 2 seconds.",
@@ -375,61 +423,13 @@
                 "name": "Echo Pedal"
             },
             {
-                "desc": "Upon dying, a ghost uses Mosh Pit at your location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathMetal.png",
+                "desc": "Activate to teleport to a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BoltoftheStorm.png",
                 "lvl": 20,
-                "name": "Death Metal"
+                "name": "Bolt of the Storm"
             }
         ],
         "winPercent": "60.0 %"
-    },
-    {
-        "gamesPlayed": "4",
-        "talents": [
-            {
-                "desc": "Increases the range of Powerslide by 25%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/RollingLikeaStone.png",
-                "lvl": 1,
-                "name": "Rolling Like a Stone"
-            },
-            {
-                "desc": "Increases Powerslide's width by 100% and you slide 30% faster.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DoubleNeckedGuitar.png",
-                "lvl": 4,
-                "name": "Double-Necked Guitar"
-            },
-            {
-                "desc": "Increases Face Melt range and knockback by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LoudSpeakers.png",
-                "lvl": 7,
-                "name": "Loud Speakers"
-            },
-            {
-                "desc": "After 0.75 seconds, channel to stun nearby enemies for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MoshPit.png",
-                "lvl": 10,
-                "name": "Mosh Pit"
-            },
-            {
-                "desc": "Reduces all damage taken by 25% for 4 seconds after using Powerslide.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShowStopper.png",
-                "lvl": 13,
-                "name": "Show Stopper"
-            },
-            {
-                "desc": "Using a Basic or Heroic ability releases two pulses of 30 (+5 per level) damage. The first occurs instantly, the second occurs 2 seconds later.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EchoPedal.png",
-                "lvl": 16,
-                "name": "Echo Pedal"
-            },
-            {
-                "desc": "Upon dying, a ghost uses Mosh Pit at your location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/DeathMetal.png",
-                "lvl": 20,
-                "name": "Death Metal"
-            }
-        ],
-        "winPercent": "50.0 %"
     },
     {
         "gamesPlayed": "5",

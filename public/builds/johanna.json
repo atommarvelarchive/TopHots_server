@@ -1,197 +1,5 @@
 [
     {
-        "gamesPlayed": "31",
-        "talents": [
-            {
-                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
-                "lvl": 1,
-                "name": "Knight Takes Pawn"
-            },
-            {
-                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
-                "lvl": 4,
-                "name": "Laws of Hope"
-            },
-            {
-                "desc": "Condemn increases your Movement Speed by 25% for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Conviction.png",
-                "lvl": 7,
-                "name": "Conviction"
-            },
-            {
-                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
-                "lvl": 10,
-                "name": "Blessed Shield"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
-                "lvl": 16,
-                "name": "Blessed Hammer"
-            },
-            {
-                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
-                "lvl": 20,
-                "name": "Storm Shield"
-            }
-        ],
-        "winPercent": "74.2 %"
-    },
-    {
-        "gamesPlayed": "76",
-        "talents": [
-            {
-                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
-                "lvl": 1,
-                "name": "Knight Takes Pawn"
-            },
-            {
-                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
-                "lvl": 4,
-                "name": "Laws of Hope"
-            },
-            {
-                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
-                "lvl": 7,
-                "name": "Battle Momentum"
-            },
-            {
-                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
-                "lvl": 10,
-                "name": "Blessed Shield"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
-                "lvl": 16,
-                "name": "Imposing Presence"
-            },
-            {
-                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
-                "lvl": 20,
-                "name": "Indestructible"
-            }
-        ],
-        "winPercent": "69.7 %"
-    },
-    {
-        "gamesPlayed": "32",
-        "talents": [
-            {
-                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
-                "lvl": 1,
-                "name": "Knight Takes Pawn"
-            },
-            {
-                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
-                "lvl": 4,
-                "name": "Laws of Hope"
-            },
-            {
-                "desc": "Shield Glare marks enemies for 4 seconds. The next time any ally damages them, they take 30 (+6 per level) extra damage and the mark is removed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SinsExposed.png",
-                "lvl": 7,
-                "name": "Sins Exposed"
-            },
-            {
-                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
-                "lvl": 10,
-                "name": "Blessed Shield"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
-                "lvl": 16,
-                "name": "Blessed Hammer"
-            },
-            {
-                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
-                "lvl": 20,
-                "name": "Indestructible"
-            }
-        ],
-        "winPercent": "68.8 %"
-    },
-    {
-        "gamesPlayed": "47",
-        "talents": [
-            {
-                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
-                "lvl": 1,
-                "name": "Knight Takes Pawn"
-            },
-            {
-                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
-                "lvl": 4,
-                "name": "Laws of Hope"
-            },
-            {
-                "desc": "Condemn increases your Movement Speed by 25% for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Conviction.png",
-                "lvl": 7,
-                "name": "Conviction"
-            },
-            {
-                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
-                "lvl": 10,
-                "name": "Blessed Shield"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
-                "lvl": 16,
-                "name": "Imposing Presence"
-            },
-            {
-                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
-                "lvl": 20,
-                "name": "Indestructible"
-            }
-        ],
-        "winPercent": "68.1 %"
-    },
-    {
         "gamesPlayed": "28",
         "talents": [
             {
@@ -237,106 +45,10 @@
                 "name": "Storm Shield"
             }
         ],
-        "winPercent": "67.9 %"
+        "winPercent": "75.0 %"
     },
     {
-        "gamesPlayed": "267",
-        "talents": [
-            {
-                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
-                "lvl": 1,
-                "name": "Knight Takes Pawn"
-            },
-            {
-                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
-                "lvl": 4,
-                "name": "Laws of Hope"
-            },
-            {
-                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
-                "lvl": 7,
-                "name": "Battle Momentum"
-            },
-            {
-                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
-                "lvl": 10,
-                "name": "Blessed Shield"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
-                "lvl": 16,
-                "name": "Blessed Hammer"
-            },
-            {
-                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
-                "lvl": 20,
-                "name": "Indestructible"
-            }
-        ],
-        "winPercent": "67.8 %"
-    },
-    {
-        "gamesPlayed": "52",
-        "talents": [
-            {
-                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
-                "lvl": 1,
-                "name": "Knight Takes Pawn"
-            },
-            {
-                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
-                "lvl": 4,
-                "name": "Laws of Hope"
-            },
-            {
-                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
-                "lvl": 7,
-                "name": "Battle Momentum"
-            },
-            {
-                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
-                "lvl": 10,
-                "name": "Blessed Shield"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Every enemy Hero affected by Shield Glare heals you for 100 (+7.5 per level).",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HolyRenewal.png",
-                "lvl": 16,
-                "name": "Holy Renewal"
-            },
-            {
-                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
-                "lvl": 20,
-                "name": "Indestructible"
-            }
-        ],
-        "winPercent": "65.4 %"
-    },
-    {
-        "gamesPlayed": "132",
+        "gamesPlayed": "46",
         "talents": [
             {
                 "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
@@ -369,10 +81,10 @@
                 "name": "Burning Rage"
             },
             {
-                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
+                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
                 "lvl": 16,
-                "name": "Blessed Hammer"
+                "name": "Imposing Presence"
             },
             {
                 "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
@@ -381,58 +93,346 @@
                 "name": "Indestructible"
             }
         ],
-        "winPercent": "65.2 %"
-    },
-    {
-        "gamesPlayed": "35",
-        "talents": [
-            {
-                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
-                "lvl": 1,
-                "name": "Knight Takes Pawn"
-            },
-            {
-                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
-                "lvl": 4,
-                "name": "Laws of Hope"
-            },
-            {
-                "desc": "Condemn increases your Movement Speed by 25% for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Conviction.png",
-                "lvl": 7,
-                "name": "Conviction"
-            },
-            {
-                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
-                "lvl": 10,
-                "name": "Blessed Shield"
-            },
-            {
-                "desc": "Deal 10 damage per second to nearby enemies.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
-                "lvl": 13,
-                "name": "Burning Rage"
-            },
-            {
-                "desc": "Every enemy Hero affected by Shield Glare heals you for 100 (+7.5 per level).",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HolyRenewal.png",
-                "lvl": 16,
-                "name": "Holy Renewal"
-            },
-            {
-                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
-                "lvl": 20,
-                "name": "Indestructible"
-            }
-        ],
-        "winPercent": "62.9 %"
+        "winPercent": "69.6 %"
     },
     {
         "gamesPlayed": "26",
+        "talents": [
+            {
+                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
+                "lvl": 1,
+                "name": "Knight Takes Pawn"
+            },
+            {
+                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
+                "lvl": 4,
+                "name": "Laws of Hope"
+            },
+            {
+                "desc": "Shield Glare marks enemies for 4 seconds. The next time any ally damages them, they take 30 (+6 per level) extra damage and the mark is removed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SinsExposed.png",
+                "lvl": 7,
+                "name": "Sins Exposed"
+            },
+            {
+                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
+                "lvl": 10,
+                "name": "Blessed Shield"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
+                "lvl": 16,
+                "name": "Blessed Hammer"
+            },
+            {
+                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
+                "lvl": 20,
+                "name": "Indestructible"
+            }
+        ],
+        "winPercent": "69.2 %"
+    },
+    {
+        "gamesPlayed": "74",
+        "talents": [
+            {
+                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
+                "lvl": 1,
+                "name": "Knight Takes Pawn"
+            },
+            {
+                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
+                "lvl": 4,
+                "name": "Laws of Hope"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
+                "lvl": 10,
+                "name": "Blessed Shield"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
+                "lvl": 16,
+                "name": "Imposing Presence"
+            },
+            {
+                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
+                "lvl": 20,
+                "name": "Indestructible"
+            }
+        ],
+        "winPercent": "66.2 %"
+    },
+    {
+        "gamesPlayed": "273",
+        "talents": [
+            {
+                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
+                "lvl": 1,
+                "name": "Knight Takes Pawn"
+            },
+            {
+                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
+                "lvl": 4,
+                "name": "Laws of Hope"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
+                "lvl": 10,
+                "name": "Blessed Shield"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
+                "lvl": 16,
+                "name": "Blessed Hammer"
+            },
+            {
+                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
+                "lvl": 20,
+                "name": "Indestructible"
+            }
+        ],
+        "winPercent": "65.6 %"
+    },
+    {
+        "gamesPlayed": "29",
+        "talents": [
+            {
+                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
+                "lvl": 1,
+                "name": "Knight Takes Pawn"
+            },
+            {
+                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
+                "lvl": 4,
+                "name": "Laws of Hope"
+            },
+            {
+                "desc": "Condemn increases your Movement Speed by 25% for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Conviction.png",
+                "lvl": 7,
+                "name": "Conviction"
+            },
+            {
+                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
+                "lvl": 10,
+                "name": "Blessed Shield"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
+                "lvl": 16,
+                "name": "Blessed Hammer"
+            },
+            {
+                "desc": "Activate to give all nearby allied Heroes a Shield for 20% of their max Health for 3 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/StormShield.png",
+                "lvl": 20,
+                "name": "Storm Shield"
+            }
+        ],
+        "winPercent": "65.5 %"
+    },
+    {
+        "gamesPlayed": "48",
+        "talents": [
+            {
+                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
+                "lvl": 1,
+                "name": "Knight Takes Pawn"
+            },
+            {
+                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
+                "lvl": 4,
+                "name": "Laws of Hope"
+            },
+            {
+                "desc": "Basic Attacks reduce Ability cooldowns by 0.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BattleMomentum.png",
+                "lvl": 7,
+                "name": "Battle Momentum"
+            },
+            {
+                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
+                "lvl": 10,
+                "name": "Blessed Shield"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Every enemy Hero affected by Shield Glare heals you for 100 (+7.5 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HolyRenewal.png",
+                "lvl": 16,
+                "name": "Holy Renewal"
+            },
+            {
+                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
+                "lvl": 20,
+                "name": "Indestructible"
+            }
+        ],
+        "winPercent": "64.6 %"
+    },
+    {
+        "gamesPlayed": "123",
+        "talents": [
+            {
+                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
+                "lvl": 1,
+                "name": "Knight Takes Pawn"
+            },
+            {
+                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
+                "lvl": 4,
+                "name": "Laws of Hope"
+            },
+            {
+                "desc": "Condemn increases your Movement Speed by 25% for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Conviction.png",
+                "lvl": 7,
+                "name": "Conviction"
+            },
+            {
+                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
+                "lvl": 10,
+                "name": "Blessed Shield"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Condemn also creates a hammer that spirals around you, dealing 40 (+2.5 per level) damage to enemies it hits.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedHammer.png",
+                "lvl": 16,
+                "name": "Blessed Hammer"
+            },
+            {
+                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
+                "lvl": 20,
+                "name": "Indestructible"
+            }
+        ],
+        "winPercent": "63.4 %"
+    },
+    {
+        "gamesPlayed": "30",
+        "talents": [
+            {
+                "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/KnightTakesPawn.png",
+                "lvl": 1,
+                "name": "Knight Takes Pawn"
+            },
+            {
+                "desc": "Regenerate 1 Health per second.\nActivate to heal 20% of your max Health over 4 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LawsofHope.png",
+                "lvl": 4,
+                "name": "Laws of Hope"
+            },
+            {
+                "desc": "Condemn increases your Movement Speed by 25% for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Conviction.png",
+                "lvl": 7,
+                "name": "Conviction"
+            },
+            {
+                "desc": "Deal 70 (+9 per level) damage and stun the first enemy hit for 2 seconds. Blessed Shield then bounces to 2 nearby enemies, dealing 35 (+4.5 per level) damage and stunning them for 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BlessedShield.png",
+                "lvl": 10,
+                "name": "Blessed Shield"
+            },
+            {
+                "desc": "Deal 10 damage per second to nearby enemies.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BurningRage.png",
+                "lvl": 13,
+                "name": "Burning Rage"
+            },
+            {
+                "desc": "Every enemy Hero affected by Shield Glare heals you for 100 (+7.5 per level).",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/HolyRenewal.png",
+                "lvl": 16,
+                "name": "Holy Renewal"
+            },
+            {
+                "desc": "Upon taking fatal damage, gain a Shield equal to your maximum Health for 5 seconds. This ability has a 120 second cooldown.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Indestructible.png",
+                "lvl": 20,
+                "name": "Indestructible"
+            }
+        ],
+        "winPercent": "63.3 %"
+    },
+    {
+        "gamesPlayed": "27",
         "talents": [
             {
                 "desc": "Condemn deals 80 (+20 per level) additional damage to Minions and Mercenaries and stuns them for 4 seconds.",
@@ -477,6 +477,6 @@
                 "name": "Indestructible"
             }
         ],
-        "winPercent": "46.2 %"
+        "winPercent": "44.4 %"
     }
 ]

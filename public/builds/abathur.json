@@ -1,6 +1,6 @@
 [
     {
-        "gamesPlayed": "36",
+        "gamesPlayed": "34",
         "talents": [
             {
                 "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
@@ -45,7 +45,55 @@
                 "name": "Hivemind"
             }
         ],
-        "winPercent": "86.1 %"
+        "winPercent": "82.4 %"
+    },
+    {
+        "gamesPlayed": "15",
+        "talents": [
+            {
+                "desc": "Increases Locust's Health by 30% and duration by 40%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SurvivalInstincts.png",
+                "lvl": 1,
+                "name": "Survival Instincts"
+            },
+            {
+                "desc": "Symbiote host gains 25% increased Attack Speed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdrenalOverload.png",
+                "lvl": 4,
+                "name": "Adrenal Overload"
+            },
+            {
+                "desc": "Increases the damage and range of Symbiote's Stab by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Needlespine.png",
+                "lvl": 7,
+                "name": "Needlespine"
+            },
+            {
+                "desc": "Clone target allied Hero and control it for 20 seconds. Abathur has perfected the clone, granting it 20% Ability Power, 20% bonus Attack Damage, and 10% bonus Movement Speed. Cannot use their Heroic Ability.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UltimateEvolution.png",
+                "lvl": 10,
+                "name": "Ultimate Evolution"
+            },
+            {
+                "desc": "Locust's Basic Attacks become a long-range siege attack that deal 66.6667% more damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BombardStrain.png",
+                "lvl": 13,
+                "name": "Bombard Strain"
+            },
+            {
+                "desc": "Activate to spawn 3 Locusts at a nearby location.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustBrood.png",
+                "lvl": 16,
+                "name": "Locust Brood"
+            },
+            {
+                "desc": "Activate to create a nest that periodically spawns Locusts. Only one Locust Nest can be active at a time.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustNest.png",
+                "lvl": 20,
+                "name": "Locust Nest"
+            }
+        ],
+        "winPercent": "73.3 %"
     },
     {
         "gamesPlayed": "18",
@@ -93,58 +141,10 @@
                 "name": "Hivemind"
             }
         ],
-        "winPercent": "83.3 %"
+        "winPercent": "72.2 %"
     },
     {
-        "gamesPlayed": "17",
-        "talents": [
-            {
-                "desc": "Increases Locust's Health by 30% and duration by 40%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SurvivalInstincts.png",
-                "lvl": 1,
-                "name": "Survival Instincts"
-            },
-            {
-                "desc": "Symbiote host gains 25% increased Attack Speed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdrenalOverload.png",
-                "lvl": 4,
-                "name": "Adrenal Overload"
-            },
-            {
-                "desc": "Increases the damage and range of Symbiote's Stab by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Needlespine.png",
-                "lvl": 7,
-                "name": "Needlespine"
-            },
-            {
-                "desc": "Clone target allied Hero and control it for 20 seconds. Abathur has perfected the clone, granting it 20% Ability Power, 20% bonus Attack Damage, and 10% bonus Movement Speed. Cannot use their Heroic Ability.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UltimateEvolution.png",
-                "lvl": 10,
-                "name": "Ultimate Evolution"
-            },
-            {
-                "desc": "Locust's Basic Attacks become a long-range siege attack that deal 66.6667% more damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/BombardStrain.png",
-                "lvl": 13,
-                "name": "Bombard Strain"
-            },
-            {
-                "desc": "Activate to spawn 3 Locusts at a nearby location.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustBrood.png",
-                "lvl": 16,
-                "name": "Locust Brood"
-            },
-            {
-                "desc": "Activate to create a nest that periodically spawns Locusts. Only one Locust Nest can be active at a time.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LocustNest.png",
-                "lvl": 20,
-                "name": "Locust Nest"
-            }
-        ],
-        "winPercent": "76.5 %"
-    },
-    {
-        "gamesPlayed": "22",
+        "gamesPlayed": "28",
         "talents": [
             {
                 "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
@@ -189,10 +189,10 @@
                 "name": "Hivemind"
             }
         ],
-        "winPercent": "72.7 %"
+        "winPercent": "67.9 %"
     },
     {
-        "gamesPlayed": "16",
+        "gamesPlayed": "15",
         "talents": [
             {
                 "desc": "Increases Locust's Health by 30% and duration by 40%.",
@@ -237,106 +237,10 @@
                 "name": "Locust Nest"
             }
         ],
-        "winPercent": "68.8 %"
+        "winPercent": "66.7 %"
     },
     {
-        "gamesPlayed": "89",
-        "talents": [
-            {
-                "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PressurizedGlands.png",
-                "lvl": 1,
-                "name": "Pressurized Glands"
-            },
-            {
-                "desc": "Symbiote host gains 25% increased Attack Speed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdrenalOverload.png",
-                "lvl": 4,
-                "name": "Adrenal Overload"
-            },
-            {
-                "desc": "Increases the damage and range of Symbiote's Stab by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Needlespine.png",
-                "lvl": 7,
-                "name": "Needlespine"
-            },
-            {
-                "desc": "Turn an allied Minion or Locust into a Monstrosity. When enemy Minions near the Monstrosity die, it gains 5% Health and 5% Basic Attack damage, stacking up to 30 times.  The Monstrosity takes 50% less damage from Minions and Structures.\nUsing Symbiote on the Monstrosity allows you to control it, in addition to Symbiote's normal benefits.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvolveMonstrosity.png",
-                "lvl": 10,
-                "name": "Evolve Monstrosity"
-            },
-            {
-                "desc": "Symbiote's Spike Burst heals the host for 20 (+6 per level) Health per enemy Hero hit.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SomaTransference.png",
-                "lvl": 13,
-                "name": "Soma Transference"
-            },
-            {
-                "desc": "Your Symbiote's Spike Burst also slows enemy Movement Speed by 40% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpikes.png",
-                "lvl": 16,
-                "name": "Envenomed Spikes"
-            },
-            {
-                "desc": "Casting Symbiote creates an additional Symbiote on a nearby allied Hero.  This Symbiote mimics the commands of the first. If the second host moves too far away, it is destroyed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hivemind.png",
-                "lvl": 20,
-                "name": "Hivemind"
-            }
-        ],
-        "winPercent": "67.4 %"
-    },
-    {
-        "gamesPlayed": "109",
-        "talents": [
-            {
-                "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PressurizedGlands.png",
-                "lvl": 1,
-                "name": "Pressurized Glands"
-            },
-            {
-                "desc": "Symbiote host gains 25% increased Attack Speed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdrenalOverload.png",
-                "lvl": 4,
-                "name": "Adrenal Overload"
-            },
-            {
-                "desc": "Increases the damage and range of Symbiote's Stab by 20%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Needlespine.png",
-                "lvl": 7,
-                "name": "Needlespine"
-            },
-            {
-                "desc": "Clone target allied Hero and control it for 20 seconds. Abathur has perfected the clone, granting it 20% Ability Power, 20% bonus Attack Damage, and 10% bonus Movement Speed. Cannot use their Heroic Ability.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UltimateEvolution.png",
-                "lvl": 10,
-                "name": "Ultimate Evolution"
-            },
-            {
-                "desc": "Symbiote's Spike Burst heals the host for 20 (+6 per level) Health per enemy Hero hit.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SomaTransference.png",
-                "lvl": 13,
-                "name": "Soma Transference"
-            },
-            {
-                "desc": "Your Symbiote's Spike Burst also slows enemy Movement Speed by 40% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpikes.png",
-                "lvl": 16,
-                "name": "Envenomed Spikes"
-            },
-            {
-                "desc": "Casting Symbiote creates an additional Symbiote on a nearby allied Hero.  This Symbiote mimics the commands of the first. If the second host moves too far away, it is destroyed.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hivemind.png",
-                "lvl": 20,
-                "name": "Hivemind"
-            }
-        ],
-        "winPercent": "60.6 %"
-    },
-    {
-        "gamesPlayed": "38",
+        "gamesPlayed": "36",
         "talents": [
             {
                 "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
@@ -381,10 +285,106 @@
                 "name": "Hivemind"
             }
         ],
-        "winPercent": "57.9 %"
+        "winPercent": "63.9 %"
     },
     {
-        "gamesPlayed": "31",
+        "gamesPlayed": "83",
+        "talents": [
+            {
+                "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PressurizedGlands.png",
+                "lvl": 1,
+                "name": "Pressurized Glands"
+            },
+            {
+                "desc": "Symbiote host gains 25% increased Attack Speed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdrenalOverload.png",
+                "lvl": 4,
+                "name": "Adrenal Overload"
+            },
+            {
+                "desc": "Increases the damage and range of Symbiote's Stab by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Needlespine.png",
+                "lvl": 7,
+                "name": "Needlespine"
+            },
+            {
+                "desc": "Turn an allied Minion or Locust into a Monstrosity. When enemy Minions near the Monstrosity die, it gains 5% Health and 5% Basic Attack damage, stacking up to 30 times.  The Monstrosity takes 50% less damage from Minions and Structures.\nUsing Symbiote on the Monstrosity allows you to control it, in addition to Symbiote's normal benefits.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EvolveMonstrosity.png",
+                "lvl": 10,
+                "name": "Evolve Monstrosity"
+            },
+            {
+                "desc": "Symbiote's Spike Burst heals the host for 20 (+6 per level) Health per enemy Hero hit.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SomaTransference.png",
+                "lvl": 13,
+                "name": "Soma Transference"
+            },
+            {
+                "desc": "Your Symbiote's Spike Burst also slows enemy Movement Speed by 40% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpikes.png",
+                "lvl": 16,
+                "name": "Envenomed Spikes"
+            },
+            {
+                "desc": "Casting Symbiote creates an additional Symbiote on a nearby allied Hero.  This Symbiote mimics the commands of the first. If the second host moves too far away, it is destroyed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hivemind.png",
+                "lvl": 20,
+                "name": "Hivemind"
+            }
+        ],
+        "winPercent": "63.9 %"
+    },
+    {
+        "gamesPlayed": "104",
+        "talents": [
+            {
+                "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PressurizedGlands.png",
+                "lvl": 1,
+                "name": "Pressurized Glands"
+            },
+            {
+                "desc": "Symbiote host gains 25% increased Attack Speed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/AdrenalOverload.png",
+                "lvl": 4,
+                "name": "Adrenal Overload"
+            },
+            {
+                "desc": "Increases the damage and range of Symbiote's Stab by 20%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Needlespine.png",
+                "lvl": 7,
+                "name": "Needlespine"
+            },
+            {
+                "desc": "Clone target allied Hero and control it for 20 seconds. Abathur has perfected the clone, granting it 20% Ability Power, 20% bonus Attack Damage, and 10% bonus Movement Speed. Cannot use their Heroic Ability.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/UltimateEvolution.png",
+                "lvl": 10,
+                "name": "Ultimate Evolution"
+            },
+            {
+                "desc": "Symbiote's Spike Burst heals the host for 20 (+6 per level) Health per enemy Hero hit.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SomaTransference.png",
+                "lvl": 13,
+                "name": "Soma Transference"
+            },
+            {
+                "desc": "Your Symbiote's Spike Burst also slows enemy Movement Speed by 40% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/EnvenomedSpikes.png",
+                "lvl": 16,
+                "name": "Envenomed Spikes"
+            },
+            {
+                "desc": "Casting Symbiote creates an additional Symbiote on a nearby allied Hero.  This Symbiote mimics the commands of the first. If the second host moves too far away, it is destroyed.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hivemind.png",
+                "lvl": 20,
+                "name": "Hivemind"
+            }
+        ],
+        "winPercent": "61.5 %"
+    },
+    {
+        "gamesPlayed": "27",
         "talents": [
             {
                 "desc": "Increases the range of Symbiote's Spike Burst by 25% and decreases the cooldown by 1 second.",
@@ -429,10 +429,10 @@
                 "name": "Hivemind"
             }
         ],
-        "winPercent": "54.8 %"
+        "winPercent": "55.6 %"
     },
     {
-        "gamesPlayed": "22",
+        "gamesPlayed": "19",
         "talents": [
             {
                 "desc": "Increases Locust's Health by 30% and duration by 40%.",
@@ -477,6 +477,6 @@
                 "name": "Hivemind"
             }
         ],
-        "winPercent": "50.0 %"
+        "winPercent": "52.6 %"
     }
 ]

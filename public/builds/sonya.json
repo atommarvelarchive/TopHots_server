@@ -48,151 +48,7 @@
         "winPercent": "100.0 %"
     },
     {
-        "gamesPlayed": "4",
-        "talents": [
-            {
-                "desc": "Basic Attacks heal you for 30% of the damage dealt.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WarPaint.png",
-                "lvl": 1,
-                "name": "War Paint"
-            },
-            {
-                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
-                "lvl": 4,
-                "name": "Focused Attack"
-            },
-            {
-                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
-                "lvl": 7,
-                "name": "Follow Through"
-            },
-            {
-                "desc": "Increases damage dealt by 40%. Reduces the duration of silences, stuns, slows, roots, and polymorphs against you by 50%. Lasts 15 seconds, and extends by 1 second for every 10 Fury gained.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathoftheBerserker.png",
-                "lvl": 10,
-                "name": "Wrath of the Berserker"
-            },
-            {
-                "desc": "Increases the healing of Whirlwind to 35%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeFunnel.png",
-                "lvl": 13,
-                "name": "Life Funnel"
-            },
-            {
-                "desc": "Increases Seismic Slam damage by 40%, but now costs 35 Fury.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuriousBlow.png",
-                "lvl": 16,
-                "name": "Furious Blow"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
-                "lvl": 20,
-                "name": "Ignore Pain"
-            }
-        ],
-        "winPercent": "100.0 %"
-    },
-    {
-        "gamesPlayed": "3",
-        "talents": [
-            {
-                "desc": "Basic Attacks heal you for 30% of the damage dealt.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WarPaint.png",
-                "lvl": 1,
-                "name": "War Paint"
-            },
-            {
-                "desc": "Casting Whirlwind removes all slows and roots.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Hurricane.png",
-                "lvl": 4,
-                "name": "Hurricane"
-            },
-            {
-                "desc": "Increases the range of Ancient Spear by 30%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/CompositeSpear.png",
-                "lvl": 7,
-                "name": "Composite Spear"
-            },
-            {
-                "desc": "Leap into the air, dealing 50 (+11 per level) damage to nearby enemies, stunning them for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Leap.png",
-                "lvl": 10,
-                "name": "Leap"
-            },
-            {
-                "desc": "Reduces the cooldown of Ancient Spear by 4 seconds. You are pulled to the target location even if you don't hit an enemy.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MysticalSpear.png",
-                "lvl": 13,
-                "name": "Mystical Spear"
-            },
-            {
-                "desc": "Increases Seismic Slam damage by 40%, but now costs 35 Fury.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuriousBlow.png",
-                "lvl": 16,
-                "name": "Furious Blow"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
-                "lvl": 20,
-                "name": "Ignore Pain"
-            }
-        ],
-        "winPercent": "100.0 %"
-    },
-    {
-        "gamesPlayed": "4",
-        "talents": [
-            {
-                "desc": "Basic Attacks heal you for 30% of the damage dealt.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WarPaint.png",
-                "lvl": 1,
-                "name": "War Paint"
-            },
-            {
-                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
-                "lvl": 4,
-                "name": "Focused Attack"
-            },
-            {
-                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
-                "lvl": 7,
-                "name": "Follow Through"
-            },
-            {
-                "desc": "Increases damage dealt by 40%. Reduces the duration of silences, stuns, slows, roots, and polymorphs against you by 50%. Lasts 15 seconds, and extends by 1 second for every 10 Fury gained.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathoftheBerserker.png",
-                "lvl": 10,
-                "name": "Wrath of the Berserker"
-            },
-            {
-                "desc": "Reduces the cooldown of Ancient Spear by 4 seconds. You are pulled to the target location even if you don't hit an enemy.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MysticalSpear.png",
-                "lvl": 13,
-                "name": "Mystical Spear"
-            },
-            {
-                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NervesofSteel.png",
-                "lvl": 16,
-                "name": "Nerves of Steel"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
-                "lvl": 20,
-                "name": "Ignore Pain"
-            }
-        ],
-        "winPercent": "75.0 %"
-    },
-    {
-        "gamesPlayed": "11",
+        "gamesPlayed": "8",
         "talents": [
             {
                 "desc": "Basic Attacks heal you for 30% of the damage dealt.",
@@ -237,7 +93,247 @@
                 "name": "Ignore Pain"
             }
         ],
-        "winPercent": "72.7 %"
+        "winPercent": "87.5 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Basic Attacks heal you for 30% of the damage dealt.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WarPaint.png",
+                "lvl": 1,
+                "name": "War Paint"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Increases damage dealt by 40%. Reduces the duration of silences, stuns, slows, roots, and polymorphs against you by 50%. Lasts 15 seconds, and extends by 1 second for every 10 Fury gained.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathoftheBerserker.png",
+                "lvl": 10,
+                "name": "Wrath of the Berserker"
+            },
+            {
+                "desc": "Reduces the cooldown of Ancient Spear by 4 seconds. You are pulled to the target location even if you don't hit an enemy.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MysticalSpear.png",
+                "lvl": 13,
+                "name": "Mystical Spear"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NervesofSteel.png",
+                "lvl": 16,
+                "name": "Nerves of Steel"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
+                "lvl": 20,
+                "name": "Ignore Pain"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Activate to gain 50 Fury.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShotofFury.png",
+                "lvl": 1,
+                "name": "Shot of Fury"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Increases damage dealt by 40%. Reduces the duration of silences, stuns, slows, roots, and polymorphs against you by 50%. Lasts 15 seconds, and extends by 1 second for every 10 Fury gained.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathoftheBerserker.png",
+                "lvl": 10,
+                "name": "Wrath of the Berserker"
+            },
+            {
+                "desc": "Using Seismic Slam reduces its Fury cost by 50% for 2 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Aftershock.png",
+                "lvl": 13,
+                "name": "Aftershock"
+            },
+            {
+                "desc": "Increases Seismic Slam damage by 40%, but now costs 35 Fury.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FuriousBlow.png",
+                "lvl": 16,
+                "name": "Furious Blow"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
+                "lvl": 20,
+                "name": "Ignore Pain"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Basic Attacks heal you for 30% of the damage dealt.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WarPaint.png",
+                "lvl": 1,
+                "name": "War Paint"
+            },
+            {
+                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
+                "lvl": 4,
+                "name": "Focused Attack"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Increases damage dealt by 40%. Reduces the duration of silences, stuns, slows, roots, and polymorphs against you by 50%. Lasts 15 seconds, and extends by 1 second for every 10 Fury gained.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/WrathoftheBerserker.png",
+                "lvl": 10,
+                "name": "Wrath of the Berserker"
+            },
+            {
+                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
+                "lvl": 13,
+                "name": "Spell Shield"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NervesofSteel.png",
+                "lvl": 16,
+                "name": "Nerves of Steel"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
+                "lvl": 20,
+                "name": "Ignore Pain"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Increases Seismic Slam splash damage to 75% of primary target damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShatteredGround.png",
+                "lvl": 4,
+                "name": "Shattered Ground"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Leap into the air, dealing 50 (+11 per level) damage to nearby enemies, stunning them for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Leap.png",
+                "lvl": 10,
+                "name": "Leap"
+            },
+            {
+                "desc": "Increases the healing of Whirlwind to 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeFunnel.png",
+                "lvl": 13,
+                "name": "Life Funnel"
+            },
+            {
+                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NervesofSteel.png",
+                "lvl": 16,
+                "name": "Nerves of Steel"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
+                "lvl": 20,
+                "name": "Ignore Pain"
+            }
+        ],
+        "winPercent": "66.7 %"
+    },
+    {
+        "gamesPlayed": "3",
+        "talents": [
+            {
+                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
+                "lvl": 1,
+                "name": "Block"
+            },
+            {
+                "desc": "Increases Seismic Slam splash damage to 75% of primary target damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShatteredGround.png",
+                "lvl": 4,
+                "name": "Shattered Ground"
+            },
+            {
+                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
+                "lvl": 7,
+                "name": "Follow Through"
+            },
+            {
+                "desc": "Leap into the air, dealing 50 (+11 per level) damage to nearby enemies, stunning them for 1.5 seconds.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Leap.png",
+                "lvl": 10,
+                "name": "Leap"
+            },
+            {
+                "desc": "Increases the healing of Whirlwind to 35%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/LifeFunnel.png",
+                "lvl": 13,
+                "name": "Life Funnel"
+            },
+            {
+                "desc": "Increases the Movement Speed bonus from using Basic and Heroic Abilities to 25%.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NoEscape.png",
+                "lvl": 16,
+                "name": "No Escape"
+            },
+            {
+                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
+                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
+                "lvl": 20,
+                "name": "Ignore Pain"
+            }
+        ],
+        "winPercent": "66.7 %"
     },
     {
         "gamesPlayed": "5",
@@ -288,7 +384,7 @@
         "winPercent": "60.0 %"
     },
     {
-        "gamesPlayed": "4",
+        "gamesPlayed": "3",
         "talents": [
             {
                 "desc": "Basic Attacks heal you for 30% of the damage dealt.",
@@ -315,106 +411,10 @@
                 "name": "Wrath of the Berserker"
             },
             {
-                "desc": "Upon taking Ability Damage, reduce that damage and further Ability Damage by 50% for 3 seconds.  Can only trigger once every 30 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/SpellShield.png",
-                "lvl": 13,
-                "name": "Spell Shield"
-            },
-            {
-                "desc": "Activate to gain 30% of your maximum Health as a Shield for 5 seconds.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/NervesofSteel.png",
-                "lvl": 16,
-                "name": "Nerves of Steel"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
-                "lvl": 20,
-                "name": "Ignore Pain"
-            }
-        ],
-        "winPercent": "50.0 %"
-    },
-    {
-        "gamesPlayed": "3",
-        "talents": [
-            {
-                "desc": "Periodically reduces the damage received from Hero Basic Attacks by 50%.  Stores up to 2 charges.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Block.png",
-                "lvl": 1,
-                "name": "Block"
-            },
-            {
-                "desc": "Every 10 seconds, your next Basic Attack deals 75% additional damage.  Basic Attacks reduce this cooldown by 1 second.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FocusedAttack.png",
-                "lvl": 4,
-                "name": "Focused Attack"
-            },
-            {
-                "desc": "Ancient Spear deals an additional 75% damage over 4 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/PoisonedSpear.png",
-                "lvl": 7,
-                "name": "Poisoned Spear"
-            },
-            {
-                "desc": "Leap into the air, dealing 50 (+11 per level) damage to nearby enemies, stunning them for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Leap.png",
-                "lvl": 10,
-                "name": "Leap"
-            },
-            {
                 "desc": "Reduces the cooldown of Ancient Spear by 4 seconds. You are pulled to the target location even if you don't hit an enemy.",
                 "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/MysticalSpear.png",
                 "lvl": 13,
                 "name": "Mystical Spear"
-            },
-            {
-                "desc": "Enemies that attack you have their Attack Speed slowed by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ImposingPresence.png",
-                "lvl": 16,
-                "name": "Imposing Presence"
-            },
-            {
-                "desc": "Activate to reduce damage taken by 75% for 4 seconds.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/IgnorePain.png",
-                "lvl": 20,
-                "name": "Ignore Pain"
-            }
-        ],
-        "winPercent": "33.3 %"
-    },
-    {
-        "gamesPlayed": "3",
-        "talents": [
-            {
-                "desc": "Activate to gain 50 Fury.\nUsable while Whirlwinding.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/ShotofFury.png",
-                "lvl": 1,
-                "name": "Shot of Fury"
-            },
-            {
-                "desc": "Reduce damage taken from Minions, Structures, and Mercenaries by 50%.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Superiority.png",
-                "lvl": 4,
-                "name": "Superiority"
-            },
-            {
-                "desc": "After using an ability, your next Basic Attack within 6 seconds deals 40% additional damage.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/FollowThrough.png",
-                "lvl": 7,
-                "name": "Follow Through"
-            },
-            {
-                "desc": "Leap into the air, dealing 50 (+11 per level) damage to nearby enemies, stunning them for 1.5 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Leap.png",
-                "lvl": 10,
-                "name": "Leap"
-            },
-            {
-                "desc": "Using Seismic Slam reduces its Fury cost by 50% for 2 seconds.",
-                "img": "//d1i1jxrdh2kvwy.cloudfront.net/Images/Talents/Aftershock.png",
-                "lvl": 13,
-                "name": "Aftershock"
             },
             {
                 "desc": "Increases Seismic Slam damage by 40%, but now costs 35 Fury.",
